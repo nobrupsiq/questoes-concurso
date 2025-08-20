@@ -1,0 +1,1661 @@
+[
+  {
+    "texto": null,
+    "pergunta": "A lei que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá início ao Sistema Único de Saúde, o SUS, é a Lei:",
+    "alternativas": [
+      "nº 8.080 de 1990",
+      "nº 8.142 de 1990",
+      "nº 8.666 de 1993",
+      "nº 8.213 de 1991",
+      "nº 8.212 de 1991"
+    ],
+    "correta": "nº 8.080 de 1990",
+    "comentario": "A alternativa A está correta. A Lei nº 8.080/1990, conhecida como a Lei Orgânica da Saúde, é a principal legislação que regulamenta o SUS em todo o território nacional, definindo seus princípios, diretrizes, organização e funcionamento."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Conferência de Saúde, uma das instâncias colegiadas do Sistema Único de Saúde, é realizada em caráter extraordinário ou em periodicidade pré-determinada por lei. A periodicidade em anos, segundo esta mesma lei, deve ser de:",
+    "alternativas": ["2 em 2", "3 em 3", "4 em 4", "5 em 5", "6 em 6"],
+    "correta": "4 em 4",
+    "comentario": "A alternativa C está correta. De acordo com a Lei nº 8.142/90, a Conferência de Saúde deve se reunir a cada quatro anos para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes."
+  },
+  {
+    "texto": null,
+    "pergunta": "É um inseticida químico utilizável pelo agente de endemias para o controle de vetores no caso da leishmaniose visceral:",
+    "alternativas": [
+      "furosemida",
+      "dexclorfeniramina",
+      "acetilcisteína",
+      "permetrina",
+      "deltametrina"
+    ],
+    "correta": "deltametrina",
+    "comentario": "A alternativa E está correta. A deltametrina é um inseticida do grupo dos piretroides, amplamente utilizado em saúde pública para o controle de vetores, incluindo o Lutzomyia longipalpis, transmissor da leishmaniose visceral. As outras opções são medicamentos para uso humano com outras finalidades."
+  },
+  {
+    "texto": null,
+    "pergunta": "A infecção por Chikungunya pode gerar quadro sintomatológico típico ou atípico. É um sintoma considerado atípico:",
+    "alternativas": [
+      "mialgia",
+      "arritmia",
+      "atralgia",
+      "febre",
+      "conjuntivite"
+    ],
+    "correta": "arritmia",
+    "comentario": "A alternativa B está correta. Febre, mialgia (dor muscular), atralgia (dor nas articulações) e conjuntivite são sintomas comuns e típicos da Chikungunya. A arritmia cardíaca é uma manifestação rara e atípica da doença."
+  },
+  {
+    "texto": null,
+    "pergunta": "O período de incubação da febre amarela, em dias, é de:",
+    "alternativas": ["3 a 6", "3 a 7", "3 a 8", "3 a 9", "3 a 10"],
+    "correta": "3 a 6",
+    "comentario": "A alternativa A está correta. O período de incubação da febre amarela (tempo entre a picada do mosquito infectado e o início dos sintomas) é geralmente curto, variando de 3 a 6 dias."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o Ministério da Saúde, é um fundamento da Atenção Básica:",
+    "alternativas": [
+      "desenvolver relações de vinculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
+      "garantir infraestrutura necessária ao funcionamento das unidades básicas de saúde, dotando-as de recursos materiais, equipamentos e insumos suficientes para o conjunto de ações propostas",
+      "selecionar, contratar e remunerar os profissionais que compõem as equipes multiprofissionais da Saúde da Família, em conformidade com a legislação vigente",
+      "verificar a qualidade e a consistência dos dados alimentados nos sistemas nacionais de informação",
+      "estimular e viabilizar a capacitação e a educação permanente dos profissionais das equipes"
+    ],
+    "correta": "desenvolver relações de vinculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
+    "comentario": "A alternativa A descreve o fundamento da Longitudinalidade e do Vínculo, que é central para a Atenção Básica. As outras alternativas, embora sejam importantes para o funcionamento do sistema, descrevem aspectos de gestão e infraestrutura, e não os fundamentos conceituais do cuidado na Atenção Básica."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Portaria nº 5, de 21 de fevereiro de 2006, inclui doenças na relação nacional de notificação compulsória e define doenças de notificação imediata. Segundo essa portaria, é uma doença de notificação imediata a:",
+    "alternativas": ["malária", "peste", "rubéola", "cólera", "tularemia"],
+    "correta": "cólera",
+    "comentario": "A alternativa D está correta. A cólera, por seu alto potencial epidêmico, exige notificação imediata (em até 24 horas) às autoridades sanitárias para que medidas de controle sejam tomadas rapidamente. (Observação: A lista de notificação é atualizada periodicamente, mas a cólera permanece como de notificação imediata)."
+  },
+  {
+    "texto": null,
+    "pergunta": "O acidente ofídico de maior importância epidemiológica no Brasil, sendo responsável por noventa por cento dos envenenamentos é o:",
+    "alternativas": [
+      "crotálico",
+      "botrópico",
+      "laquético",
+      "elapídico",
+      "traquético"
+    ],
+    "correta": "botrópico",
+    "comentario": "A alternativa B está correta. O envenenamento botrópico, causado por serpentes do gênero Bothrops (como jararacas, urutus e caiçacas), é o tipo de acidente com cobras peçonhentas mais comum no Brasil, respondendo por cerca de 90% dos casos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Das espécies brasileiras de roedores, apenas uma possui, simultaneamente, vida média de doze meses, raio de ação de três a cinco metros e o hábito da neofilia, ou seja, ímpeto explorador. Trata-se da espécie de roedor denominada:",
+    "alternativas": [
+      "Rattus norvegicus",
+      "Trichomys spp",
+      "Akodon spp",
+      "Oligoryzomys spp",
+      "Mus musculus"
+    ],
+    "correta": "Mus musculus",
+    "comentario": "A alternativa E está correta. O Mus musculus, conhecido como camundongo, é um roedor pequeno com grande curiosidade (neofilia), que explora o ambiente em um raio de ação curto (3 a 5 metros) e tem um ciclo de vida de aproximadamente um ano, características que o diferenciam das ratazanas (Rattus norvegicus), que são neofóbicas (têm medo do novo)."
+  },
+  {
+    "texto": null,
+    "pergunta": "A prova do laço é um recurso importante para o diagnóstico da dengue. Essa prova terá seu resultado positivo quando for contabilizado um determinado número de petéquias (manchas avermelhadas). O número mínimo de petéquias que assegura positividade nesse teste em adultos e crianças é, respectivamente:",
+    "alternativas": ["10 e 5", "20 e 10", "30 e 15", "40 e 20", "50 e 25"],
+    "correta": "20 e 10",
+    "comentario": "A alternativa B está correta. A prova do laço é considerada positiva se, após o procedimento, surgirem 20 ou mais petéquias em adultos, ou 10 ou mais petéquias em crianças, dentro do quadrado de 2,5 cm x 2,5 cm desenhado no antebraço. Isso indica fragilidade capilar, um sinal sugestivo de dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "O processo que remove ou mata a maioria dos microrganismos patogênicos, excetuando-se os esporos em uma superficie inerte, e que pode ser realizado, por exemplo, por vapor úmido, água fervente, cloro ou álcool a setenta por cento denomina-se:",
+    "alternativas": [
+      "esterilização",
+      "antissepsia",
+      "assepsia",
+      "desinfecção",
+      "limpeza"
+    ],
+    "correta": "desinfecção",
+    "comentario": "A alternativa D está correta. A desinfecção é o processo que elimina microrganismos patogênicos de superfícies inanimadas, mas não necessariamente elimina os esporos bacterianos. A esterilização, por sua vez, elimina todas as formas de vida, incluindo os esporos."
+  },
+  {
+    "texto": null,
+    "pergunta": "No que diz respeito às relações estabelecidas no ambiente de trabalho, é preciso que a atenção seja redobrada para que eventuais conflitos não prejudiquem o processo produtivo que transcorre, na maioria das vezes, interligando as práticas individuais a um só fim. Nesse sentido, podemos afirmar que os conflitos podem prejudicar, principalmente:",
+    "alternativas": [
+      "A visão que os clientes ou usuários têm da empresa ou instituição.",
+      "A saúde dos funcionários.",
+      "A imagem de toda a equipe diante dos superiores.",
+      "O trabalho em equipe.",
+      "A eficiência de cada um."
+    ],
+    "correta": "O trabalho em equipe.",
+    "comentario": "A alternativa D está correta. Embora todas as outras opções possam ser consequências de conflitos, a mais direta e primariamente afetada é a capacidade dos indivíduos de colaborarem efetivamente, ou seja, o trabalho em equipe. Um bom trabalho em equipe é essencial para o processo produtivo."
+  },
+  {
+    "texto": null,
+    "pergunta": "A ética profissional no serviço público é fundamentada em valores, que até configuram um dos princípios que regem o serviço público, permitindo julgamento do certo ou do errado, do bem ou mal. Esses valores estão relacionados à:",
+    "alternativas": [
+      "Moralidade.",
+      "Consciência.",
+      "Persistência.",
+      "Impessoalidade.",
+      "Individualidade."
+    ],
+    "correta": "Moralidade.",
+    "comentario": "A alternativa A está correta. A ética no serviço público está intrinsecamente ligada ao princípio da Moralidade, que exige do agente público uma conduta honesta, íntegra e de acordo com os padrões éticos e morais da sociedade e da administração."
+  },
+  {
+    "texto": null,
+    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir:\n( ) Os serviços de saúde devem estar organizados em níveis decrescentes de complexidade (atenção primária, atenção secundária e atenção terciária).\n( ) Os serviços de saúde devem estar localizados em áreas geográficas específicas, planejados com base nas necessidades dos diversos usuários.\n( ) O SUS deve ser centralizado, prevendo a divisão de responsabilidades entre as três esferas do governo: gestores federais, estaduais e municipais.",
+    "alternativas": [
+      "V, F, V.",
+      "F, V, F.",
+      "F, V, V.",
+      "V, V, V.",
+      "V, V, F."
+    ],
+    "correta": "F, V, F.",
+    "comentario": "A alternativa B está correta.\n1ª (F): Os níveis são de complexidade CRESCENTE (primária, secundária, terciária).\n2ª (V): Isso descreve os princípios de Regionalização e Territorialização.\n3ª (F): O SUS é DESCENTRALIZADO, com responsabilidades compartilhadas entre União, Estados e Municípios."
+  },
+  {
+    "texto": null,
+    "pergunta": "A educação em saúde também exerce importante papel nesse processo. Acerca da educação em saúde, julgue as afirmativas abaixo:\nI. A Educação em Saúde se constitui como um conjunto de práticas antissociais, de conteúdo técnico que no âmbito das práticas de atenção à saúde deve ser vivenciada e compartilhada pelos trabalhadores da área, pelos setores organizados da população e consumidores de bens e serviços de saúde e de saneamento ambiental.\nII. A Educação em Saúde é uma prática social, cujo processo contribui para a formação da consciência crítica das pessoas a respeito de seus problemas de saúde, a partir da sua realidade, e estimula a busca de soluções e organização para a ação individual e coletiva.\nIII. Educação em Saúde é um processo assistemático, descontínuo e temporário que objetiva a formação e o desenvolvimento da consciência crítica do cidadão, estimulando a busca de soluções coletivas para os problemas vivenciados e a sua \"participação real\" no exercício do controle social.",
+    "alternativas": [
+      "II e III, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "I, apenas."
+    ],
+    "correta": "II, apenas.",
+    "comentario": "A alternativa B está correta. A afirmativa II define corretamente a Educação em Saúde como uma prática social e crítica. A afirmativa I está incorreta ao chamá-la de 'antissocial' (é o oposto). A afirmativa III está incorreta ao defini-la como 'assistemático, descontínuo e temporário' (deve ser um processo contínuo e sistemático)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Acerca dos fundamentos da Vigilância em Saúde, marque a alternativa CORRETA:",
+    "alternativas": [
+      "A Vigilância em Saúde, visando a integralidade do cuidado, deve inserir-se na construção das redes de atenção à saúde, coordenadas pela Atenção Primária à Saúde.",
+      "A vigilância da saúde do trabalhador não está incluída do conceito de Vigilância em Saúde.",
+      "As ações da Vigilância em Saúde incluem somente a promoção e a prevenção, mas nunca o controle de doenças e agravos à saúde.",
+      "A vigilância em saúde deve estar cotidianamente inserida somente nos níveis primário e secundário da atenção da saúde."
+    ],
+    "correta": "A Vigilância em Saúde, visando a integralidade do cuidado, deve inserir-se na construção das redes de atenção à saúde, coordenadas pela Atenção Primária à Saúde.",
+    "comentario": "A alternativa A está correta. A Vigilância em Saúde atua de forma articulada com a Atenção Primária para garantir a integralidade do cuidado, observando e analisando a situação de saúde da população em seus territórios. As demais estão incorretas pois a vigilância inclui a saúde do trabalhador, o controle de doenças e atua em todos os níveis de atenção."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Agente Comunitário de Saúde-ACS e o Agente de Combate a Endemias-ACE são co-responsáveis pelo controle da dengue e devem trabalhar de forma integrada. Nesse contexto, todas as alternativas apresentam competências do ACS, EXCETO:",
+    "alternativas": [
+      "Orientar e acompanhar o morador na remoção, destruição ou vedação de objetos que possam se transformar em criadouros de mosquitos.",
+      "Encaminhar os casos suspeitos de dengue à Unidade Básica de Saúde, de acordo com as orientações da Secretaria Municipal de Saúde.",
+      "Atuar junto aos domicílios, informando aos seus moradores sobre a doença seus sintomas e riscos sobre o agente transmissor e as medidas de prevenção.",
+      "Vistoriar imóveis não residenciais, acompanhado pelo responsável, para identificar locais e objetos que sejam ou possam se transformar em criadouros de mosquito transmissor da dengue, e, quando necessário, aplicar larvicida."
+    ],
+    "correta": "Vistoriar imóveis não residenciais, acompanhado pelo responsável, para identificar locais e objetos que sejam ou possam se transformar em criadouros de mosquito transmissor da dengue, e, quando necessário, aplicar larvicida.",
+    "comentario": "A alternativa D descreve uma atribuição específica do Agente de Combate a Endemias (ACE), especialmente a vistoria de imóveis não residenciais (pontos estratégicos) e a aplicação de larvicida, que é uma ação técnica de controle vetorial. As demais opções são ações educativas e de vigilância que competem ao Agente Comunitário de Saúde (ACS)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Acerca do ciclo de vida e da biologia do Aedes aegypti, marque a alternativa CORRETA:",
+    "alternativas": [
+      "É um inseto holometabólico; a fase larvária é o período de alimentação e crescimento.",
+      "As pupas do Aedes aegypti representam a fase reprodutora do inseto.",
+      "A pupa é dividida em cabeça, tórax e abdômen.",
+      "As larvas possuem seis estágios evolutivos."
+    ],
+    "correta": "É um inseto holometabólico; a fase larvária é o período de alimentação e crescimento.",
+    "comentario": "A alternativa A está correta. Holometabólico significa que o inseto passa por uma metamorfose completa (ovo, larva, pupa, adulto). A fase de larva é aquática e dedicada à alimentação para acumular energia para as fases seguintes. A fase reprodutora é a adulta (alado), a pupa é uma fase de transformação e as larvas passam por quatro estágios, não seis."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação a dengue, marque a alternativa correta:",
+    "alternativas": [
+      "Os vírus dengue (DENV) estão classificados cientificamente na família Flaviviridae e no gênero Flavivirus.",
+      "A dengue é transmitida pela picada do macho do mosquito Aedes aegypti.",
+      "Até o momento são conhecidos três sorotipos do vírus - DENV-1, DENV-2 e DENV-3, que apresentam distintos materiais genéticos (genótipos) e linhagens.",
+      "Somente pessoas mais velhas e aquelas que possuem doenças crônicas, como diabetes e hipertensão arterial são suscetíveis à doença."
+    ],
+    "correta": "Os vírus dengue (DENV) estão classificados cientificamente na família Flaviviridae e no gênero Flavivirus.",
+    "comentario": "A alternativa A está correta. Esta é a classificação taxonômica correta do vírus da dengue. As outras estão erradas: apenas a fêmea do Aedes aegypti pica e transmite a doença; existem quatro sorotipos conhecidos (DENV-1, DENV-2, DENV-3 e DENV-4); e todas as pessoas, de qualquer idade, são suscetíveis à dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "Acerca dos procedimentos para notificação de casos suspeitos de dengue, chikungunya e Zika, marque a alternativa INCORRETA:",
+    "alternativas": [
+      "Todos os casos de dengue devem ser notificados ao Ministério da Saúde em até 24 horas.",
+      "A notificação deve ser realizada por meio do Sistema de Informação de Agravos de Notificação - Sinan.",
+      "A notificação de casos de Febre de Chikungunya em áreas sem transmissão deve ser imediata.",
+      "A notificação de casos de Doença aguda pelo vírus Zika deve ser semanal, porém quando ocorre em gestantes deve ser imediata."
+    ],
+    "correta": "Todos os casos de dengue devem ser notificados ao Ministério da Saúde em até 24 horas.",
+    "comentario": "A alternativa A está incorreta e, portanto, é a resposta. A notificação de casos de dengue é, em geral, semanal (compulsória).A notificação imediata (em 24 horas) é reservada para casos graves, óbitos suspeitos de dengue ou em situações de epidemia, não para 'todos os casos'."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta o Princípio do Sistema Único de Saúde (SUS) que determina a todos os cidadãos brasileiros, sem qualquer tipo de discriminação, o direito ao acesso às ações e aos serviços de saúde.",
+    "alternativas": [
+      "Integralidade",
+      "Resolutividade",
+      "Universalidade",
+      "Territorialização"
+    ],
+    "correta": "Universalidade",
+    "comentario": "A alternativa C está correta. O princípio da Universalidade do SUS estabelece que a saúde é um direito de todos e um dever do Estado, garantindo o acesso universal e igualitário a todos os cidadãos, sem distinção."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta a doença de notificação compulsória.",
+    "alternativas": ["varíola", "câncer", "diabetes", "esclerose múltipla"],
+    "correta": "varíola",
+    "comentario": "A alternativa A é a correta. A varíola, embora erradicada, consta na Lista de Notificação Compulsória Imediata devido ao seu altíssimo risco para a saúde pública caso um único caso ressurja. As outras são doenças crônicas não transmissíveis e não fazem parte da lista de notificação compulsória."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é uma doença que pode ser transmitida para os humanos através da exposição direta ou indireta à urina de animais sinantrópicos infectados. Os principais reservatórios transmissores dessa doença são",
+    "alternativas": ["sapos.", "lagartos.", "mexilhões.", "roedores."],
+    "correta": "roedores.",
+    "comentario": "A alternativa D está correta. Os roedores, principalmente os ratos de esgoto (Rattus norvegicus), são os principais reservatórios da bactéria Leptospira, que causa a leptospirose. Eles eliminam a bactéria pela urina, contaminando água e solo."
+  },
+  {
+    "texto": null,
+    "pergunta": "A lei que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá início ao Sistema Único de Saúde, o SUS, é a Lei:",
+    "alternativas": [
+      "nº 8.080 de 1990",
+      "nº 8.142 de 1990",
+      "nº 8.666 de 1993",
+      "nº 8.213 de 1991",
+      "nº 8.212 de 1991"
+    ],
+    "correta": "nº 8.080 de 1990",
+    "comentario": "A Lei nº 8.080/1990 dispõe sobre a organização e funcionamento do SUS, estabelecendo as condições para a promoção, proteção e recuperação da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Conferência de Saúde, uma das instâncias colegiadas do Sistema Único de Saúde, é realizada em caráter extraordinário ou em periodicidade pré-determinada por lei. A periodicidade em anos, segundo esta mesma lei, deve ser de:",
+    "alternativas": ["2 em 2", "3 em 3", "4 em 4", "5 em 5", "6 em 6"],
+    "correta": "4 em 4",
+    "comentario": "A Lei nº 8.142/1990 determina que as Conferências de Saúde sejam realizadas a cada quatro anos."
+  },
+  {
+    "texto": null,
+    "pergunta": "É um inseticida químico utilizável pelo agente de endemias para o controle de vetores no caso da leishmaniose visceral:",
+    "alternativas": [
+      "furosemida",
+      "dexclorfeniramina",
+      "acetilcisteína",
+      "permetrina",
+      "deltametrina"
+    ],
+    "correta": "deltametrina",
+    "comentario": "A deltametrina é um inseticida utilizado no combate a vetores, incluindo os transmissores da leishmaniose visceral."
+  },
+  {
+    "texto": null,
+    "pergunta": "A infecção por Chikungunya pode gerar quadro sintomatológico típico ou atípico. É um sintoma considerado atípico:",
+    "alternativas": [
+      "mialgia",
+      "arritmia",
+      "atralgia",
+      "febre",
+      "conjuntivite"
+    ],
+    "correta": "arritmia",
+    "comentario": "A arritmia não é um sintoma típico da Chikungunya, sendo considerada manifestação atípica."
+  },
+  {
+    "texto": null,
+    "pergunta": "O período de incubação da febre amarela, em dias, é de:",
+    "alternativas": ["3 a 6", "3 a 7", "3 a 8", "3 a 9", "3 a 10"],
+    "correta": "3 a 6",
+    "comentario": "O período de incubação da febre amarela varia de 3 a 6 dias."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o Ministério da Saúde, é um fundamento da Atenção Básica:",
+    "alternativas": [
+      "desenvolver relações de vínculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
+      "garantir infraestrutura necessária ao funcionamento das unidades básicas de saúde, dotando-as de recursos materiais, equipamentos e insumos suficientes para o conjunto de ações propostas",
+      "selecionar, contratar e remunerar os profissionais que compõem as equipes multiprofissionais da Saúde da Família, em conformidade com a legislação vigente",
+      "verificar a qualidade e a consistência dos dados alimentados nos sistemas nacionais de informação",
+      "estimular e viabilizar a capacitação e a educação permanente dos profissionais das equipes"
+    ],
+    "correta": "desenvolver relações de vínculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
+    "comentario": "Um dos fundamentos da Atenção Básica é a criação de vínculo entre equipe e população para garantir a continuidade do cuidado."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Portaria nº 5, de 21 de fevereiro de 2006, inclui doenças na relação nacional de notificação compulsória e define doenças de notificação imediata. Segundo essa portaria, é uma doença de notificação imediata a:",
+    "alternativas": ["malária", "peste", "rubéola", "cólera", "tularemia"],
+    "correta": "cólera",
+    "comentario": "A cólera é uma doença de notificação imediata devido à sua gravidade e potencial de surtos."
+  },
+  {
+    "texto": null,
+    "pergunta": "O acidente ofídico de maior importância epidemiológica no Brasil, sendo responsável por noventa por cento dos envenenamentos é o:",
+    "alternativas": [
+      "crotálico",
+      "botrópico",
+      "laquético",
+      "elapídico",
+      "traquético"
+    ],
+    "correta": "botrópico",
+    "comentario": "O acidente botrópico, causado por jararacas, responde pela maioria dos casos de acidentes ofídicos no Brasil."
+  },
+  {
+    "texto": null,
+    "pergunta": "Das espécies brasileiras de roedores, apenas uma possui, simultaneamente, vida média de doze meses, raio de ação de três a cinco metros e o hábito da neofilia. Trata-se da espécie de roedor denominada:",
+    "alternativas": [
+      "Rattus norvegicus",
+      "Trichomys spp",
+      "Akodon spp",
+      "Oligoryzomys spp",
+      "Mus musculus"
+    ],
+    "correta": "Mus musculus",
+    "comentario": "O camundongo doméstico (Mus musculus) possui as características descritas, sendo um roedor com hábito explorador (neofilia)."
+  },
+  {
+    "texto": null,
+    "pergunta": "A prova do laço é um recurso importante para o diagnóstico da dengue. O número mínimo de petéquias que assegura positividade nesse teste em adultos e crianças é, respectivamente:",
+    "alternativas": ["10 e 5", "20 e 10", "30 e 15", "40 e 20", "50 e 25"],
+    "correta": "20 e 10",
+    "comentario": "O teste do laço é considerado positivo quando aparecem, no mínimo, 20 petéquias em adultos e 10 em crianças."
+  },
+  {
+    "texto": null,
+    "pergunta": "O processo que remove ou mata a maioria dos microrganismos patogênicos, excetuando-se os esporos em uma superfície inerte, denomina-se:",
+    "alternativas": [
+      "esterilização",
+      "antissepsia",
+      "assepsia",
+      "desinfecção",
+      "limpeza"
+    ],
+    "correta": "desinfecção",
+    "comentario": "A desinfecção elimina a maioria dos microrganismos patogênicos, mas não os esporos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os elementos básicos da cadeia de transmissão das doenças parasitárias são:",
+    "alternativas": [
+      "hospedeiro, agente infeccioso, meio ambiente e hospital",
+      "hospedeiro, vetor, agente infeccioso, água contaminada",
+      "hospedeiro, meio ambiente, vetor e imunossupressão",
+      "hospedeiro, vetor, agente infecioso e doenças prévias",
+      "hospedeiro, vetor, agente infeccioso e meio ambiente"
+    ],
+    "correta": "hospedeiro, vetor, agente infeccioso e meio ambiente",
+    "comentario": "A transmissão parasitária envolve a interação entre hospedeiro, vetor, agente infeccioso e meio ambiente."
+  },
+  {
+    "texto": null,
+    "pergunta": "No contexto da Estratégia de Saúde da Família (ESF), a realização de pequenas cirurgias ambulatoriais é atribuição do:",
+    "alternativas": [
+      "médico",
+      "enfermeiro",
+      "auxiliar de enfermagem",
+      "técnico em saúde bucal",
+      "agente de endemias"
+    ],
+    "correta": "médico",
+    "comentario": "A realização de pequenas cirurgias ambulatoriais é competência do médico, conforme normas do Ministério da Saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o Ministério da Saúde, os grandes centros urbanos devem dar atenção especial a conteúdos locais como:",
+    "alternativas": [
+      "dores de cabeça",
+      "prostituição",
+      "estresse",
+      "pobreza",
+      "diarreia"
+    ],
+    "correta": "pobreza",
+    "comentario": "Nos grandes centros urbanos, a pobreza é um fator de relevância epidemiológica que deve ser priorizado nos programas de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Quando o risco à saúde não caracterizar perigo público, o ingresso forçado nos imóveis pela autoridade sanitária, sem autorização judicial, deverá ser feito apenas nos casos de:",
+    "alternativas": [
+      "imóveis abandonados ou desabitados, quando não se caracteriza o domicílio",
+      "resistência do morador à entrada do agente de endemias no domicílio",
+      "imóveis cujo valor de mercado seja inferior a doze salários mínimos",
+      "situação de violência contra o agente de endemias",
+      "imóveis condenados pela Defesa Civil"
+    ],
+    "correta": "imóveis abandonados ou desabitados, quando não se caracteriza o domicílio",
+    "comentario": "A legislação permite ingresso sem autorização judicial apenas em imóveis abandonados ou desabitados."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os termos hepatomegalia e esplenomegalia significam, respectivamente:",
+    "alternativas": [
+      "aumento dos rins e dilatação da vesícula biliar",
+      "aumento do estômago e dilatação do esôfago",
+      "aumento do fígado e aumento do baço",
+      "aumento do intestino grosso e aumento do pâncreas",
+      "aumento do duodeno e dilatação do apêndice"
+    ],
+    "correta": "aumento do fígado e aumento do baço",
+    "comentario": "Hepatomegalia é o aumento do fígado e esplenomegalia é o aumento do baço."
+  },
+  {
+    "texto": null,
+    "pergunta": "Quando há síndrome do choque do dengue (SCD), a febre hemorrágica do dengue pode ser classificada como:",
+    "alternativas": ["grau I", "grau II", "grau III", "grau IV", "grau V"],
+    "correta": "grau IV",
+    "comentario": "A síndrome do choque do dengue caracteriza a forma mais grave da doença, classificada como grau IV."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os direitos e deveres dos usuários da saúde estão dispostos na seguinte Portaria:",
+    "alternativas": [
+      "nº 1.816 de 2009",
+      "nº 1.817 de 2008",
+      "nº 1.818 de 2009",
+      "nº 1.819 de 2008",
+      "nº 1.820 de 2009"
+    ],
+    "correta": "nº 1.820 de 2009",
+    "comentario": "A Portaria nº 1.820/2009 dispõe sobre os direitos e deveres dos usuários da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Das doenças infecciosas e parasitárias elencadas abaixo, a única que apresenta letalidade de cem por cento é:",
+    "alternativas": [
+      "raiva humana",
+      "malária",
+      "hanseníase",
+      "tuberculose",
+      "filariose"
+    ],
+    "correta": "raiva humana",
+    "comentario": "A raiva humana apresenta letalidade de 100% após o início dos sintomas clínicos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Nos crimes de responsabilidade, o Prefeito de Saquarema será processado e julgado:",
+    "alternativas": [
+      "pela Câmara Municipal",
+      "pelo Superior Tribunal de Justiça – STJ",
+      "pelo Tribunal de Justiça",
+      "pelo Tribunal de Contas do Estado",
+      "pelo Supremo Tribunal Federal - STF"
+    ],
+    "correta": "pela Câmara Municipal",
+    "comentario": "A Constituição prevê que o Prefeito seja processado e julgado pela Câmara Municipal em casos de responsabilidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "No Sistema Único de Saúde, as ações e serviços públicos devem integrar uma rede:",
+    "alternativas": [
+      "centralizada e de acordo com a necessidade de grupos específicos da população",
+      "descentralizada e funcional",
+      "prioritária para serviços assistenciais e com participação de serviços privados",
+      "regulamentada pela participação da comunidade e centralizada",
+      "regionalizada e hierarquizada"
+    ],
+    "correta": "regionalizada e hierarquizada",
+    "comentario": "O SUS é organizado de forma regionalizada e hierarquizada para garantir integralidade e eficiência nos serviços."
+  },
+  {
+    "texto": null,
+    "pergunta": "NÃO é da competência do Sistema Único de Saúde:",
+    "alternativas": [
+      "ordenar a formação de recursos humanos na área de saúde",
+      "contratar serviços privados de forma suplementar mediante direito público ou convênio",
+      "participar da formulação da política e da execução das ações de saneamento básico",
+      "fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano",
+      "colaborar na proteção do meio ambiente, nele compreendido o do trabalho"
+    ],
+    "correta": "contratar serviços privados de forma suplementar mediante direito público ou convênio",
+    "comentario": "O SUS pode contratar serviços privados de forma complementar, e não suplementar."
+  },
+  {
+    "texto": null,
+    "pergunta": "A ocorrência de uma doença que se propaga rapidamente, atingindo em pouco tempo um número elevado de pessoas, é denominada de:",
+    "alternativas": [
+      "pandemia",
+      "endemia",
+      "surto pandêmico",
+      "sazonalidade",
+      "epidemia"
+    ],
+    "correta": "epidemia",
+    "comentario": "Epidemia é a ocorrência de casos acima do esperado em determinada população e tempo."
+  },
+  {
+    "texto": null,
+    "pergunta": "As possibilidades que as pessoas têm de virem a apresentar certas doenças não são iguais para todas. (...) Os fatores que permitem a avaliação desta possibilidade são chamados de:",
+    "alternativas": [
+      "fatores genéticos",
+      "fatores de risco",
+      "fatores pessoais",
+      "fatores ocasionais",
+      "multifatoriais"
+    ],
+    "correta": "fatores de risco",
+    "comentario": "Fatores de risco aumentam a probabilidade de uma pessoa desenvolver determinada doença."
+  },
+  {
+    "texto": null,
+    "pergunta": "A dengue é uma enfermidade característica de áreas tropicais (...) No Brasil, as duas espécies responsáveis pela transmissão da doença são:",
+    "alternativas": [
+      "Aedes aegypti e Culex",
+      "Aedes albopictus e Anopheles",
+      "Aedes aegypti e Aedes albopcictus",
+      "Aedes scapularis e Aedes fluviatilis",
+      "Aedes albopictus e Haemagogus"
+    ],
+    "correta": "Aedes aegypti e Aedes albopcictus",
+    "comentario": "No Brasil, os principais vetores da dengue são o Aedes aegypti e o Aedes albopictus."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os principais sintomas da dengue são os abaixo relacionados, EXCETO:",
+    "alternativas": [
+      "febre alta durante três a sete dias",
+      "dores no corpo, na cabeça e nos olhos",
+      "cansaço e falta de apetite",
+      "erupção na pele",
+      "perda de cabelo"
+    ],
+    "correta": "perda de cabelo",
+    "comentario": "A perda de cabelo não é um sintoma característico da dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os mosquitos responsáveis pela transmissão da dengue desenvolvem-se através de metamorfose completa. Em relação ao Programa de Controle de Combate ao Vetor, as ações do PEAa devem, preferencialmente, atuar na fase:",
+    "alternativas": ["embrionária", "adulta", "ovo", "pupa", "larva"],
+    "correta": "larva",
+    "comentario": "O combate é mais eficaz na fase larvária, antes de o mosquito se tornar adulto."
+  },
+  {
+    "texto": null,
+    "pergunta": "A dispersão do mosquito vetor da dengue a grandes distâncias ocorre, geralmente, como resultado do transporte dos(as):",
+    "alternativas": [
+      "mosquitos machos adultos",
+      "mosquitos fêmeas adultas",
+      "ovos em recipientes",
+      "mosquitos em fase embrionária",
+      "pupas em recipientes secos"
+    ],
+    "correta": "ovos em recipientes",
+    "comentario": "Os ovos podem resistir por meses em recipientes e serem transportados a longas distâncias."
+  },
+  {
+    "texto": null,
+    "pergunta": "Na organização das operações de campo, a área de atuação e de responsabilidade de um agente de combate às endemias deverá ter de:",
+    "alternativas": [
+      "800 a 1000 imóveis",
+      "100 a 500 imóveis",
+      "1000 a 1500 imóveis",
+      "300 a 600 imóveis",
+      "400 a 700 imóveis"
+    ],
+    "correta": "400 a 700 imóveis",
+    "comentario": "Cada agente deve ser responsável por uma quantidade delimitada de imóveis para garantir eficácia."
+  },
+  {
+    "texto": null,
+    "pergunta": "Estão entre as obrigações básicas de um agente de endemias as seguintes atividades:",
+    "alternativas": [
+      "realizar pesquisas larvárias, acompanhar a execução das programações e a qualidade dos trabalhos",
+      "descobrir focos, realizar a eliminação de criadouros e orientar a população com relação aos meios de evitar a proliferação de vetores",
+      "manter atualizado o cadastro de imóveis, participar da elaboração do planejamento de atividades e da organização e execução de treinamentos",
+      "deixar seu itinerário diário de trabalho no posto de abastecimento, controlar a freqüência e distribuição de materiais de consumo",
+      "utilizar corretamente os equipamentos de proteção individual, acompanhar o registro de dados e fluxo de formulários"
+    ],
+    "correta": "descobrir focos, realizar a eliminação de criadouros e orientar a população com relação aos meios de evitar a proliferação de vetores",
+    "comentario": "O agente atua diretamente na eliminação de criadouros e orientação da população."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação à visita domiciliar, após a inspeção do imóvel, a ficha de visita com o registro dos dados de conclusão deve ser colocada:",
+    "alternativas": [
+      "no lado interno da porta da sala",
+      "no lado interno da porta do banheiro",
+      "na parede da varanda",
+      "junto aos recipientes contaminados",
+      "na parede interna de um dos quartos"
+    ],
+    "correta": "no lado interno da porta da sala",
+    "comentario": "A ficha deve ser fixada em local visível e de fácil acesso para conferência posterior."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os depósitos que contêm água podem servir de criadouros ou foco de mosquitos. (...) são considerados depósitos inspecionados aqueles em que foram:",
+    "alternativas": [
+      "aplicados adulticidas",
+      "inutilizados como criadouro",
+      "tampados e reutilizados",
+      "examinados com auxílio de uma fonte de luz",
+      "furados e colocados ao sol"
+    ],
+    "correta": "inutilizados como criadouro",
+    "comentario": "Um depósito só é considerado inspecionado quando não apresenta mais risco como criadouro."
+  },
+  {
+    "texto": null,
+    "pergunta": "Do material abaixo, NÃO é utilizado na rotina de levantamento de Índices:",
+    "alternativas": [
+      "pescas-larvas",
+      "espelho pequeno",
+      "plástico preto",
+      "pipeta",
+      "capturador de alados"
+    ],
+    "correta": "plástico preto",
+    "comentario": "O plástico preto não faz parte dos materiais utilizados rotineiramente no levantamento de índices."
+  },
+  {
+    "texto": null,
+    "pergunta": "O combate ao vetor da dengue pode ser feito através de tratamento focal, perifocal e de aspersão. Em relação ao tratamento focal, SOMENTE serão tratados os(as):",
+    "alternativas": [
+      "bebedouros de animais",
+      "aquários",
+      "caixas de descargas",
+      "depósitos de água de consumo",
+      "ralos de banheiros"
+    ],
+    "correta": "depósitos de água de consumo",
+    "comentario": "O tratamento focal é aplicado apenas em depósitos de água de consumo, onde há risco de criadouros."
+  },
+  {
+    "texto": null,
+    "pergunta": "O controle de vetores através do controle biológico tem a vantagem de:",
+    "alternativas": [
+      "ser mais barato",
+      "ser utilizado em larga escala",
+      "possuir alto poder residual",
+      "ter boa tolerância á exposição solar direta",
+      "minimizar os danos ambientais que outros inseticidas podem causar"
+    ],
+    "correta": "minimizar os danos ambientais que outros inseticidas podem causar",
+    "comentario": "O controle biológico reduz impactos ambientais em comparação com inseticidas químicos."
+  },
+
+  {
+    "texto": null,
+    "pergunta": "No que diz respeito às relações estabelecidas no ambiente de trabalho, é preciso que a atenção seja redobrada para que eventuais conflitos não prejudiquem o processo produtivo. Nesse sentido, podemos afirmar que os conflitos podem prejudicar, principalmente:",
+    "alternativas": [
+      "A visão que os clientes ou usuários têm da empresa ou instituição.",
+      "A saúde dos funcionários.",
+      "A imagem de toda a equipe diante dos superiores.",
+      "O trabalho em equipe.",
+      "A eficiência de cada um."
+    ],
+    "correta": "O trabalho em equipe.",
+    "comentario": "Conflitos mal administrados afetam principalmente a cooperação e o trabalho em equipe."
+  },
+  {
+    "texto": null,
+    "pergunta": "A ética profissional no serviço público é fundamentada em valores que configuram um dos princípios que regem o serviço público. Esses valores estão relacionados à:",
+    "alternativas": [
+      "Moralidade.",
+      "Consciência.",
+      "Persistência.",
+      "Impessoalidade.",
+      "Individualidade."
+    ],
+    "correta": "Moralidade.",
+    "comentario": "A moralidade é princípio fundamental que orienta a ética no serviço público."
+  },
+  {
+    "texto": null,
+    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas: I - Os serviços devem estar organizados em níveis decrescentes de complexidade. II - Os serviços devem estar localizados em áreas geográficas específicas. III - O SUS deve ser centralizado. Assinale a alternativa correta:",
+    "alternativas": [
+      "V, F, V.",
+      "F, V, F.",
+      "F, V, V.",
+      "V, V, V.",
+      "V, V, F."
+    ],
+    "correta": "F, V, F.",
+    "comentario": "O SUS é descentralizado, regionalizado e hierarquizado, com base em áreas geográficas específicas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Dentre as opções a seguir, assinale a alternativa que corresponde às instâncias colegiadas de caráter consultivo que possibilitam o exercício do controle social no âmbito do poder executivo:",
+    "alternativas": [
+      "Tribunal da Saúde.",
+      "Comitê de Saúde.",
+      "Assembleia da Saúde.",
+      "Conferências de Saúde.",
+      "Fundo de Saúde."
+    ],
+    "correta": "Conferências de Saúde.",
+    "comentario": "As conferências de saúde são instâncias colegiadas que garantem a participação social no SUS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação ao financiamento do Sistema Único de Saúde (SUS), analise as afirmativas: I - Receitas do SUS devem ser creditadas em contas específicas. II - Atividades de pesquisa e desenvolvimento devem ser cofinanciadas pelo SUS e outras instituições. III - Ações de saneamento supletivas pelo SUS serão financiadas por recursos tarifários e outras fontes. É correto o que se afirma em:",
+    "alternativas": [
+      "I e III, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I, II e III.",
+      "III, apenas."
+    ],
+    "correta": "I e II, apenas.",
+    "comentario": "O financiamento do SUS prevê receitas específicas e cofinanciamento em pesquisa, mas saneamento básico não é financiado por tarifas do SFH."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação aos níveis de assistência (primário, secundário e terciário), marque V ou F: I - A atenção primária é constituída por UBS, ACS, ESF e NASF. II - A atenção secundária é formada por serviços especializados ambulatoriais e hospitalares. III - A atenção terciária envolve alta complexidade, alto custo e alta tecnologia. Assinale a alternativa correta:",
+    "alternativas": [
+      "F, V, V.",
+      "V, V, V.",
+      "F, V, F.",
+      "V, V, F.",
+      "V, F, V."
+    ],
+    "correta": "V, V, V.",
+    "comentario": "As três afirmativas estão corretas: o SUS é estruturado em níveis de atenção primária, secundária e terciária."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Sistema Único de Saúde (SUS) é um dos maiores sistemas de saúde pública do mundo. No que diz respeito à sua estrutura e funcionamento, é correto afirmar:",
+    "alternativas": [
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "II, apenas.",
+      "I, II e III.",
+      "I e III, apenas."
+    ],
+    "correta": "I, II e III.",
+    "comentario": "O SUS possui rede ampla, abrange todos os níveis de atenção e garante acesso universal e igualitário."
+  },
+  {
+    "texto": null,
+    "pergunta": "A respeito das atribuições do Agente de Combate a Endemias, considere: I - Atualizar cadastro de imóveis. II - Atuar junto aos domicílios, informando moradores. III - Nunca vistoriar depósitos de difícil acesso. IV - Executar aplicação focal e residual quando indicado. É correto o que se afirma em:",
+    "alternativas": [
+      "II, III e IV, apenas.",
+      "II e III, apenas.",
+      "I, II e IV, apenas.",
+      "III e IV, apenas.",
+      "I e II, apenas."
+    ],
+    "correta": "I, II e IV, apenas.",
+    "comentario": "O ACE atualiza cadastros, informa moradores e executa controle químico, mas deve vistoriar depósitos de difícil acesso sim."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a visita domiciliar realizada pelo Agente de Combate às Endemias (ACE), marque a alternativa correta:",
+    "alternativas": [
+      "O controle legal nunca pode ser utilizado para assegurar a visita dos ACE em imóveis fechados.",
+      "A visita domiciliar nunca deve ser utilizada para levantamento de índices.",
+      "Em municípios no Estrato I, deve ser realizada em 50% dos imóveis.",
+      "A visita domiciliar tem como único objetivo verificar a presença de criadouros.",
+      "É imperativo que os ACE realizem a cubagem dos depósitos que receberão larvicida em cada visita domiciliar."
+    ],
+    "correta": "É imperativo que os ACE realizem a cubagem dos depósitos que receberão larvicida em cada visita domiciliar.",
+    "comentario": "A cubagem dos depósitos é fundamental para calcular corretamente a dosagem de larvicidas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Marque a alternativa que apresenta uma doença classificada como uma zoonose:",
+    "alternativas": [
+      "Caxumba.",
+      "Hantavirose.",
+      "Rubéola.",
+      "Sarampo.",
+      "Coqueluche."
+    ],
+    "correta": "Hantavirose.",
+    "comentario": "Hantavirose é uma zoonose transmitida por roedores."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação à pesquisa larvária, marque a alternativa correta:",
+    "alternativas": [
+      "Em localidades não infestadas, nunca deve ser realizada pesquisa larvária.",
+      "Em municípios no Estrato I, deve ser feita em pontos estratégicos com ciclos quinzenais e tratamento focal/residual mensal.",
+      "Os índices obtidos indicam somente a infestação por pupas.",
+      "Em municípios no Estrato II, nunca se deve realizar pesquisa larvária.",
+      "A unidade amostral não deve ser o imóvel visitado."
+    ],
+    "correta": "Em municípios no Estrato I, deve ser feita em pontos estratégicos com ciclos quinzenais e tratamento focal/residual mensal.",
+    "comentario": "A pesquisa larvária em Estrato I é realizada quinzenalmente em pontos estratégicos com tratamento específico."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a Difteria, marque a alternativa correta:",
+    "alternativas": [
+      "A principal forma de prevenção é por meio da vacina monovalente.",
+      "Em casos graves, podem aparecer inchaços no pescoço e gânglios linfáticos.",
+      "A difteria ocorre somente durante o verão.",
+      "É uma doença transmissível causada por um vírus.",
+      "Atinge exclusivamente as amígdalas."
+    ],
+    "correta": "Em casos graves, podem aparecer inchaços no pescoço e gânglios linfáticos.",
+    "comentario": "Na difteria grave pode haver inchaço no pescoço, conhecido como 'pescoço de touro'."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre os sistemas de informação em saúde, assinale a alternativa correta:",
+    "alternativas": [
+      "F, F, V.",
+      "F, V, V.",
+      "F, V, F.",
+      "V, V, F.",
+      "V, F, V."
+    ],
+    "correta": "F, V, V.",
+    "comentario": "O SINASC existe desde 1990, o Sinan coleta notificações de agravos, e o SIAB coleta dados territoriais da atenção básica."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre os insetos, marque a alternativa correta:",
+    "alternativas": [
+      "Possuem dois pares de antenas.",
+      "Não apresentam mandíbulas.",
+      "Seu corpo é dividido em cabeça, tórax e abdome.",
+      "O abdome contém apêndices ambulatórios.",
+      "Apresentam sempre um par de asa."
+    ],
+    "correta": "Seu corpo é dividido em cabeça, tórax e abdome.",
+    "comentario": "A característica básica dos insetos é a divisão do corpo em cabeça, tórax e abdome."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre as normas de segurança no combate às endemias, marque a alternativa correta:",
+    "alternativas": [
+      "Não é indicado estabelecer limite de tempo de exposição aos inseticidas.",
+      "Alarmes e sinalização de emergência são exemplos de Equipamentos de Proteção Coletiva (EPC).",
+      "A instalação de sistema de exaustão e ventilação não é medida de proteção coletiva.",
+      "O objetivo da proteção coletiva é apenas evitar acidentes de trabalhadores noturnos.",
+      "Não é necessária adequação dos espaços para armazenagem e manuseio de produtos químicos."
+    ],
+    "correta": "Alarmes e sinalização de emergência são exemplos de Equipamentos de Proteção Coletiva (EPC).",
+    "comentario": "EPC incluem sistemas de alarme e sinalização para aumentar a segurança coletiva."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta o Princípio do Sistema Único de Saúde (SUS) que determina a todos os cidadãos brasileiros, sem qualquer tipo de discriminação, o direito ao acesso às ações e aos serviços de saúde.",
+    "alternativas": [
+      "Integralidade",
+      "Resolutividade",
+      "Universalidade",
+      "Territorialização"
+    ],
+    "correta": "Universalidade",
+    "comentario": "O princípio da universalidade assegura que todos os cidadãos têm direito de acesso aos serviços de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Considerando as políticas públicas de saúde no contexto de pandemias, assinale a alternativa que apresenta o pilar que serve de sustentação para a colaboração público-privada.",
+    "alternativas": [
+      "Informar a população sobre a responsabilidade permanente de cada um na prevenção contra agentes infecciosos patogênicos.",
+      "Adotar e colocar em prática a frase 'Cuidar de si próprio e de todos, mas deixe que o profissional de saúde cuide de si sozinho'.",
+      "Reduzir o percentual do valor retirado do PIB brasileiro para os gastos públicos com a saúde.",
+      "Limitar a participação do setor privado quanto às doações, às parcerias e aos investimentos."
+    ],
+    "correta": "Informar a população sobre a responsabilidade permanente de cada um na prevenção contra agentes infecciosos patogênicos.",
+    "comentario": "A conscientização e informação da população é base para a colaboração entre o setor público e privado em saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "A movimentação ou transferência interna/externa de lixos (resíduos sólidos) entre a fonte geradora e o local de armazenamento temporário, de reutilização, recuperação, reciclagem, tratamento ou disposição final, é denominado(a)",
+    "alternativas": ["segregação", "reutilização", "tratamento", "transporte"],
+    "correta": "transporte",
+    "comentario": "O transporte corresponde à movimentação dos resíduos da origem até o local de armazenamento ou disposição."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta a ação empregada para avaliar índices de atividade larvária em uma comunidade.",
+    "alternativas": [
+      "Dispensa de método de amostragem para as vistorias de imóveis.",
+      "Identificação dos principais tipos de criadouros.",
+      "Exclusão de cálculo de quantidade de recipientes na área do imóvel.",
+      "Identificação apenas de criadouros de água corrente."
+    ],
+    "correta": "Identificação dos principais tipos de criadouros.",
+    "comentario": "A identificação dos criadouros é fundamental para avaliação dos índices larvários."
+  },
+  {
+    "texto": null,
+    "pergunta": "Acerca dos Equipamentos de Proteção Individual (EPIs), assinale a alternativa correta.",
+    "alternativas": [
+      "Todos devem ser armazenados em locais úmidos, ou a temperaturas extremas, ou sob a luz solar direta.",
+      "Deve-se evitar a substituição periódica como nos casos dos filtros de respiradores.",
+      "Devem ser usados durante toda a exposição ao risco, não apenas em momentos percebidos como mais perigosos.",
+      "A escolha do equipamento independe do tipo de atividade."
+    ],
+    "correta": "Devem ser usados durante toda a exposição ao risco, não apenas em momentos percebidos como mais perigosos.",
+    "comentario": "EPIs devem ser utilizados continuamente enquanto houver exposição ao risco."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta a doença de notificação compulsória.",
+    "alternativas": ["Varíola", "Câncer", "Diabetes", "Esclerose múltipla"],
+    "correta": "Varíola",
+    "comentario": "Varíola é uma doença de notificação compulsória mesmo após sua erradicação, para monitoramento epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é uma doença que pode ser transmitida para os humanos através da exposição direta ou indireta à urina de animais sinantrópicos infectados. Os principais reservatórios transmissores dessa doença são os",
+    "alternativas": ["sapos", "lagartos", "mexilhões", "roedores"],
+    "correta": "roedores",
+    "comentario": "Os roedores, especialmente ratos, são os principais transmissores da leptospirose."
+  },
+  {
+    "texto": null,
+    "pergunta": "Com relação às orientações para a prevenção e o controle do Aedes aegypti, vetor da dengue, assinale a alternativa que apresenta a medida a ser adotada pelas comunidades.",
+    "alternativas": [
+      "Evitar fazer furos em recipientes plásticos antes do descarte.",
+      "Garrafas e baldes vazios devem ser guardados de cabeça para baixo.",
+      "Deixar caixas d'água semiabertas para a entrada de luz solar.",
+      "Manter pneus velhos e usados em locais abertos."
+    ],
+    "correta": "Garrafas e baldes vazios devem ser guardados de cabeça para baixo.",
+    "comentario": "Recipientes devem ser guardados de cabeça para baixo para evitar acúmulo de água."
+  },
+  {
+    "texto": null,
+    "pergunta": "Para o preparo e a aplicação de inseticida, o EPI recomendado deverá ser",
+    "alternativas": [
+      "a bota permeável",
+      "a mordaça",
+      "a luva nitrílica",
+      "o avental permeável"
+    ],
+    "correta": "a luva nitrílica",
+    "comentario": "A luva nitrílica é indicada por sua resistência a agentes químicos como inseticidas."
+  },
+  {
+    "texto": null,
+    "pergunta": "As enchentes, como as que ocorreram no Estado do Rio Grande do Sul, podem resultar na contaminação do sistema doméstico de armazenamento de água. Para a prevenção de zoonoses, é fundamental realizar a limpeza das caixas d'água após esse tipo de catástrofe ambiental. Nesse caso, a limpeza deve ser feita com",
+    "alternativas": [
+      "hipoclorito de sódio a 2,5%",
+      "hipoclorito de sódio a 50%",
+      "água sanitária a 50%",
+      "água sanitária a 25,5%"
+    ],
+    "correta": "hipoclorito de sódio a 2,5%",
+    "comentario": "A concentração adequada para desinfecção de caixas d’água é 2,5% de hipoclorito de sódio."
+  },
+  {
+    "texto": null,
+    "pergunta": "O desenvolvimento das práticas educativas tem por base as ações de comunicação. A Educação em Saúde é considerada uma prática social que contribui para a formação da consciência crítica das pessoas sobre seus problemas de saúde. É correto o que se afirma em:",
+    "alternativas": [
+      "II e III, apenas.",
+      "II, apenas.",
+      "I e III, apenas.",
+      "I, apenas."
+    ],
+    "correta": "II, apenas.",
+    "comentario": "A Educação em Saúde é uma prática social que contribui para a formação da consciência crítica das pessoas sobre seus problemas de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa correta sobre o conceito de Endemias:",
+    "alternativas": [
+      "São doenças que ocorrem habitualmente em certas regiões.",
+      "São doenças que aparecem em surtos imprevisíveis.",
+      "São doenças que se alastram rapidamente por todo o mundo.",
+      "São doenças restritas a pequenos grupos familiares."
+    ],
+    "correta": "São doenças que ocorrem habitualmente em certas regiões.",
+    "comentario": "Endemias são doenças presentes constantemente em determinadas regiões, em níveis esperados."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Sistema Único de Saúde (SUS) é regido por princípios e diretrizes. Um dos princípios que garante atendimento a todos, sem qualquer forma de discriminação, é:",
+    "alternativas": [
+      "Integralidade.",
+      "Equidade.",
+      "Resolutividade.",
+      "Universalidade."
+    ],
+    "correta": "Universalidade.",
+    "comentario": "Universalidade assegura o direito de acesso à saúde a todos os cidadãos brasileiros."
+  },
+  {
+    "texto": null,
+    "pergunta": "As doenças infecciosas podem ser transmitidas por diferentes meios. O mosquito Aedes aegypti é o vetor transmissor de várias doenças, entre elas:",
+    "alternativas": [
+      "Leptospirose.",
+      "Febre amarela.",
+      "Hantavirose.",
+      "Esquistossomose."
+    ],
+    "correta": "Febre amarela.",
+    "comentario": "O Aedes aegypti transmite dengue, zika, chikungunya e febre amarela."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a dengue, assinale a alternativa correta:",
+    "alternativas": [
+      "É transmitida pela picada do mosquito Aedes aegypti infectado.",
+      "É transmitida por contato direto entre pessoas.",
+      "É transmitida pela ingestão de água contaminada.",
+      "É transmitida pelo ar, através de secreções respiratórias."
+    ],
+    "correta": "É transmitida pela picada do mosquito Aedes aegypti infectado.",
+    "comentario": "A dengue é uma arbovirose transmitida pela picada do mosquito Aedes aegypti infectado."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta um sintoma comum da dengue:",
+    "alternativas": [
+      "Febre alta súbita.",
+      "Perda de cabelo.",
+      "Aumento da pressão arterial.",
+      "Diarreia persistente."
+    ],
+    "correta": "Febre alta súbita.",
+    "comentario": "A febre alta de início súbito é um sintoma típico da dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "O tratamento da água com hipoclorito de sódio é uma medida eficaz para:",
+    "alternativas": [
+      "Eliminar o risco de transmissão do HIV.",
+      "Evitar a transmissão de doenças de veiculação hídrica.",
+      "Reduzir a quantidade de sais minerais na água.",
+      "Eliminar a dureza da água."
+    ],
+    "correta": "Evitar a transmissão de doenças de veiculação hídrica.",
+    "comentario": "O hipoclorito de sódio é utilizado para desinfecção da água, prevenindo doenças de veiculação hídrica."
+  },
+  {
+    "texto": null,
+    "pergunta": "O agente de combate a endemias, ao visitar os domicílios, deve orientar a população sobre medidas preventivas. Assinale a alternativa que corresponde a uma medida preventiva contra a dengue:",
+    "alternativas": [
+      "Deixar pneus ao ar livre para evitar acúmulo de sujeira.",
+      "Manter garrafas e baldes de cabeça para baixo.",
+      "Armazenar água em recipientes destampados.",
+      "Deixar plantas aquáticas em vasos com água parada."
+    ],
+    "correta": "Manter garrafas e baldes de cabeça para baixo.",
+    "comentario": "Manter recipientes de cabeça para baixo impede o acúmulo de água parada, eliminando criadouros do mosquito."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
+    "alternativas": [
+      "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+      "Refere-se apenas ao abastecimento de água tratada.",
+      "Está limitado à coleta e ao tratamento de esgoto.",
+      "Engloba apenas a drenagem urbana."
+    ],
+    "correta": "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+    "comentario": "O saneamento básico envolve um conjunto de serviços que contribuem para a saúde pública e qualidade de vida."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é uma doença transmitida principalmente:",
+    "alternativas": [
+      "Pela picada de mosquitos.",
+      "Pela água ou solo contaminados com urina de ratos.",
+      "Pelo consumo de alimentos crus.",
+      "Pelo contato direto com pessoas infectadas."
+    ],
+    "correta": "Pela água ou solo contaminados com urina de ratos.",
+    "comentario": "A leptospirose é transmitida pelo contato com água ou solo contaminado com urina de roedores infectados."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação aos equipamentos de proteção individual (EPI), assinale a alternativa correta:",
+    "alternativas": [
+      "São de uso opcional pelo agente de combate a endemias.",
+      "Devem ser utilizados durante toda a atividade que ofereça risco à saúde.",
+      "Não precisam ser substituídos periodicamente.",
+      "São fornecidos pelo trabalhador."
+    ],
+    "correta": "Devem ser utilizados durante toda a atividade que ofereça risco à saúde.",
+    "comentario": "Os EPIs devem ser utilizados sempre que houver risco, garantindo segurança ao trabalhador."
+  },
+  {
+    "texto": null,
+    "pergunta": "As doenças de notificação compulsória são aquelas que:",
+    "alternativas": [
+      "Devem ser notificadas às autoridades de saúde em qualquer suspeita ou confirmação.",
+      "Apenas os hospitais privados precisam notificar.",
+      "Só precisam ser notificadas quando houver óbito.",
+      "São notificadas de forma voluntária."
+    ],
+    "correta": "Devem ser notificadas às autoridades de saúde em qualquer suspeita ou confirmação.",
+    "comentario": "Doenças de notificação compulsória são informadas obrigatoriamente aos serviços de saúde para controle epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "O agente de combate a endemias deve realizar a pesquisa larvária para:",
+    "alternativas": [
+      "Verificar a presença de larvas do mosquito em recipientes com água.",
+      "Contar o número de mosquitos adultos em uma região.",
+      "Identificar a presença de vírus no sangue humano.",
+      "Calcular a taxa de mortalidade infantil."
+    ],
+    "correta": "Verificar a presença de larvas do mosquito em recipientes com água.",
+    "comentario": "A pesquisa larvária consiste em inspecionar depósitos de água para verificar a presença de larvas do Aedes aegypti."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o conceito de zoonoses, assinale a alternativa correta:",
+    "alternativas": [
+      "São doenças transmitidas apenas entre humanos.",
+      "São doenças transmitidas de animais para humanos.",
+      "São doenças que surgem exclusivamente em ambientes hospitalares.",
+      "São doenças transmitidas apenas por mosquitos."
+    ],
+    "correta": "São doenças transmitidas de animais para humanos.",
+    "comentario": "Zoonoses são doenças que podem ser transmitidas entre animais e seres humanos."
+  },
+  {
+    "texto": null,
+    "pergunta": "É uma doença infecciosa febril aguda, transmitida pela picada da fêmea infectada do Aedes aegypti. O quadro clínico pode variar desde formas assintomáticas até graves, incluindo choque e óbito. Trata-se de:",
+    "alternativas": ["Leptospirose", "Malária", "Dengue", "Chikungunya"],
+    "correta": "Dengue",
+    "comentario": "A dengue é transmitida pela picada da fêmea do Aedes aegypti infectado, podendo evoluir de formas leves a graves."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o controle do vetor da dengue, assinale a alternativa correta:",
+    "alternativas": [
+      "O tratamento focal é feito em depósitos de água de consumo.",
+      "O combate é feito apenas com inseticida na fase adulta do mosquito.",
+      "As visitas domiciliares não incluem orientação aos moradores.",
+      "O transporte de ovos não contribui para a dispersão do vetor."
+    ],
+    "correta": "O tratamento focal é feito em depósitos de água de consumo.",
+    "comentario": "O tratamento focal consiste na aplicação de larvicida em depósitos de água de consumo para interromper o ciclo do mosquito."
+  },
+  {
+    "texto": null,
+    "pergunta": "É uma doença infecciosa transmitida principalmente pela urina de roedores infectados, que pode contaminar água e solo. Estamos nos referindo a:",
+    "alternativas": ["Tuberculose", "Leptospirose", "Hanseníase", "Chagas"],
+    "correta": "Leptospirose",
+    "comentario": "A leptospirose é transmitida pela urina de roedores infectados, especialmente em enchentes e áreas alagadas."
+  },
+  {
+    "texto": null,
+    "pergunta": "São exemplos de Equipamentos de Proteção Individual (EPI) utilizados pelo agente de combate a endemias:",
+    "alternativas": [
+      "Óculos de proteção, luvas e máscara.",
+      "Bota, uniforme e crachá.",
+      "Boné, protetor solar e camisa de manga longa.",
+      "Lanterna, bolsa e prancheta."
+    ],
+    "correta": "Óculos de proteção, luvas e máscara.",
+    "comentario": "Os EPIs servem para proteger o trabalhador de riscos químicos e biológicos durante as atividades de campo."
+  },
+  {
+    "texto": null,
+    "pergunta": "O saneamento básico é fundamental para a prevenção de doenças. Entre os serviços essenciais, incluem-se:",
+    "alternativas": [
+      "Abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
+      "Coleta de impostos, limpeza de ruas e poda de árvores.",
+      "Vacinação, consultas médicas e internações hospitalares.",
+      "Produção agrícola, abastecimento alimentar e transporte público."
+    ],
+    "correta": "Abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
+    "comentario": "O saneamento básico é composto por serviços essenciais que contribuem diretamente para a saúde pública."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Sistema Único de Saúde (SUS) é regido por princípios e diretrizes. Assinale a alternativa que corresponde ao princípio da integralidade:",
+    "alternativas": [
+      "Acesso universal e igualitário.",
+      "Atendimento em todos os níveis de complexidade de forma articulada e contínua.",
+      "Ações descentralizadas, com direção única em cada esfera de governo.",
+      "Participação da comunidade na formulação e controle das ações de saúde."
+    ],
+    "correta": "Atendimento em todos os níveis de complexidade de forma articulada e contínua.",
+    "comentario": "A integralidade garante atenção em todos os níveis de complexidade, articulada e contínua."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente uma doença endêmica no Brasil:",
+    "alternativas": ["Varíola.", "Doença de Chagas.", "Ebola.", "SARS."],
+    "correta": "Doença de Chagas.",
+    "comentario": "A doença de Chagas é uma endemia presente em diversas regiões do Brasil."
+  },
+  {
+    "texto": null,
+    "pergunta": "O mosquito Aedes aegypti é vetor de várias doenças. Assinale a alternativa que apresenta corretamente uma doença transmitida por esse vetor:",
+    "alternativas": [
+      "Tuberculose.",
+      "Dengue.",
+      "Esquistossomose.",
+      "Leptospirose."
+    ],
+    "correta": "Dengue.",
+    "comentario": "O Aedes aegypti transmite dengue, zika, chikungunya e febre amarela."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre os sintomas da dengue, assinale a alternativa correta:",
+    "alternativas": [
+      "Febre alta, dores musculares e manchas vermelhas na pele.",
+      "Tosse seca e falta de ar.",
+      "Nódulos e manchas brancas na boca.",
+      "Paralisia muscular e visão dupla."
+    ],
+    "correta": "Febre alta, dores musculares e manchas vermelhas na pele.",
+    "comentario": "Os sintomas mais comuns da dengue incluem febre alta, dores no corpo e erupções cutâneas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um exemplo de medida preventiva contra a proliferação do Aedes aegypti:",
+    "alternativas": [
+      "Armazenar pneus em locais abertos.",
+      "Manter caixas d’água bem tampadas.",
+      "Deixar garrafas vazias destampadas.",
+      "Guardar baldes com água parada."
+    ],
+    "correta": "Manter caixas d’água bem tampadas.",
+    "comentario": "Manter caixas d’água tampadas evita o acúmulo de água e o desenvolvimento de criadouros do mosquito."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é uma doença transmitida por:",
+    "alternativas": [
+      "Ar.",
+      "Água e solo contaminados com urina de ratos.",
+      "Picada de mosquito.",
+      "Contato direto entre pessoas."
+    ],
+    "correta": "Água e solo contaminados com urina de ratos.",
+    "comentario": "A leptospirose é transmitida principalmente pelo contato com água ou solo contaminado com urina de roedores."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os Equipamentos de Proteção Individual (EPI) são fundamentais para a segurança do agente de combate a endemias. Assinale a alternativa correta:",
+    "alternativas": [
+      "Devem ser utilizados apenas em situações de emergência.",
+      "São de uso opcional.",
+      "Devem ser utilizados durante todas as atividades com risco.",
+      "São fornecidos pelo próprio trabalhador."
+    ],
+    "correta": "Devem ser utilizados durante todas as atividades com risco.",
+    "comentario": "Os EPIs devem ser utilizados sempre que houver risco para garantir a segurança do trabalhador."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um serviço incluso no saneamento básico:",
+    "alternativas": [
+      "Fornecimento de energia elétrica.",
+      "Esgotamento sanitário.",
+      "Serviço postal.",
+      "Educação básica."
+    ],
+    "correta": "Esgotamento sanitário.",
+    "comentario": "O saneamento básico compreende abastecimento de água, esgotamento sanitário, resíduos sólidos e drenagem urbana."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre as doenças de notificação compulsória, assinale a alternativa correta:",
+    "alternativas": [
+      "Devem ser notificadas apenas em casos de óbito.",
+      "A notificação é obrigatória mesmo em casos suspeitos.",
+      "Apenas hospitais particulares devem notificar.",
+      "A notificação é opcional."
+    ],
+    "correta": "A notificação é obrigatória mesmo em casos suspeitos.",
+    "comentario": "As doenças de notificação compulsória devem ser notificadas em casos suspeitos ou confirmados."
+  },
+  {
+    "texto": null,
+    "pergunta": "A pesquisa larvária realizada pelo agente de combate a endemias tem como objetivo principal:",
+    "alternativas": [
+      "Identificar a presença de larvas de mosquitos em recipientes com água.",
+      "Detectar vírus no sangue humano.",
+      "Calcular o número de casos de dengue em uma região.",
+      "Identificar a presença de mosquitos adultos em áreas abertas."
+    ],
+    "correta": "Identificar a presença de larvas de mosquitos em recipientes com água.",
+    "comentario": "A pesquisa larvária permite verificar a infestação pelo Aedes aegypti em depósitos de água."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Sistema Único de Saúde (SUS) é organizado de acordo com princípios e diretrizes. Assinale a alternativa que corresponde ao princípio da descentralização:",
+    "alternativas": [
+      "Garantia de atendimento universal.",
+      "Divisão de responsabilidades entre União, estados e municípios.",
+      "Atenção em todos os níveis de complexidade.",
+      "Participação social no controle das ações."
+    ],
+    "correta": "Divisão de responsabilidades entre União, estados e municípios.",
+    "comentario": "A descentralização distribui as responsabilidades da gestão do SUS entre União, estados e municípios."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um exemplo de zoonose:",
+    "alternativas": ["Hipertensão.", "Raiva.", "Diabetes.", "Hanseníase."],
+    "correta": "Raiva.",
+    "comentario": "A raiva é uma zoonose, transmitida ao homem por animais infectados."
+  },
+  {
+    "texto": null,
+    "pergunta": "O mosquito Aedes aegypti é vetor de várias doenças. Assinale a alternativa correta:",
+    "alternativas": [
+      "Tuberculose.",
+      "Leptospirose.",
+      "Chikungunya.",
+      "Esquistossomose."
+    ],
+    "correta": "Chikungunya.",
+    "comentario": "O Aedes aegypti transmite dengue, zika, chikungunya e febre amarela."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a dengue, assinale a alternativa correta:",
+    "alternativas": [
+      "É transmitida por contato entre pessoas.",
+      "É transmitida pela picada do Aedes aegypti infectado.",
+      "É transmitida pela ingestão de água contaminada.",
+      "É transmitida pelo ar."
+    ],
+    "correta": "É transmitida pela picada do Aedes aegypti infectado.",
+    "comentario": "A dengue é transmitida pela picada do mosquito Aedes aegypti infectado."
+  },
+  {
+    "texto": null,
+    "pergunta": "Um dos principais sintomas da dengue é:",
+    "alternativas": [
+      "Tosse persistente.",
+      "Febre alta súbita.",
+      "Manchas esbranquiçadas na boca.",
+      "Aumento da pressão arterial."
+    ],
+    "correta": "Febre alta súbita.",
+    "comentario": "A febre alta de início súbito é um dos sintomas típicos da dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
+    "alternativas": [
+      "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+      "Refere-se apenas à coleta de esgoto.",
+      "Se restringe ao tratamento de resíduos sólidos.",
+      "Engloba apenas a drenagem de ruas."
+    ],
+    "correta": "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+    "comentario": "O saneamento básico compreende um conjunto de serviços essenciais para a saúde pública."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é transmitida principalmente:",
+    "alternativas": [
+      "Pelo ar.",
+      "Por alimentos contaminados.",
+      "Pela urina de roedores que contamina água e solo.",
+      "Por picada de inseto."
+    ],
+    "correta": "Pela urina de roedores que contamina água e solo.",
+    "comentario": "A leptospirose é transmitida pela urina de ratos que contamina água ou solo, especialmente em enchentes."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa correta sobre Equipamentos de Proteção Individual (EPI):",
+    "alternativas": [
+      "São opcionais para os trabalhadores.",
+      "Devem ser usados apenas em emergências.",
+      "Devem ser usados durante toda a atividade com risco.",
+      "São de responsabilidade exclusiva do trabalhador."
+    ],
+    "correta": "Devem ser usados durante toda a atividade com risco.",
+    "comentario": "EPIs devem ser utilizados sempre que houver risco, garantindo proteção ao trabalhador."
+  },
+  {
+    "texto": null,
+    "pergunta": "Doenças de notificação compulsória são aquelas que:",
+    "alternativas": [
+      "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+      "Só precisam ser notificadas quando confirmadas.",
+      "Apenas hospitais particulares precisam notificar.",
+      "A notificação é opcional."
+    ],
+    "correta": "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+    "comentario": "A notificação compulsória é obrigatória para casos suspeitos ou confirmados, visando controle epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "A pesquisa larvária realizada pelo agente de combate a endemias tem como objetivo principal:",
+    "alternativas": [
+      "Contar mosquitos adultos.",
+      "Detectar vírus no sangue.",
+      "Identificar larvas do mosquito em recipientes com água.",
+      "Calcular o número de casos de dengue."
+    ],
+    "correta": "Identificar larvas do mosquito em recipientes com água.",
+    "comentario": "A pesquisa larvária permite identificar a presença de larvas do Aedes aegypti nos depósitos de água."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em Santa Catarina tem se observado situações recorrentes de enchentes e indivíduos que entraram em contato com esta água podem manifestar sintomas de Leptospirose. Nestes casos, uma das recomendações a ser adotada é:",
+    "alternativas": [
+      "Divulgar informes sobre a necessidade de avaliação médica para todo indivíduo exposto.",
+      "Manter vigilância ativa para identificação de casos suspeitos.",
+      "Os animais domésticos se contraírem leptospirose, eles não transmitem a doença.",
+      "Para desinfetar reservatórios de água, locais e objetos que entraram em contato com a enchente, usar Hipoclorito de Sódio a 2,5%."
+    ],
+    "correta": "Para desinfetar reservatórios de água, locais e objetos que entraram em contato com a enchente, usar Hipoclorito de Sódio a 2,5%.",
+    "comentario": "A recomendação correta é a desinfecção com Hipoclorito de Sódio a 2,5%."
+  },
+  {
+    "texto": null,
+    "pergunta": "Com relação às doenças transmitidas pelo Aedes aegypti, assinale a alternativa correta:",
+    "alternativas": [
+      "Febre Amarela Urbana, Dengue, Zika e Chikungunya.",
+      "Malária, Esquistossomose e Dengue.",
+      "Zika, Hanseníase e Chagas.",
+      "Febre Tifoide, Dengue e Zika."
+    ],
+    "correta": "Febre Amarela Urbana, Dengue, Zika e Chikungunya.",
+    "comentario": "O Aedes aegypti é vetor de Dengue, Zika, Chikungunya e Febre Amarela Urbana."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um exemplo de zoonose:",
+    "alternativas": ["Hipertensão.", "Raiva.", "Diabetes.", "Tuberculose."],
+    "correta": "Raiva.",
+    "comentario": "A raiva é uma zoonose transmitida por animais infectados."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
+    "alternativas": [
+      "É formado pelo abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
+      "Inclui apenas coleta de lixo.",
+      "Abrange somente fornecimento de energia elétrica.",
+      "Está limitado a limpeza de ruas."
+    ],
+    "correta": "É formado pelo abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
+    "comentario": "O saneamento básico compreende um conjunto de serviços essenciais para a saúde pública."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um sintoma comum da dengue:",
+    "alternativas": [
+      "Febre alta súbita.",
+      "Tosse com catarro.",
+      "Manchas brancas na boca.",
+      "Diarreia crônica."
+    ],
+    "correta": "Febre alta súbita.",
+    "comentario": "A febre alta de início súbito é um dos principais sintomas da dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa correta sobre Equipamentos de Proteção Individual (EPI):",
+    "alternativas": [
+      "São opcionais para os agentes.",
+      "Devem ser utilizados durante toda a atividade com risco.",
+      "São fornecidos pelo próprio trabalhador.",
+      "Devem ser usados apenas em emergências."
+    ],
+    "correta": "Devem ser utilizados durante toda a atividade com risco.",
+    "comentario": "Os EPIs devem ser usados continuamente em atividades com risco, para proteção do trabalhador."
+  },
+  {
+    "texto": null,
+    "pergunta": "As doenças de notificação compulsória são aquelas que:",
+    "alternativas": [
+      "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+      "Apenas hospitais particulares notificam.",
+      "Apenas quando confirmadas devem ser notificadas.",
+      "São notificadas apenas em caso de óbito."
+    ],
+    "correta": "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+    "comentario": "A notificação compulsória é obrigatória para casos suspeitos ou confirmados, visando o controle epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "A pesquisa larvária tem como principal objetivo:",
+    "alternativas": [
+      "Detectar vírus no sangue humano.",
+      "Identificar larvas de mosquitos em recipientes com água.",
+      "Contar mosquitos adultos.",
+      "Calcular o número de casos de dengue em determinada região."
+    ],
+    "correta": "Identificar larvas de mosquitos em recipientes com água.",
+    "comentario": "A pesquisa larvária é utilizada para identificar criadouros do mosquito Aedes aegypti."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Aedes aegypti é um mosquito vetor de arboviroses. Uma das medidas corretas para combater sua proliferação é:",
+    "alternativas": [
+      "Manter caixas d’água bem tampadas.",
+      "Armazenar pneus em locais abertos.",
+      "Deixar garrafas e baldes destampados.",
+      "Manter plantas aquáticas em vasos com água parada."
+    ],
+    "correta": "Manter caixas d’água bem tampadas.",
+    "comentario": "Manter caixas d’água fechadas evita acúmulo de água e proliferação de larvas."
+  },
+  {
+    "texto": null,
+    "pergunta": "O agente de combate a endemias ao orientar a população, deve destacar medidas preventivas contra a leptospirose. Assinale a alternativa correta:",
+    "alternativas": [
+      "Evitar contato com água de enchentes, usar botas e luvas.",
+      "Deixar alimentos expostos em áreas alagadas.",
+      "Não lavar reservatórios de água após enchentes.",
+      "Consumir água sem tratamento em locais de alagamento."
+    ],
+    "correta": "Evitar contato com água de enchentes, usar botas e luvas.",
+    "comentario": "O uso de botas, luvas e evitar contato direto com águas de enchente previne a leptospirose."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Sistema Único de Saúde (SUS) possui princípios e diretrizes. Assinale a alternativa que corresponde ao princípio da Universalidade:",
+    "alternativas": [
+      "Garantia de atenção em todos os níveis de complexidade.",
+      "Participação da comunidade no controle social.",
+      "Acesso à saúde para todos os cidadãos.",
+      "Descentralização das ações e serviços."
+    ],
+    "correta": "Acesso à saúde para todos os cidadãos.",
+    "comentario": "A Universalidade assegura que todos tenham direito ao acesso às ações e serviços de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "O mosquito Aedes aegypti é vetor de doenças como:",
+    "alternativas": [
+      "Tuberculose e hanseníase.",
+      "Zika e Chikungunya.",
+      "Leptospirose e Tétano.",
+      "Esquistossomose e Malária."
+    ],
+    "correta": "Zika e Chikungunya.",
+    "comentario": "O Aedes aegypti transmite arboviroses como dengue, zika, chikungunya e febre amarela urbana."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a dengue, assinale a alternativa correta:",
+    "alternativas": [
+      "É transmitida pela picada do mosquito Aedes aegypti infectado.",
+      "É transmitida por via aérea.",
+      "É transmitida por alimentos contaminados.",
+      "É transmitida por contato direto entre pessoas."
+    ],
+    "correta": "É transmitida pela picada do mosquito Aedes aegypti infectado.",
+    "comentario": "A dengue é transmitida pela picada da fêmea do mosquito Aedes aegypti infectado."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa que apresenta corretamente um sintoma da dengue:",
+    "alternativas": [
+      "Febre alta súbita.",
+      "Tosse persistente.",
+      "Manchas brancas na boca.",
+      "Aumento da pressão arterial."
+    ],
+    "correta": "Febre alta súbita.",
+    "comentario": "Febre alta de início súbito é um dos sintomas característicos da dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leptospirose é uma doença transmitida:",
+    "alternativas": [
+      "Pela urina de roedores que contamina água e solo.",
+      "Por picada de mosquitos.",
+      "Por secreções respiratórias.",
+      "Por alimentos industrializados."
+    ],
+    "correta": "Pela urina de roedores que contamina água e solo.",
+    "comentario": "A leptospirose é transmitida pela urina de ratos, especialmente em enchentes."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
+    "alternativas": [
+      "É formado por abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+      "Refere-se apenas à coleta de lixo.",
+      "Engloba somente fornecimento de energia elétrica.",
+      "Está restrito ao tratamento de resíduos hospitalares."
+    ],
+    "correta": "É formado por abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
+    "comentario": "O saneamento básico inclui serviços essenciais para a saúde pública."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os Equipamentos de Proteção Individual (EPI) são:",
+    "alternativas": [
+      "De uso opcional pelo trabalhador.",
+      "Fornecidos pelo próprio trabalhador.",
+      "Devem ser utilizados durante toda a atividade com risco.",
+      "Usados apenas em situações emergenciais."
+    ],
+    "correta": "Devem ser utilizados durante toda a atividade com risco.",
+    "comentario": "O uso de EPIs é obrigatório sempre que houver risco à saúde do trabalhador."
+  },
+  {
+    "texto": null,
+    "pergunta": "As doenças de notificação compulsória são aquelas que:",
+    "alternativas": [
+      "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+      "São notificadas apenas em casos de óbito.",
+      "Apenas hospitais privados notificam.",
+      "São de notificação voluntária."
+    ],
+    "correta": "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
+    "comentario": "A notificação compulsória é obrigatória em casos suspeitos ou confirmados, para controle epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "A pesquisa larvária tem como objetivo principal:",
+    "alternativas": [
+      "Identificar larvas do mosquito em recipientes com água.",
+      "Calcular o número de casos de dengue.",
+      "Contar mosquitos adultos em áreas abertas.",
+      "Detectar vírus no sangue humano."
+    ],
+    "correta": "Identificar larvas do mosquito em recipientes com água.",
+    "comentario": "A pesquisa larvária permite verificar a presença de larvas do Aedes aegypti."
+  },
+  {
+    "texto": null,
+    "pergunta": "Assinale a alternativa correta sobre medidas preventivas contra o Aedes aegypti:",
+    "alternativas": [
+      "Deixar pneus ao ar livre.",
+      "Manter caixas d’água tampadas.",
+      "Armazenar baldes com água parada.",
+      "Deixar garrafas vazias destampadas."
+    ],
+    "correta": "Manter caixas d’água tampadas.",
+    "comentario": "Manter caixas d’água bem fechadas evita o desenvolvimento de criadouros do mosquito."
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minhas Questões de Concurso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div id="selecao-tema">
+      <h1>Vamos a luta 👊🏼</h1>
+      <p>Escolha o tema para começar as questões:</p>
+      <button class="btn-tema" data-tema="endemias">Agente de Endemias</button>
+    </div>
+
+    <div id="quiz-container" style="display: none;">
+      <div class="quiz-header">
+        <div id="quiz-titulo"></div>
+        <div id="contador-questoes"></div>
+      </div>
+      <h2 id="pergunta-texto"></h2>
+      <ul id="alternativas-lista"></ul>
+      <div id="feedback-container" style="display: none;">
+        <strong id="resultado-texto"></strong>
+        <p id="comentario-texto"></p>
+      </div>
+      <div class="botoes-quiz">
+        <button class="btn-acao" id="btn-corrigir">Corrigir esta questão</button>
+        <button class="btn-acao" id="btn-proxima" style="display: none;">Próxima Questão</button>
+      </div>
+      <div class="botoes-navegacao">
+        <button class="btn-nav" id="btn-reiniciar">Reiniciar Simulado</button>
+        <button class="btn-nav" id="btn-menu">Voltar ao Menu</button>
+      </div>
+    </div>
+
+    <div id="placar-final" style="display:none;">
+      <h2>Fim do Simulado!</h2>
+      <p id="placar-texto"></p>
+      <button class="btn-tema" id="btn-menu-final">Voltar ao Início</button>
+    </div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+
+</html>
