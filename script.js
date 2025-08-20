@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const btnMenu = document.getElementById("btn-menu");
   const btnMenuFinal = document.getElementById("btn-menu-final");
 
-  // FUNÇÕES DE GERENCIAMENTO DE PROGRESSO (RESTAURADAS)
+  // FUNÇÕES DE GERENCIAMENTO DE PROGRESSO (sem alterações)
   function salvarProgresso() {
     const progresso = {
       tema: temaAtual,
@@ -49,7 +49,9 @@ document.addEventListener("DOMContentLoaded", () => {
       selecaoTemaDiv.style.display = "none";
       quizContainerDiv.style.display = "block";
 
-      tituloQuizEl.textContent = "Agente de Endemias";
+      const nomeTema =
+        temaAtual === "endemias" ? "Agente de Endemias" : "Português";
+      tituloQuizEl.textContent = nomeTema;
       mostrarQuestao();
     }
   }
@@ -59,11 +61,25 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // FUNÇÕES PRINCIPAIS
-  async function carregarQuestoesJSON(caminhoDoArquivo) {
+
+  // ---> CORREÇÃO 1: Função de inicialização corrigida
+  async function inicializar() {
     try {
-      const resposta = await fetch(caminhoDoArquivo);
-      if (!resposta.ok) throw new Error(`Erro HTTP: ${resposta.status}`);
-      todasAsQuestoes = await resposta.json();
+      // Carrega os dois arquivos JSON em paralelo para mais eficiência
+      const [questoesEndemias, questoesPortugues] = await Promise.all([
+        fetch("questoes_endemias.json").then((res) => res.json()),
+        fetch("questoes_portugues.json").then((res) => res.json()),
+      ]);
+
+      // Adiciona uma propriedade "tema" a cada questão para podermos filtrar depois
+      questoesEndemias.forEach((q) => (q.tema = "endemias"));
+      questoesPortugues.forEach((q) => (q.tema = "portugues"));
+
+      // Junta todas as questões de ambos os temas em um único array
+      todasAsQuestoes = [...questoesEndemias, ...questoesPortugues];
+
+      // Tenta carregar um progresso salvo
+      carregarProgresso();
     } catch (erro) {
       console.error("Não foi possível carregar as questões:", erro);
       alert("Houve um erro ao carregar as questões. Verifique o console.");
@@ -79,6 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return novoArray;
   }
 
+  // ---> CORREÇÃO 2: Função de iniciar o quiz agora filtra pelo tema
   function iniciarQuiz(tema) {
     if (todasAsQuestoes.length === 0) {
       alert("Aguarde, as questões ainda estão sendo carregadas.");
@@ -86,7 +103,10 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     temaAtual = tema;
-    questoesAtuais = embaralharArray(todasAsQuestoes);
+    // Filtra o array `todasAsQuestoes` para pegar apenas as do tema selecionado
+    const questoesDoTema = todasAsQuestoes.filter((q) => q.tema === tema);
+    questoesAtuais = embaralharArray(questoesDoTema);
+
     questaoAtualIndex = 0;
     pontuacao = 0;
 
@@ -94,9 +114,11 @@ document.addEventListener("DOMContentLoaded", () => {
     placarFinalDiv.style.display = "none";
     quizContainerDiv.style.display = "block";
 
-    tituloQuizEl.textContent = "Agente de Endemias";
+    const nomeTema = tema === "endemias" ? "Agente de Endemias" : "Português";
+    tituloQuizEl.textContent = nomeTema;
+
     mostrarQuestao();
-    salvarProgresso(); // Salva o início do quiz
+    salvarProgresso();
   }
 
   function mostrarQuestao() {
@@ -135,6 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // ---> MELHORIA 3: Trata o caso de comentários nulos ou vazios
   function corrigirQuestao() {
     const alternativaSelecionada = document.querySelector(
       'input[name="alternativa"]:checked'
@@ -147,8 +170,18 @@ document.addEventListener("DOMContentLoaded", () => {
     const respostaUsuario = alternativaSelecionada.value;
     const questao = questoesAtuais[questaoAtualIndex];
 
+    // Verifica se existe um comentário válido antes de exibi-lo
+    if (
+      questao.comentario &&
+      questao.comentario.trim() !== "" &&
+      questao.comentario.trim().toLowerCase() !== "null"
+    ) {
+      comentarioTextoEl.innerHTML = `<span class="comentario-titulo">Comentário:</span> ${questao.comentario}`;
+    } else {
+      comentarioTextoEl.innerHTML = ""; // Limpa a área de comentário se não houver
+    }
+
     feedbackContainerEl.style.display = "block";
-    comentarioTextoEl.innerHTML = `<span class="comentario-titulo">Comentário:</span> ${questao.comentario}`;
 
     if (respostaUsuario === questao.correta) {
       resultadoTextoEl.innerText = "Você Acertou!";
@@ -169,21 +202,21 @@ document.addEventListener("DOMContentLoaded", () => {
       btnProxima.innerText = "Ver Resultado Final";
     }
 
-    salvarProgresso(); // Salva o progresso após corrigir
+    salvarProgresso();
   }
 
   function proximaQuestao() {
     questaoAtualIndex++;
     if (questaoAtualIndex < questoesAtuais.length) {
       mostrarQuestao();
-      salvarProgresso(); // Salva o progresso ao ir para a próxima questão
+      salvarProgresso();
     } else {
       mostrarPlacarFinal();
     }
   }
 
   function mostrarPlacarFinal() {
-    limparProgresso(); // Limpa o progresso ao finalizar
+    limparProgresso();
     quizContainerDiv.style.display = "none";
     placarFinalDiv.style.display = "block";
 
@@ -241,10 +274,5 @@ document.addEventListener("DOMContentLoaded", () => {
   btnMenuFinal.addEventListener("click", () => window.location.reload());
 
   // INICIALIZAÇÃO
-  async function inicializar() {
-    await carregarQuestoesJSON("questoes_endemias.json");
-    carregarProgresso();
-  }
-
   inicializar();
 });
