@@ -742,7 +742,7 @@
   },
   {
     "texto": null,
-    "pergunta": "Em relação aos níveis de assistência (primário, secundário e terciário), marque V ou F: I - A atenção primária é constituída por UBS, ACS, ESF e NASF. II - A atenção secundária é formada por serviços especializados ambulatoriais e hospitalares. III - A atenção terciária envolve alta complexidade, alto custo e alta tecnologia. Assinale a alternativa correta:",
+    "pergunta": "Em relação aos níveis de assistência (primário, secundário e terciário), marque V ou F: \nI - A atenção primária é constituída por UBS, ACS, ESF e NASF. \nII - A atenção secundária é formada por serviços especializados ambulatoriais e hospitalares. \nIII - A atenção terciária envolve alta complexidade, alto custo e alta tecnologia. Assinale a alternativa correta:",
     "alternativas": [
       "F, V, V.",
       "V, V, V.",
