@@ -62,20 +62,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // FUNÇÕES PRINCIPAIS
 
-  // ---> CORREÇÃO 1: Função de inicialização corrigida
+  // FUNÇÃO DE INICIALIZAÇÃO CORRIGIDA
   async function inicializar() {
     try {
-      // Carrega os dois arquivos JSON em paralelo para mais eficiência
+      // Carrega os dois arquivos JSON ao mesmo tempo
       const [questoesEndemias, questoesPortugues] = await Promise.all([
         fetch("questoes_endemias.json").then((res) => res.json()),
         fetch("questoes_portugues.json").then((res) => res.json()),
       ]);
 
-      // Adiciona uma propriedade "tema" a cada questão para podermos filtrar depois
+      // Adiciona uma propriedade "tema" em cada questão para filtragem
       questoesEndemias.forEach((q) => (q.tema = "endemias"));
       questoesPortugues.forEach((q) => (q.tema = "portugues"));
 
-      // Junta todas as questões de ambos os temas em um único array
+      // Junta todas as questões em um único array
       todasAsQuestoes = [...questoesEndemias, ...questoesPortugues];
 
       // Tenta carregar um progresso salvo
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return novoArray;
   }
 
-  // ---> CORREÇÃO 2: Função de iniciar o quiz agora filtra pelo tema
+  // FUNÇÃO INICIARQUIZ CORRIGIDA (FILTRA POR TEMA)
   function iniciarQuiz(tema) {
     if (todasAsQuestoes.length === 0) {
       alert("Aguarde, as questões ainda estão sendo carregadas.");
@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     temaAtual = tema;
-    // Filtra o array `todasAsQuestoes` para pegar apenas as do tema selecionado
+    // Filtra o array `todasAsQuestoes` para pegar apenas as do tema correto
     const questoesDoTema = todasAsQuestoes.filter((q) => q.tema === tema);
     questoesAtuais = embaralharArray(questoesDoTema);
 
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ---> MELHORIA 3: Trata o caso de comentários nulos ou vazios
+  // FUNÇÃO CORRIGIR CORRIGIDA (TRATA COMENTÁRIOS NULOS)
   function corrigirQuestao() {
     const alternativaSelecionada = document.querySelector(
       'input[name="alternativa"]:checked'
