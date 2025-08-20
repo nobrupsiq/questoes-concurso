@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  let todasAsQuestoes = [];
   let questoesAtuais = [];
   let questaoAtualIndex = 0;
   let pontuacao = 0;
@@ -25,8 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const btnMenu = document.getElementById("btn-menu");
   const btnMenuFinal = document.getElementById("btn-menu-final");
 
-  // FUNÇÕES DE GERENCIAMENTO DE ESTADO (LocalStorage)
-
+  // FUNÇÕES DE GERENCIAMENTO DE PROGRESSO (RESTAURADAS)
   function salvarProgresso() {
     const progresso = {
       tema: temaAtual,
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
       selecaoTemaDiv.style.display = "none";
       quizContainerDiv.style.display = "block";
 
-      tituloQuizEl.textContent = "Agente de Endemias"; // Título fixo
+      tituloQuizEl.textContent = "Agente de Endemias";
       mostrarQuestao();
     }
   }
@@ -58,17 +58,15 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.removeItem("progressoSimulado");
   }
 
-  //FUNÇÕES PRINCIPAIS DAS PERGUNTAS
-
+  // FUNÇÕES PRINCIPAIS
   async function carregarQuestoesJSON(caminhoDoArquivo) {
     try {
       const resposta = await fetch(caminhoDoArquivo);
       if (!resposta.ok) throw new Error(`Erro HTTP: ${resposta.status}`);
-      return await resposta.json();
+      todasAsQuestoes = await resposta.json();
     } catch (erro) {
       console.error("Não foi possível carregar as questões:", erro);
       alert("Houve um erro ao carregar as questões. Verifique o console.");
-      return [];
     }
   }
 
@@ -81,14 +79,14 @@ document.addEventListener("DOMContentLoaded", () => {
     return novoArray;
   }
 
-  async function iniciarQuiz(tema) {
-    let caminhoArquivo = "questoes_endemias.json";
-    const questoesOriginais = await carregarQuestoesJSON(caminhoArquivo);
-
-    if (questoesOriginais.length === 0) return;
+  function iniciarQuiz(tema) {
+    if (todasAsQuestoes.length === 0) {
+      alert("Aguarde, as questões ainda estão sendo carregadas.");
+      return;
+    }
 
     temaAtual = tema;
-    questoesAtuais = embaralharArray(questoesOriginais);
+    questoesAtuais = embaralharArray(todasAsQuestoes);
     questaoAtualIndex = 0;
     pontuacao = 0;
 
@@ -96,9 +94,9 @@ document.addEventListener("DOMContentLoaded", () => {
     placarFinalDiv.style.display = "none";
     quizContainerDiv.style.display = "block";
 
-    tituloQuizEl.textContent = "Agente de Endemias"; // Título fixo
+    tituloQuizEl.textContent = "Agente de Endemias";
     mostrarQuestao();
-    salvarProgresso();
+    salvarProgresso(); // Salva o início do quiz
   }
 
   function mostrarQuestao() {
@@ -178,14 +176,14 @@ document.addEventListener("DOMContentLoaded", () => {
     questaoAtualIndex++;
     if (questaoAtualIndex < questoesAtuais.length) {
       mostrarQuestao();
-      salvarProgresso();
+      salvarProgresso(); // Salva o progresso ao ir para a próxima questão
     } else {
       mostrarPlacarFinal();
     }
   }
 
   function mostrarPlacarFinal() {
-    limparProgresso();
+    limparProgresso(); // Limpa o progresso ao finalizar
     quizContainerDiv.style.display = "none";
     placarFinalDiv.style.display = "block";
 
@@ -209,21 +207,23 @@ document.addEventListener("DOMContentLoaded", () => {
     feedbackContainerEl.classList.remove("correto", "errado");
   }
 
-  // FUNÇÕES DOS BOTÕES
-
   function voltarAoMenu() {
     if (
       confirm(
-        "Tem certeza que deseja voltar ao menu? Seu progresso neste simulado será perdido."
+        "Tem certeza que deseja voltar ao menu? Seu progresso será perdido."
       )
     ) {
       limparProgresso();
-      window.location.reload(); // Recarrega a página para o estado inicial
+      window.location.reload();
     }
   }
 
   function reiniciarSimulado() {
-    if (confirm("Tem certeza que deseja reiniciar este simulado?")) {
+    if (
+      confirm(
+        "Tem certeza que deseja reiniciar o simulado? Todo o seu progresso será perdido."
+      )
+    ) {
       limparProgresso();
       iniciarQuiz(temaAtual);
     }
@@ -241,5 +241,10 @@ document.addEventListener("DOMContentLoaded", () => {
   btnMenuFinal.addEventListener("click", () => window.location.reload());
 
   // INICIALIZAÇÃO
-  carregarProgresso();
+  async function inicializar() {
+    await carregarQuestoesJSON("questoes_endemias.json");
+    carregarProgresso();
+  }
+
+  inicializar();
 });
