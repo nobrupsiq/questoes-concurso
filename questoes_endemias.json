@@ -832,17 +832,17 @@
     "comentario": "Na difteria grave pode haver inchaço no pescoço, conhecido como 'pescoço de touro'."
   },
   {
-    "texto": null,
+    "texto": "Leia o trecho a seguir:\n\n\"A saúde pública no Brasil enfrenta desafios constantes relacionados à coleta e análise de informações. Sistemas como o SINASC, o SINAN e o SIAB são fundamentais para compreender o perfil epidemiológico e planejar políticas de saúde.\"",
     "pergunta": "Sobre os sistemas de informação em saúde, assinale a alternativa correta:",
     "alternativas": [
-      "F, F, V.",
-      "F, V, V.",
-      "F, V, F.",
-      "V, V, F.",
-      "V, F, V."
+      "O SINASC é responsável pela coleta de dados de agravos e doenças de notificação compulsória.",
+      "O SIAB foi criado em 1990 e coleta informações sobre nascidos vivos no Brasil.",
+      "O SINAN é o sistema que coleta notificações de agravos e doenças, sendo essencial para vigilância epidemiológica.",
+      "O SINASC coleta dados territoriais da atenção básica, auxiliando o planejamento local.",
+      "O SIAB registra exclusivamente óbitos no território nacional."
     ],
-    "correta": "F, V, V.",
-    "comentario": "O SINASC existe desde 1990, o Sinan coleta notificações de agravos, e o SIAB coleta dados territoriais da atenção básica."
+    "correta": "O SINAN é o sistema que coleta notificações de agravos e doenças, sendo essencial para vigilância epidemiológica.",
+    "comentario": "O SINAN é utilizado para registro e acompanhamento de doenças e agravos de notificação compulsória, enquanto o SINASC coleta dados sobre nascidos vivos e o SIAB dados da atenção básica."
   },
   {
     "texto": null,
