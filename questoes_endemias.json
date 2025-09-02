@@ -1657,5 +1657,550 @@
     ],
     "correta": "Manter caixas d’água tampadas.",
     "comentario": "Manter caixas d’água bem fechadas evita o desenvolvimento de criadouros do mosquito."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', desde que ano o Laboratório de Referência em Esquistossomose do Instituto Aggeu Magalhães (IAM/Fiocruz) desenvolve pesquisas em Epidemiologia da Esquistossomose?",
+    "alternativas": ["1975", "1980", "1987", "1996"],
+    "correta": "1987",
+    "comentario": "O IAM/Fiocruz desenvolve pesquisas em Epidemiologia da Esquistossomose desde 1987."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', qual é a estimativa de indivíduos infectados pelo Schistosoma mansoni no Brasil, considerado o país mais afetado das Américas, de acordo com Noya et al., 2015?",
+    "alternativas": [
+      "500 mil indivíduos",
+      "1 milhão de indivíduos",
+      "1,5 milhão de indivíduos",
+      "2 milhões de indivíduos"
+    ],
+    "correta": "1,5 milhão de indivíduos",
+    "comentario": "Segundo Noya et al., 2015, essa é a estimativa de infectados no Brasil."
+  },
+  {
+    "texto": null,
+    "pergunta": "Ainda sobre o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', em que ano foi implantado no Brasil o Programa Especial de Controle da Esquistossomose (PECE), a primeira iniciativa para controlar a doença?",
+    "alternativas": ["1960", "1972", "1975", "1988"],
+    "correta": "1975",
+    "comentario": "Ano de implantação do Programa Especial de Controle da Esquistossomose (PECE)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual medicamento, utilizado a partir de meados da década de 70, foi responsável por reduzir drasticamente a prevalência da esquistossomose no Brasil através de tratamentos em massa, conforme o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
+    "alternativas": [
+      "Niclosamida",
+      "Oxamniquina",
+      "Praziquantel",
+      "Metrifonato"
+    ],
+    "correta": "Praziquantel",
+    "comentario": "A introdução do praziquantel na década de 70 revolucionou o controle, permitindo tratamento em massa."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', qual foi a prevalência de esquistossomose registrada no primeiro inquérito nacional de prevalência para a doença em 1950?",
+    "alternativas": ["0,99%", "6,6%", "10%", "25%"],
+    "correta": "10%",
+    "comentario": "O primeiro inquérito nacional de prevalência (1950) registrou cerca de 10%."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', qual das seguintes espécies de caramujo não foi encontrada naturalmente infectada por S. mansoni no Brasil, mas possui suscetibilidade à infecção em condições experimentais?",
+    "alternativas": [
+      "Biomphalaria glabrata",
+      "Biomphalaria straminea",
+      "Biomphalaria tenagophila",
+      "Biomphalaria amazonica"
+    ],
+    "correta": "Biomphalaria amazonica",
+    "comentario": "Nunca encontrada naturalmente infectada no Brasil, mas suscetível em laboratório."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', em média, quantos dias podem levar para a formação e desprendimento das cercárias para a coleção hídrica, em condições ideais de temperatura de aproximadamente 28°C?",
+    "alternativas": [
+      "15 a 20 dias",
+      "20 a 25 dias",
+      "27 a 30 dias",
+      "35 a 40 dias"
+    ],
+    "correta": "27 a 30 dias",
+    "comentario": "Tempo médio para liberação de cercárias em condições ideais de 28 °C."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', um 'foco' é definido como:",
+    "alternativas": [
+      "Toda coleção de água doce com a presença do caramujo vetor.",
+      "Toda coleção hídrica que expõe a comunidade local ao risco de infecção.",
+      "Toda coleção hídrica que apresente indícios de contaminação fecal.",
+      "Todo criadouro onde se encontra caramujo infectado por S. mansoni, com o exame para detectar a infecção feito em laboratório."
+    ],
+    "correta": "Todo criadouro onde se encontra caramujo infectado por S. mansoni, com o exame para detectar a infecção feito em laboratório.",
+    "comentario": "Definição oficial de “foco”."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual o método mais empregado para verificar se os caramujos estão infectados por S. mansoni ou outros trematódeos, por ser mais fácil visualizar as cercárias vivas e em movimento característico, conforme o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
+    "alternativas": [
+      "Exame por Esmagamento",
+      "Exame de Exposição à Luz",
+      "PCR Simples",
+      "Nested PCR"
+    ],
+    "correta": "Exame de Exposição à Luz",
+    "comentario": "Mais utilizado, pois permite observar cercárias vivas em movimento."
+  },
+  {
+    "texto": null,
+    "pergunta": "A principal limitação do método Kato-Katz em áreas de baixa prevalência para esquistossomose, de acordo com o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', é que ele:",
+    "alternativas": [
+      "Possui alta especificidade, mas baixa sensibilidade para outros helmintos.",
+      "Permite a contagem de OPG, mas não diferencia as espécies.",
+      "Requer fezes frescas e não pode ser usado com fezes diarreicas.",
+      "Perde sensibilidade e o número de resultados falso negativos aumenta quando os indivíduos infectados tendem a ter baixas cargas parasitárias."
+    ],
+    "correta": "Perde sensibilidade e o número de resultados falso negativos aumenta quando os indivíduos infectados tendem a ter baixas cargas parasitárias.",
+    "comentario": "Principal limitação do método Kato-Katz em áreas de baixa endemicidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual o fator de conversão para obter o número de ovos por grama de fezes (OPG) a partir do número de ovos encontrados na lâmina no método Kato-Katz, conforme o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
+    "alternativas": ["12", "18", "24", "36"],
+    "correta": "24",
+    "comentario": "Fator de conversão para ovos por grama de fezes (OPG)."
+  },
+  {
+    "texto": null,
+    "pergunta": "A técnica Nested PCR, quando utilizada no diagnóstico malacológico e resultando positiva para DNA do parasito, mas sem liberação de cercárias pelo caramujo, indica que o criadouro é considerado o quê, de acordo com o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
+    "alternativas": [
+      "Um foco inativo.",
+      "Um criadouro temporário.",
+      "Um foco potencial de transmissão.",
+      "Uma área indene."
+    ],
+    "correta": "Um foco potencial de transmissão.",
+    "comentario": "Resultado positivo por PCR indica risco mesmo sem eliminação de cercárias."
+  },
+  {
+    "texto": null,
+    "pergunta": "Para o controle de qualidade interno das lâminas examinadas por microscopia (independentemente da metodologia), qual percentual das lâminas lidas por um microscopista deve ser selecionado aleatoriamente para reexame por outro microscopista do mesmo laboratório, segundo o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
+    "alternativas": ["5%", "10%", "15%", "20%"],
+    "correta": "10%",
+    "comentario": "Percentual mínimo de lâminas a serem reexaminadas em controle de qualidade interno."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo a OMS (2002), quais são as classificações da carga parasitária para infecção por esquistossomose?",
+    "alternativas": [
+      "Leve: 1-99 OPG; Moderada: 100-299 OPG; Grave: ≥ 300 OPG.",
+      "Leve: 0-99 OPG; Moderada: 100-399 OPG; Grave: ≥ 400 OPG.",
+      "Leve: < 50 OPG; Moderada: 50-200 OPG; Grave: > 200 OPG.",
+      "Leve: 0-10 OPG; Moderada: 11-100 OPG; Grave: > 100 OPG."
+    ],
+    "correta": "Leve: 0-99 OPG; Moderada: 100-399 OPG; Grave: ≥ 400 OPG.",
+    "comentario": "Classificação da OMS (2002)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme a 'Vigilância da Esquistossomose Mansoni', quais foram os primeiros registros históricos da esquistossomose, comprovados por Ruffer em 1910?",
+    "alternativas": [
+      "Desenhos em papiros antigos descrevendo a doença.",
+      "Relatos de surtos em comunidades ribeirinhas na antiguidade.",
+      "Ovos de Schistosoma encontrados em vísceras de múmias egípcias que remontam a 1.250 a.C.",
+      "Documentos chineses de 2 mil anos que mencionam a 'doença do caramujo'."
+    ],
+    "correta": "Ovos de Schistosoma encontrados em vísceras de múmias egípcias que remontam a 1.250 a.C.",
+    "comentario": "Primeiro registro histórico, descrito por Ruffer em 1910."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com a 'Vigilância da Esquistossomose Mansoni', como é definida uma área de baixa endemicidade para esquistossomose, segundo o Sistema de Informação do Programa de Vigilância e Controle da Esquistossomose (SISPCE/SVS/MS)?",
+    "alternativas": [
+      "Positividade ≥10% e menos que 1% de infecção intensa (≥400 OPG).",
+      "Positividade ≥10% e percentual de infecção intensa (≥400 OPG) maior ou igual a 1%.",
+      "Positividade <10% e menos que 1% de infecção intensa (≥400 OPG).",
+      "Positividade <5% e sem casos de infecção intensa."
+    ],
+    "correta": "Positividade <10% e menos que 1% de infecção intensa (≥400 OPG).",
+    "comentario": "Definição de baixa endemicidade (SISPCE)."
+  },
+  {
+    "texto": null,
+    "pergunta": "No contexto da 'Vigilância da Esquistossomose Mansoni', qual a principal diferença na dinâmica de transmissão da esquistossomose entre áreas urbanas e rurais?",
+    "alternativas": [
+      "Na área rural, a transmissão é sazonal; na urbana, é perene.",
+      "Na área rural, o contato é acidental; na urbana, está ligado a atividades laborais.",
+      "Na área rural, o contato ocorre ao desenvolver atividades laborais e de lazer em focos perenes; na urbana, o contato ocorre acidentalmente em ruas alagadas, valas de drenagem, esgotos a céu aberto, que funcionam como criadouros temporários.",
+      "Na área rural, a espécie vetor é B. glabrata; na urbana, é B. straminea."
+    ],
+    "correta": "Na área rural, o contato ocorre ao desenvolver atividades laborais e de lazer em focos perenes; na urbana, o contato ocorre acidentalmente em ruas alagadas, valas de drenagem, esgotos a céu aberto, que funcionam como criadouros temporários.",
+    "comentario": "Diferença central na dinâmica de transmissão."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é a definição de caso suspeito de esquistossomose, conforme a 'Vigilância da Esquistossomose Mansoni'?",
+    "alternativas": [
+      "Indivíduo com história de contato com águas doces e presença de S. mansoni nas fezes.",
+      "Indivíduo com quadro clínico compatível com a forma crônica da doença e hepatoesplenomegalia.",
+      "Indivíduo com quadro clínico sugestivo das formas aguda e crônica ou assintomático, com história de contato com águas doces que tenham ou não a presença de caramujos hospedeiros intermediários do S. mansoni.",
+      "Indivíduo residente em área endêmica com resultados sorológicos reagentes para S. mansoni."
+    ],
+    "correta": "Indivíduo com quadro clínico sugestivo das formas aguda e crônica ou assintomático, com história de contato com águas doces que tenham ou não a presença de caramujos hospedeiros intermediários do S. mansoni.",
+    "comentario": "Definição de caso suspeito."
+  },
+  {
+    "texto": null,
+    "pergunta": "No levantamento inicial (LI) da esquistossomose, qual técnica de exame parasitológico de fezes é indicada para conhecer as cargas parasitárias e avaliar o impacto das ações de controle, de acordo com a 'Vigilância da Esquistossomose Mansoni'?",
+    "alternativas": [
+      "Sedimentação espontânea (Lutz/HPJ)",
+      "Helmintex",
+      "Kato-Katz quantitativo, com duas lâminas de uma mesma amostra de fezes.",
+      "Pesquisa de antígeno circulante."
+    ],
+    "correta": "Kato-Katz quantitativo, com duas lâminas de uma mesma amostra de fezes.",
+    "comentario": "Método indicado no levantamento inicial."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em áreas de baixa endemicidade para esquistossomose (positividade <10% e menos que 1% de infecção intensa), qual a recomendação para a realização do teste de Kato-Katz, segundo a 'Vigilância da Esquistossomose Mansoni'?",
+    "alternativas": [
+      "Duas lâminas de uma única amostra de fezes.",
+      "Seis lâminas de uma única amostra de fezes.",
+      "Três amostras de fezes coletadas em dias alternados, com leitura de duas lâminas de cada amostra de fezes.",
+      "Testes sorológicos como triagem, seguidos de Kato-Katz em casos positivos."
+    ],
+    "correta": "Três amostras de fezes coletadas em dias alternados, com leitura de duas lâminas de cada amostra de fezes.",
+    "comentario": "Recomendação em áreas de baixa endemicidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com a 'Vigilância da Esquistossomose Mansoni', qual a recomendação para a periodicidade dos inquéritos ou avaliações subsequentes após o levantamento inicial, em média, e qual a priorização para áreas urbanas e rurais?",
+    "alternativas": [
+      "Anualmente, com prioridade para escolares em áreas rurais e toda a população em áreas urbanas.",
+      "Bienalmente, com prioridade para toda a população em áreas urbanas e escolares em áreas rurais.",
+      "A cada dois anos, em média. Em área urbana, sugere-se inquéritos em escolares; em área rural, a investigação deve incluir toda a população, priorizando aqueles entre 6 e 15 anos.",
+      "Trimestralmente, com foco em adultos de 15 a 49 anos em ambas as áreas."
+    ],
+    "correta": "A cada dois anos, em média. Em área urbana, sugere-se inquéritos em escolares; em área rural, a investigação deve incluir toda a população, priorizando aqueles entre 6 e 15 anos.",
+    "comentario": "Periodicidade de inquéritos após o LI."
+  },
+  {
+    "texto": null,
+    "pergunta": "Para a remessa de caramujos vivos destinados à identificação e ao exame de infecção por S. mansoni, qual técnica proposta por W. L. Paraense é detalhada na 'Vigilância da Esquistossomose Mansoni', com foco na condição de umidade?",
+    "alternativas": [
+      "Acondicionamento em frascos com água oxigenada para garantir a oxigenação.",
+      "Utilização de sacos plásticos hermeticamente fechados e cheios de água.",
+      "Embalagem em recipientes com etanol 70% para conservação imediata.",
+      "Umedecer uma gaze de algodão e espremê-la muito bem para que fique levemente úmida antes de envolver os caramujos."
+    ],
+    "correta": "Umedecer uma gaze de algodão e espremê-la muito bem para que fique levemente úmida antes de envolver os caramujos.",
+    "comentario": "Técnica proposta por Paraense para envio de caramujos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas', qual é a função básica de uma larvitrampa na vigilância entomológica?",
+    "alternativas": [
+      "Monitorar a densidade de mosquitos adultos.",
+      "Avaliar a eficácia de larvicidas em campo.",
+      "Detecção precoce da introdução do vetor em locais como portos fluviais ou marítimos, aeroportos e terminais rodoviários.",
+      "Servir como criadouro para estudos laboratoriais."
+    ],
+    "correta": "Detecção precoce da introdução do vetor em locais como portos fluviais ou marítimos, aeroportos e terminais rodoviários.",
+    "comentario": "Função básica das larvitrampas."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas', como é calculado o Índice de Ovos por Ovitrampa (IDO)?",
+    "alternativas": [
+      "Número de ovos dividido pelo número de ovitrampas examinadas.",
+      "Número de ovos multiplicado por 100, dividido pelo número de ovitrampas positivas.",
+      "Número de ovos multiplicado por 100, dividido pelo número de ovitrampas examinadas.",
+      "Número de ovos dividido pelo número de ovitrampas instaladas."
+    ],
+    "correta": "Número de ovos multiplicado por 100, dividido pelo número de ovitrampas examinadas.",
+    "comentario": "Fórmula do Índice de Ovos por Ovitrampa (IDO)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual o pré-requisito mínimo de monitoramento contínuo de ovitrampas para a implementação de determinadas tecnologias, como estações disseminadoras de larvicidas (EDLs) ou a liberação de Ae. aegypti com Wolbachia, conforme as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas'?",
+    "alternativas": ["Um mês", "Dois meses", "Três meses", "Seis meses"],
+    "correta": "Três meses",
+    "comentario": "Tempo mínimo de monitoramento contínuo com ovitrampas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas', a implementação de Estações Disseminadoras de Larvicidas (EDLs) tem um rendimento médio de quantas EDLs por equipe em um dia (oito horas de trabalho)?",
+    "alternativas": [
+      "5 a 10 EDLs",
+      "10 a 15 EDLs",
+      "15 a 20 EDLs",
+      "20 a 25 EDLs"
+    ],
+    "correta": "20 a 25 EDLs",
+    "comentario": "Produtividade média de implementação das estações disseminadoras."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual percentual de redução na taxa de eclosão de larvas foi obtido nos testes da Técnica do Inseto Estéril (TIE) por irradiação, iniciados em Recife em 2017, quando comparada à área de controle, de acordo com as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas'?",
+    "alternativas": ["25%", "50%", "75%", "90%"],
+    "correta": "50%",
+    "comentario": "Redução observada com a Técnica do Inseto Estéril em Recife (2017)."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com as 'Diretrizes Nacionais para Prevenção e Controle das Arboviroses Urbanas', como é calculado o Índice de Infestação Predial (IIP)?",
+    "alternativas": [
+      "(Recipientes positivos / Imóveis pesquisados) x 100.",
+      "(Imóveis positivos / Recipientes positivos) x 100.",
+      "(Imóveis positivos / Imóveis pesquisados) x 100.",
+      "(Imóveis pesquisados / Imóveis positivos) x 100."
+    ],
+    "correta": "(Imóveis positivos / Imóveis pesquisados) x 100.",
+    "comentario": "Cálculo do Índice de Infestação Predial (IIP)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual a recomendação para o descarte de itens como copos descartáveis, tampas de garrafas, latas e embalagens plásticas que possam acumular água, visando o controle de arboviroses, conforme a 'Cartilha Dengue - Agentes de Combate às Endemias'?",
+    "alternativas": [
+      "Descartar no lixo comum, sem cuidados adicionais.",
+      "Queimar ou incinerar para eliminar possíveis ovos.",
+      "Separar e colocar devidamente fechados em sacos plásticos para descarte.",
+      "Reutilizar sempre que possível para outros fins."
+    ],
+    "correta": "Separar e colocar devidamente fechados em sacos plásticos para descarte.",
+    "comentario": "Recomendação da cartilha de combate à dengue."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', a 'Busca ativa de casos' tem como propósito fundamental:",
+    "alternativas": [
+      "Confirmar diagnósticos laboratoriais de casos já notificados.",
+      "Avaliar a efetividade das medidas de controle já implementadas.",
+      "Identificar casos suspeitos adicionais (notificados ou não) no espaço geográfico onde houver suspeita da existência de contatos e/ou fonte de contágio ativa.",
+      "Realizar inquéritos sorológicos em populações de baixo risco."
+    ],
+    "correta": "Identificar casos suspeitos adicionais (notificados ou não) no espaço geográfico onde houver suspeita da existência de contatos e/ou fonte de contágio ativa.",
+    "comentario": "Objetivo central da busca ativa."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o 'Guia de Vigilância Epidemiológica', a investigação epidemiológica deve buscar responder a questões essenciais. Uma dessas questões é: 'Trata-se realmente de casos da doença que se suspeita?' Qual a informação produzida ao responder a essa questão?",
+    "alternativas": [
+      "Identificação de fatores de risco.",
+      "Determinação do período de transmissibilidade.",
+      "Confirmação do diagnóstico.",
+      "Medidas de controle."
+    ],
+    "correta": "Confirmação do diagnóstico.",
+    "comentario": "Questão fundamental da investigação epidemiológica."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o 'Guia de Vigilância Epidemiológica', qual sistema de informação é o instrumento de coleta de dados para o registro de doenças e agravos de notificação compulsória?",
+    "alternativas": ["SIH/SUS", "SIA/SUS", "SIM", "Sinan"],
+    "correta": "Sinan",
+    "comentario": "Sistema usado para agravos de notificação compulsória."
+  },
+  {
+    "texto": null,
+    "pergunta": "Ainda no 'Guia de Vigilância Epidemiológica', o Sistema de Informações sobre Mortalidade (SIM) permite a construção de importantes indicadores. Qual das seguintes opções não é um dado que pode ser obtido a partir desse sistema para delineamento do perfil de saúde?",
+    "alternativas": [
+      "Mortalidade proporcional por causas.",
+      "Letalidade de agravos dos quais se conheça a incidência.",
+      "Taxas de mortalidade geral, infantil ou materna.",
+      "Incidência de nascidos vivos com baixo peso."
+    ],
+    "correta": "Incidência de nascidos vivos com baixo peso.",
+    "comentario": "Dado que não pode ser obtido diretamente pelo SIM."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', qual a recomendação sobre a coleta de material para exames laboratoriais em casos de suspeita de doença transmissível de notificação compulsória?",
+    "alternativas": [
+      "Devem ser coletadas apenas após a instituição do tratamento.",
+      "Somente em casos graves, onde o diagnóstico clínico não é suficiente.",
+      "Não se deve aguardar os resultados dos exames para dar início às medidas de controle.",
+      "A coleta deve ser feita exclusivamente por profissionais de laboratório."
+    ],
+    "correta": "Não se deve aguardar os resultados dos exames para dar início às medidas de controle.",
+    "comentario": "Medida preventiva prioritária."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual a duração aproximada do efeito residual dos piretróides em superfícies de parede para o controle químico de vetores em Leishmaniose Visceral, segundo o 'Manual de Vigilância e Controle da Leishmaniose Visceral'?",
+    "alternativas": ["1 mês", "3 meses", "6 meses", "12 meses"],
+    "correta": "3 meses",
+    "comentario": "Efeito residual aproximado dos piretróides em paredes."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o 'Manual de Vigilância e Controle da Leishmaniose Visceral', qual a metodologia proposta para o levantamento entomológico em zona rural e urbana para flebotomíneos?",
+    "alternativas": [
+      "Coleta manual com tubo de sucção.",
+      "Armadilhas adesivas.",
+      "Armadilha de isca luminosa, usando a localidade para a zona rural e os setores de zoneamento para o controle do Aedes aegypti para a zona urbana.",
+      "Armadilhas com animais ou feromônios."
+    ],
+    "correta": "Armadilha de isca luminosa, usando a localidade para a zona rural e os setores de zoneamento para o controle do Aedes aegypti para a zona urbana.",
+    "comentario": "Metodologia recomendada."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Tratamento da Malária no Brasil', qual o método de diagnóstico de malária que tem sua eficácia diagnóstica dependente da qualidade dos reagentes, de pessoal bem treinado e experiente na leitura das lâminas e de permanente supervisão?",
+    "alternativas": [
+      "Testes rápidos.",
+      "Reação em cadeia da polimerase (PCR).",
+      "Gota espessa.",
+      "Exame parasitológico direto."
+    ],
+    "correta": "Gota espessa.",
+    "comentario": "Método diagnóstico padrão para malária, dependente de treinamento."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação à Leptospirose, de acordo com o 'Guia de Vigilância Epidemiológica' e o 'Leptospirose - Diagnóstico e Manejo Clínico', quais exames devem ser solicitados para avaliação inicial de pacientes internados com suspeita clínica?",
+    "alternativas": [
+      "Apenas sorologia para leptospirose e hemograma.",
+      "Hemoculturas para Leptospira e culturas para outros aeróbios.",
+      "Hemograma; bioquímica (ureia, creatinina, bilirrubina total e frações, atividade de protrombina, TGO, TGP, gama GT, FA, CPK, Na+ e K+); radiografia de tórax; gasometria arterial; ECG; sorologia para leptospirose; e hemoculturas para Leptospira e aeróbios.",
+      "Apenas exames inespecíficos como ureia, creatinina e bilirrubinas."
+    ],
+    "correta": "Hemograma; bioquímica (ureia, creatinina, bilirrubina total e frações, atividade de protrombina, TGO, TGP, gama GT, FA, CPK, Na+ e K+); radiografia de tórax; gasometria arterial; ECG; sorologia para leptospirose; e hemoculturas para Leptospira e aeróbios.",
+    "comentario": "Exames iniciais recomendados para suspeita de leptospirose."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o 'Guia de Vigilância Epidemiológica', qual é o agente etiológico da Leptospirose?",
+    "alternativas": [
+      "Vírus helicoidal aeróbico obrigatório.",
+      "Fungo aeróbico facultativo.",
+      "Bactéria helicoidal (espiroqueta) aeróbica obrigatória do gênero Leptospira.",
+      "Protozoário flagelado."
+    ],
+    "correta": "Bactéria helicoidal (espiroqueta) aeróbica obrigatória do gênero Leptospira.",
+    "comentario": "Agente etiológico da leptospirose."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', ao suspeitar de caso de Cólera, qual técnica de coleta de amostras de fezes é indicada para processamento de 24 a 72 horas após a coleta, se mantidas em temperatura ambiente (ou até 7 dias sob refrigeração)?",
+    "alternativas": [
+      "Fezes in natura em frasco limpo e seco.",
+      "Swab retal ou fecal em meio de transporte Cary-Blair.",
+      "Swab Moore para resíduos líquidos.",
+      "Coleta de água peptonada alcalina."
+    ],
+    "correta": "Swab retal ou fecal em meio de transporte Cary-Blair.",
+    "comentario": "Indicado para cólera, mantém viabilidade de 24–72h."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Guia de Vigilância Epidemiológica', a incidência da raiva silvestre tem estimulado a implantação de ações de vigilância e pesquisa em animais silvestres. Com qual objetivo essas ações devem ser realizadas?",
+    "alternativas": [
+      "Identificar a raça predominante de animais silvestres envolvidos.",
+      "Permitir um maior entendimento da raiva no ciclo silvestre.",
+      "Determinar o período de incubação da doença em cada espécie.",
+      "Desenvolver vacinas específicas para animais silvestres."
+    ],
+    "correta": "Permitir um maior entendimento da raiva no ciclo silvestre.",
+    "comentario": "Objetivo da vigilância em animais silvestres."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', qual o principal representante de serpentes peçonhentas da família Elapidae de importância médica no Brasil, caracterizado por hábitos fossoriais e pequeno tamanho de presas?",
+    "alternativas": [
+      "Gênero Bothrops (jararaca).",
+      "Gênero Crotalus (cascavel).",
+      "Gênero Lachesis (surucucu).",
+      "Gênero Micrurus (coral verdadeira)."
+    ],
+    "correta": "Gênero Micrurus (coral verdadeira).",
+    "comentario": "Principal representante da família Elapidae de importância médica."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Guia de Vigilância Epidemiológica', qual espécie de escorpião é considerada de maior interesse médico no Brasil, devido à facilidade de proliferação por partenogênese, alta adaptação ao meio urbano e grande potencial de gravidade do envenenamento?",
+    "alternativas": [
+      "Tityus bahiensis",
+      "Tityus stigmurus",
+      "Tityus paraensis",
+      "Tityus serrulatus"
+    ],
+    "correta": "Tityus serrulatus",
+    "comentario": "Escorpião de maior interesse médico no Brasil."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', o diagnóstico laboratorial da Febre Maculosa Brasileira por RIFI é estabelecido pela presença de anticorpos específicos no soro de pacientes. Qual o requisito para confirmação diagnóstica pela sorologia, utilizando duas amostras de soro?",
+    "alternativas": [
+      "Aumento de 2 vezes no título de anticorpos entre as amostras.",
+      "Título igual ou superior a 1:40 na primeira amostra.",
+      "Aumento de 4 vezes ou mais no título de anticorpos específicos, entre amostras colhidas nas fases aguda e de convalescença.",
+      "Título reagente na segunda amostra, independente do título da primeira."
+    ],
+    "correta": "Aumento de 4 vezes ou mais no título de anticorpos específicos, entre amostras colhidas nas fases aguda e de convalescença.",
+    "comentario": "Critério sorológico confirmatório para febre maculosa."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual o método diagnóstico ideal para a Febre Maculosa, que consiste no isolamento do agente etiológico a partir de sangue (coágulo) ou fragmentos de tecidos, segundo o 'Guia de Vigilância Epidemiológica'?",
+    "alternativas": [
+      "Reação de Imunofluorescência Indireta (RIFI).",
+      "Ensaio imunoenzimático (ELISA).",
+      "PCR (Reação em Cadeia da Polimerase).",
+      "Cultura com isolamento da Rickettsia."
+    ],
+    "correta": "Cultura com isolamento da Rickettsia.",
+    "comentario": "Método diagnóstico ideal."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o 'Guia de Vigilância Epidemiológica', qual a conduta para amostras de soro para sorologia de Febre Maculosa em relação à coleta e transporte?",
+    "alternativas": [
+      "Podem ser colhidas a qualquer tempo e enviadas em temperatura ambiente.",
+      "Devem ser colhidas apenas antes do uso de antibióticos e enviadas congeladas.",
+      "Podem ser colhidas em qualquer tempo, encaminhadas ao Lacen, devidamente identificadas, em isopor com gelo comum ou seco, acompanhadas da ficha de investigação preenchida.",
+      "Devem ser armazenadas em formalina tamponada e transportadas em temperatura ambiente."
+    ],
+    "correta": "Podem ser colhidas em qualquer tempo, encaminhadas ao Lacen, devidamente identificadas, em isopor com gelo comum ou seco, acompanhadas da ficha de investigação preenchida.",
+    "comentario": "Recomendação para envio de amostras."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Vigilância Epidemiológica', a coleta de flebotomíneos com armadilha adesiva para Leishmaniose Tegumentar Americana (LTA) é uma técnica de intercepção. Quantas folhas de papel sulfite são impregnadas com óleo de rícino para compor uma armadilha, e qual a duração da viscosidade para grudar os insetos?",
+    "alternativas": [
+      "Três folhas, por 3 dias.",
+      "Quatro folhas, por 5 dias.",
+      "Cinco folhas, por uma semana.",
+      "Dez folhas, por 15 dias."
+    ],
+    "correta": "Cinco folhas, por uma semana.",
+    "comentario": "Composição da armadilha adesiva para flebotomíneos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação aos 'Acidentes de Trabalho com Exposição a Material Biológico', o 'Guia de Vigilância Epidemiológica' lista diversas doenças que podem ser transmitidas. Qual das seguintes não é mencionada como de interesse na vigilância para este tipo de acidente?",
+    "alternativas": ["Tuberculose", "Meningite", "Dengue", "Malária"],
+    "correta": "Dengue",
+    "comentario": "Não listada como doença de interesse em acidentes de trabalho com material biológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "No 'Guia de Conduta Ética do Ministério da Saúde', quem poderá provocar a atuação da Comissão de Ética no que se refere à apuração de infração ética imputada a agente público, órgão ou setor específico do MS?",
+    "alternativas": [
+      "Apenas agentes públicos do Ministério da Saúde.",
+      "Somente a Ouvidoria do Ministério da Saúde.",
+      "Qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe.",
+      "Exclusivamente o Ministro da Saúde."
+    ],
+    "correta": "Qualquer cidadão, agente público, pessoa jurídica de direito privado, associação ou entidade de classe.",
+    "comentario": "Guia de Conduta Ética do MS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual sistema de informação do SUS foi formalmente implantado em todo o território nacional em 1991 e é um instrumento de ordenação do pagamento dos serviços ambulatoriais (públicos e conveniados), conforme o 'Guia de Vigilância Epidemiológica'?",
+    "alternativas": ["SIH/SUS", "Sinan", "SIA/SUS", "Sinasc"],
+    "correta": "SIA/SUS",
+    "comentario": "Implantado em 1991, organiza pagamentos de serviços ambulatoriais."
   }
 ]
