@@ -2202,5 +2202,571 @@
     "alternativas": ["SIH/SUS", "Sinan", "SIA/SUS", "Sinasc"],
     "correta": "SIA/SUS",
     "comentario": "Implantado em 1991, organiza pagamentos de serviços ambulatoriais."
+  },
+  {
+    "texto": null,
+    "pergunta": "O processo saúde-doença leva em consideração condições internas e externas, tendo alguns modelos explicativos. Das alternativas abaixo, marque qual não apresenta uma característica do modelo Social:",
+    "alternativas": [
+      "Considera os fatores sociais, econômicos e ambientais",
+      "Adoecimento como evento isolado do contexto social",
+      "Propõe ações de promoção da saúde e prevenção de doenças",
+      "Adoecer é resultado da interação com o meio e as condições de vida"
+    ],
+    "correta": "Adoecimento como evento isolado do contexto social",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual das alternativas abaixo aponta para  determinantes classificados como Biológicos?",
+    "alternativas": [
+      "idade e emprego",
+      "Escolaridade e hereditariedade",
+      "Genética e sexo",
+      "Emprego e segurança alimentar"
+    ],
+    "correta": "Genética e sexo",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Dentre as várias etapas da avaliação e identificação de áreas de risco ambiental e sanitário, existe uma que considera os fatores epidemiológicos, registro de doenças e ocupação do solo, estamos falando de:",
+    "alternativas": [
+      "Mapeamento de áreas",
+      "Dados de probabilidade e suscetibilidade de doenças",
+      "População exposta a agravos endêmicos",
+      "Análise de dados"
+    ],
+    "correta": "Análise de dados",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Leia as afirmativas a seguir: I - Os DSS são circunstâncias em que as pessoas nascem, crescem, vivem, trabalham e envelhecem, e que influenciam sua saúde e bem estar; II - Os DSS ajudam identificar as causas da desigualdade na saúde e a direcionar ações para promover a equidade. Marque a alternativa correta:",
+    "alternativas": [
+      "A alternativa I é falsa e a II é verdadeira",
+      "As duas alternativas são falsas",
+      "Somente a alternativa I é verdadeira",
+      "As duas alternativas são verdadeiras"
+    ],
+    "correta": "As duas alternativas são verdadeiras",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O Agente de Endemias ao se deparar com o surto de casos de Dengue em uma determinada localidade, pode definir medidas de controle. Marque a alternativa que não apresenta uma medida de controle de áreas de risco ambiental e sanitário:",
+    "alternativas": [
+      "Diagnóstico para intervenção na evolução da doença",
+      "Intervenção em focos de risco",
+      "Educação e conscientização",
+      "Plano de ação"
+    ],
+    "correta": "Diagnóstico para intervenção na evolução da doença",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O trabalho dos ACE está atrelado a vários fatores, dentre eles a avaliação de risco ambiental e sanitário, pois:",
+    "alternativas": [
+      "Melhora a saúde pública",
+      "Permite a prevenção",
+      "Orienta as ações",
+      "Todas as alternativas anteriores estão corretas"
+    ],
+    "correta": "Todas as alternativas anteriores estão corretas",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Marque a alternativa que apresenta uma doença que está relacionada intrinsecamente com um determinante ambiental:",
+    "alternativas": [
+      "Sífilis",
+      "Glaucoma",
+      "Leptospirose",
+      "Hipertensão arterial"
+    ],
+    "correta": "Leptospirose",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A Lei Orgânica do SUS (Lei 8.080/1990) estabelece em seu artigo 3° os determinantes e condicionantes da saúde. Dentre as alternativas abaixo qual não representa um determinante/condicionante segundo essa lei:",
+    "alternativas": [
+      "Moradia",
+      "Meio ambiente",
+      "Acesso aos bens e serviços essenciais",
+      "Organização social"
+    ],
+    "correta": "Organização social",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O trabalho dos ACE muitas vezes está sujeito a avaliações ambientais para promover o controle de vetores/causadores de doenças. Marque a alternativa que corresponde um controle químico:",
+    "alternativas": [
+      "Panfletagem em local público",
+      "Inutilização de objetos que apresentam perigos na proliferação de mosquitos",
+      "Utilização de iscas e produtos para controle de roedores",
+      "Recolhimento de recipientes em terrenos baldios"
+    ],
+    "correta": "Utilização de iscas e produtos para controle de roedores",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Existem vários fatores que influenciam na saúde, positiva e negativamente, dentre eles os relacionados a hábitos alimentares e prática de esportes. Estamos falando de um determinante:",
+    "alternativas": ["Cultural", "Ambiental", "Biológico", "Psicossocial"],
+    "correta": "Cultural",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Os determinantes sócias da saúde (DSS) influenciam na saúde e no bem-estar da população. Marque a alternativa incorreta:",
+    "alternativas": [
+      "ajudam a identificar as causas da desigualdade na saúde e a direcionar ações para promover a equidade",
+      "permitem entender como as condições sociais afetam a saúde e como intervenções sociais podem melhorar os resultados de saúde",
+      "é essencial para a elaboração de políticas públicas mais justas e eficazes, que promovam a saúde para todos",
+      "promovem qualidade de vida da população, exercendo  desigualdades sociais correlatas"
+    ],
+    "correta": "promovem qualidade de vida da população, exercendo  desigualdades sociais correlatas",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A saúde e a doença já receberam diversos conceitos que ao longo do tempo foram sendo modificados a partir da cultura, das crenças e das descobertas científicas. Qual o conceito que mais se aproxima à concepção de saúde na contemporaneidade?",
+    "alternativas": [
+      "A saúde é um estado completo de bem-estar físico, mental e social e não meramente ausência de doença",
+      "A saúde é a ausência de doença",
+      "A saúde é resultante de diferentes determinantes sociais, culturais, econômicos e ambientais, é, portanto, resultado de formas de organização social de produção, as quais podem gerar profundas desigualdades nos níveis de vida",
+      "A saúde é um estado completo de bem-estar e de qualidade de vida"
+    ],
+    "correta": "A saúde é um estado completo de bem-estar físico, mental e social e não meramente ausência de doença",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A história clínica de muitas pessoas atendidas nos serviços de saúde revela condições de vida que afetam o bem-estar e a saúde. Considerando essa informação e com base nos determinantes sociais da saúde, assinale a alternativa correta. interferem apenas na saúde do indivíduo, sem qualquer importância para alterações nos determinantes sociais da saúde",
+    "alternativas": [
+      "O processo saúde-doença deve ser entendido como a relação entre as condições biológicas e as psicológicas e exclui a necessidade de abordar o contexto social",
+      "As condições de trabalho, a estrutura das redes sociais e comunitárias, o estilo de vida dos indivíduos, a idade, o sexo e aspectos hereditários são alguns dos fatores que exemplificam determinantes sociais da saúde",
+      "O impacto que a doença pode ter sobre a situação socioeconômica do indivíduo e da respectiva família compõe um contexto diferente do relativo à análise dos determinantes sociais da saúde",
+      "Políticas públicas de abrangência populacional, que promovem mudanças de hábitos,"
+    ],
+    "correta": "As condições de trabalho, a estrutura das redes sociais e comunitárias, o estilo de vida dos indivíduos, a idade, o sexo e aspectos hereditários são alguns dos fatores que exemplificam determinantes sociais da saúde",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual agente etiológico causador da doença de Chagas?",
+    "alternativas": [
+      "O morcego",
+      "O mocaco",
+      "O barbeiro",
+      "Trypanosoma cruzi"
+    ],
+    "correta": "Trypanosoma cruzi",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O Código de Conduta Ética do Ministério da Saúde, publicado pela Portaria GM/MS n.º 947, de 26 de abril de 2022, estabelece os princípios e as normas de conduta ética aplicáveis aos agentes públicos no âmbito da Pasta. Sobre os objetivos do código de conduta, analise as assertivas a seguir I. Estabelecer princípios e normas éticas que devem reger a conduta dos agentes públicos no âmbito do Ministério da Saúde. II. Evitar a ocorrência de situações que possam suscitar conflitos de ordem interpessoal no ambiente de trabalho. III. Fortalecer a cultura e o clima organizacional, de modo que sejam pautados na ética, na dignidade e no respeito ao serviço público. IV. Instituir instrumento referencial de apoio à decisão ética cotidiana. Está correto o que se afirma em: Alternativas",
+    "alternativas": [
+      "II, III e IV, apenas.",
+      "II e III, apenas.",
+      "I, II, III e IV.",
+      "I e III, apenas.",
+      "I, II e IV, apenas."
+    ],
+    "correta": "I, II e IV, apenas.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a conduta dos agentes públicos com o público externo, analise as assertivas a seguir: I. Respeito aos valores, às necessidades e às boas práticas da comunidade, contribuindo para a construção e a consolidação de uma consciência cidadã. II. Evitar interrupções por razões alheias ao atendimento ao cidadão. III. Manter clareza de posições e decoro, com vistas a motivar respeito e confiança junto ao público em geral. IV. Orientar e encaminhar corretamente o cidadão quando o atendimento precisar ser realizado em outra unidade ou órgão da Administração Pública.",
+    "alternativas": [
+      "II, III e IV, apenas",
+      "I, II e IV, apenas",
+      "I e III, apenas",
+      "II e III, apenas",
+      "I, II, III e IV"
+    ],
+    "correta": "I, II, III e IV",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Como é chamado o conjunto de investimentos públicos em políticas de controle, cujo objetivo é solucionar problemas de infraestrutura nas cidades, com o objetivo de melhorar a qualidade de vida da população?",
+    "alternativas": [
+      "Saneamento de resíduos sólidos.",
+      "Saneamento ambiental.",
+      "Saneamento de vigilância em saúde.",
+      "Saneamento público.",
+      "Saneamento panorâmico."
+    ],
+    "correta": "Saneamento público.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A ética profissional no serviço público é fundamentada em valores, que até configuram um dos princípios que regem o serviço público, permitindo julgamento do certo ou do errado, do bem ou mal. Esses valores estão relacionados à:",
+    "alternativas": [
+      "Moralidade.",
+      "Consciência.",
+      "Persistência.",
+      "Individualidade."
+    ],
+    "correta": "Moralidade.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A comunicação está presente  em nossas atividades cotidianas e  nas relações pessoais  que desenvolvemos, entre  elas  as relações de trabalho (Gama, Bahia e Godinho, 2019). Ao encontro disso, analise as afirmativas a seguir: I.A falta de compreensão no processo de comunicação ocasiona discordâncias nas relações interpessoais, interferindo no processo de trabalho. II.É essencial         conhecer os         elementos de ordem humana que podem interferir no processo da comunicação denominados de barreiras da comunicação. III.A comunicação é   a base das relações interpessoais  e o sucesso ou não dessa interação com as pessoas dependerá do grau  de comunicação         que conseguimos estabelecer. É correto o que se afirma em:",
+    "alternativas": [
+      "II, apenas.",
+      "I, apenas.",
+      "I, II e III.",
+      "I e II, apenas.",
+      "III, apenas."
+    ],
+    "correta": "I, II e III.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Uma doença que se manifesta com uma frequência constante e esperada numa população e região específica, pode ser considerada:",
+    "alternativas": ["um surto", "uma epdemia", "uma endemia", "uma pandemia"],
+    "correta": "um surto",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O Código de Conduta Ética do Ministério da Saúde, publicado pela Portaria GM/MS n.º 947, de 26 de abril de 2022, estabelece proibições aos agentes públicos da pasta. Sobre essas proibições, analise as assertivas a seguir: I. Quando no exercício do cargo público ou de atividades institucionais, no ambiente de trabalho ou fora dele, apresentar-se sob efeito de álcool ou de drogas ilícitas. II. Praticar ou tolerar a conduta de assédios (ou: assédio moral ou sexual), causando situações vexatórias e humilhantes que atinjam a dignidade e a integridade física e mental. III. Agir com abuso de autoridade, no exercício de suas funções ou a pretexto de exercê-las, com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal. IV. Repudiar as infrações éticas praticadas por outros agentes públicos e se adequar a prática delas. Está correto o que se afirma em: Alternativas",
+    "alternativas": [
+      "II, III e IV, apenas.",
+      "II e III, apenas.",
+      "I, II e III, apenas .",
+      "I e III, apenas.",
+      "I, II e IV, apenas."
+    ],
+    "correta": "I, II e III, apenas .",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Doença infecciosa, febril, que pode apresentar-se com espectro clínico assintomático ou com formas graves. Trabalhadores de limpeza e desentupimento de esgotos, garis, catadores de lixo, agricultores, veterinários, tratadores de animais, pescadores, entre outros, que possam estar direta ou indiretamente expostos à urina de animais infectados, principalmente roedores, apresentam maior risco de contrair a doença. Além disso, sua ocorrência está relacionada a condições inadequadas de saneamento e enchentes associadas à aglomeração populacional. Assinale a alternativa que cita a doença acima descrita.",
+    "alternativas": [
+      "Doença de Chagas.",
+      "Hanseníase.",
+      "Leptospirose.",
+      "Toxoplasmose.",
+      "Dengue."
+    ],
+    "correta": "Leptospirose.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O controle sanitário do meio ambiente é uma das principais implicações no combate às endemias, sendo executado por ações, tais como: I. Coleta e disposição adequada dos resíduos sólidos urbanos. II. Coleta e disposição adequada dos resíduos sólidos de serviços de saúde. III. Estímulo da população para ampliarem medidas de reciclagem, quando possível, do lixo doméstico. Está(riam) correta(s):",
+    "alternativas": [
+      "I, II e III.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "Apenas III."
+    ],
+    "correta": "I, II e III.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Complete a lacuna com a palavra correta: “De acordo com a Lei 11.445/07, podemos definir como__o conjunto de serviços, infraestruturas e instalações operacionais de abastecimento de água potável, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos e drenagem e manejo das águas pluviais urbanas.\"",
+    "alternativas": [
+      "Saúde Pública.",
+      "Medidas de controle.",
+      "Saneamento básico.",
+      "Educação ambiental.",
+      "Nenhuma das alternativas acima está correta."
+    ],
+    "correta": "Saneamento básico.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "– São objetivos da Epidemiologia, exceto:",
+    "alternativas": [
+      "Identificar as causas das doenças.",
+      "Investigar a história natural das doenças.",
+      "Descobrir moléculas promissoras para novos tratamentos farmacológicos.",
+      "Determinar a magnitude dos problemas de saúde da população."
+    ],
+    "correta": "Descobrir moléculas promissoras para novos tratamentos farmacológicos.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Epidemiologia é o conhecimento que permite estudar o processo saúde-doença em coletividades humanas tendo como objeto a distribuição da doença na população, no tempo e no lugar. No estudo do processo saúde-doença, a epidemiologia: I. Analisa a distribuição dos determinantes das doenças, dos danos e dos eventos relacionados à saúde. II. Propõe medidas específicas de prevenção e controle de doenças, de danos e de eventos relacionados à saúde. III. Subsidia, por meio de indicadores, o planejamento, a administração e a avaliação das ações em saúde. Está(ão) CORRETO(S):",
+    "alternativas": [
+      "I, II, apenas.",
+      "II, III, apenas.",
+      "I, II, III.",
+      "III, apenas."
+    ],
+    "correta": "I, II, III.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O conceito mais difundido atualmente designa a Epidemiologia como “o estudo da frequência, da distribuição e dos determinantes dos estados ou eventos relacionados à saúde em populações específicas e a aplicação desses estudos no controle dos problemas de saúde”. Desta forma, assinale a alternativa que não apresenta exemplos corretos de aplicação da Epidemiologia:",
+    "alternativas": [
+      "Análises epidemiológicas sobre doenças transmissíveis e doenças e agravos não transmissíveis, exceto os agravos decorrentes de alterações climáticas e ambientais.",
+      "Compreensão dos fatores envolvidos na história natural das doenças.",
+      "Definição de métodos diagnósticos e pontos de corte de maior sensibilidade e especificidade.",
+      "Melhoria da pesquisa nos serviços de saúde e apresentação de pareceres técnicos em diversas instâncias.",
+      "Identificação de padrões de distribuição geográfica de doenças e estabelecimento de prioridades para o controle de doenças."
+    ],
+    "correta": "Análises epidemiológicas sobre doenças transmissíveis e doenças e agravos não transmissíveis, exceto os agravos decorrentes de alterações climáticas e ambientais.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "\"Em uma fábrica de grande porte, muitos funcionários começaram apresentar os mesmos sintomas de diarreia, desde os funcionários da linha de produção até os que exercem funções administrativas\". (Correio Brasiliense, 21/05/2024) A notícia acima apresenta:",
+    "alternativas": [
+      "Uma epidemia, pois o número de casos ultrapassou a média dos meses anteriores.",
+      "Uma endemia, tendo em vista a prevalência da doença.",
+      "Uma pandemia, dado a rápida proliferação da doença.",
+      "Um surto, pois a houve um aumento localizado de casos da doença em local específico."
+    ],
+    "correta": "Um surto, pois a houve um aumento localizado de casos da doença em local específico.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Pref. Bombinhas/SC/ 2023.  A Dengue é uma arbovirose urbana frequentemente diagnosticada no Brasil. Com relação a doença, assinale a opção correta.",
+    "alternativas": [
+      "Os sintomas característicos apresentados pelos pacientes incluem febre, dor no corpo, dor de cabeça, exantema, petéquias, náuseas, vômitos.",
+      "Quem já teve dengue não terá novamente.",
+      "É transmitida através da picada somente do mosquito macho Aedes aegypti.",
+      "A infecção que ocorre no corpo humano é de origem bacteriana."
+    ],
+    "correta": "Os sintomas característicos apresentados pelos pacientes incluem febre, dor no corpo, dor de cabeça, exantema, petéquias, náuseas, vômitos.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Instituto Verbena/ 2023. A Dengue, a Zika e a Chikungunya são arboviroses cuja principal forma de transmissão é a vetorial, que ocorre pela picada de",
+    "alternativas": [
+      "fêmeas de Aedes aegypti infectadas.",
+      "machos de Aedes aegypti infectados.",
+      "fêmeas de Anopheles infectadas.",
+      "machos de Anopheles infectados."
+    ],
+    "correta": "fêmeas de Aedes aegypti infectadas.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "IBAM 2022. A dengue é um grave problema de saúde pública em nosso país. Seu agente etiológico é:",
+    "alternativas": [
+      "por uma bactéria.",
+      "por um protozoário.",
+      "um vírus.",
+      "um mosquito."
+    ],
+    "correta": "um vírus.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "IDESG 2025. A Chikungunya é uma doença viral que causa sintomas debilitantes, como febre e dores articulares intensas. Sobre o controle dessa doença, analise as assertivas: I. O tratamento inclui vacinas específicas e medicamentos antivirais. II. O controle é baseado na eliminação do vetor, o Aedes aegypti. III. A transmissão ocorre apenas pelo contato direto com pacientes infectados. Das assertivas, pode-se afirmar que:",
+    "alternativas": [
+      "Apenas II está correta.",
+      "Apenas I e II estão corretas.",
+      "I, II e III estão corretas.",
+      "Apenas II e III estão corretas."
+    ],
+    "correta": "Apenas II está correta.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "O vírus Zika é transmitido pelo mosquito Aedes aegypti. Qual dos sintomas abaixo NÃO está associado à infecção por Zika?",
+    "alternativas": [
+      "Febre baixa.",
+      "Dor nas articulações.",
+      "Conjuntivite sem secreção.",
+      "Perda de apetite prolongada."
+    ],
+    "correta": "Perda de apetite prolongada.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A Chikungunya é encontrada em todo o mundo, particularmente na África, Ásia e Índia. Os sintomas geralmente aparecem depois de uma semana de infecção. O tratamento visa aliviar os sintomas. A maioria das pessoas se sente melhor em cerca de uma semana, depois que o vírus segue seu curso. Quais os sintomas dessa doença?",
+    "alternativas": [
+      "febre, dor retroorbital, petequias, fraqueza.",
+      "vomito, cefaleia, mialgia, fraqueza.",
+      "Febre, dor e edema nas articulações, dor muscular.",
+      "Azia, febre, náuseas, mialgia e exantema"
+    ],
+    "correta": "Febre, dor e edema nas articulações, dor muscular.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Em relação à febre amarela, é CORRETO afirmar:",
+    "alternativas": [
+      "ainda não existe vacina para prevenção e controle da doença.",
+      "é causada por protozoário do gênero Plasmodium.",
+      "no ciclo silvestre, o principal hospedeiro é o homem.",
+      "no ciclo urbano, o Aedes aegypti é o principal mosquito transmissor"
+    ],
+    "correta": "no ciclo urbano, o Aedes aegypti é o principal mosquito transmissor",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A febre amarela é  uma doença viral grave, que possui dois ciclos de transmissão. No ciclo silvestre os principais vetores são:",
+    "alternativas": [
+      "Aedes aegypti e Sabethes.",
+      "Haemagogus e Sabethes.",
+      "Aedes aegypti e Haemagogus.",
+      "Culex e Aedes aegypti."
+    ],
+    "correta": "Haemagogus e Sabethes.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "No ciclo silvestre da febre amarela os hospedeiros principais são os primatas. Nesse sentido, aponte a alternativa que apresenta o hospedeiro acidental na transmissão silvestre da febre amarela:",
+    "alternativas": [
+      "o ser humano.",
+      "os macacos.",
+      "os primatas não humanos.",
+      "os equinos."
+    ],
+    "correta": "o ser humano.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A Dengue é uma doença viral que apresenta quatro sorotipos diferentes. É considerado um dos sorotipos mais virulantes, ou seja, tem uma capacidade maior de desencadear formas graves da Dengue:",
+    "alternativas": ["DENV-2", "DENV-1", "DENV-4", "DENV-3"],
+    "correta": "DENV-3",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "“A dengue aumentou 400% no Brasil, em 2024, em comparação ao ano passado”. Trata-se de uma doença infecciosa febril aguda, que pode se apresentar de forma benigna ou grave. Sobre a dengue, assinalar a alternativa CORRETA.",
+    "alternativas": [
+      "É transmitida pela água contaminada por urina de ratos.",
+      "Eliminar reservatórios de água parada é a melhor forma de evitar a proliferação dos transmissores da doença.",
+      "É desencadeada, principalmente, por mudanças bruscas de temperatura e umidade.",
+      "As baixas temperaturas são ideais para sua transmissão."
+    ],
+    "correta": "Eliminar reservatórios de água parada é a melhor forma de evitar a proliferação dos transmissores da doença.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "De janeiro a maio de 2025, o Brasil registrou mais de mil mortes por dengue, enfrentando uma nova circulação do sorotipo DENV-3 e adotando estratégias de combate à doença. Nesse contexto, sobre as medidas de prevenção e controle, é correto afirmar que:",
+    "alternativas": [
+      "Foi incorporada ao SUS a vacina contra a dengue Qdenga, distribuída inicialmente a crianças e adolescentes de 10 a 14 anos, e ainda há baixa procura, com apenas metade das doses aplicadas.",
+      "O governo cancelou a vacinação contra a dengue alegando baixo número de casos e excesso de doses em estoque.",
+      "A principal estratégia adotada foi o isolamento social, tendo como base o modelo usado na pandemia de COVID-19.",
+      "A única medida efetiva foi eliminar o Aedes aegypti por meio de fumacê aéreo, sem participação da população."
+    ],
+    "correta": "Foi incorporada ao SUS a vacina contra a dengue Qdenga, distribuída inicialmente a crianças e adolescentes de 10 a 14 anos, e ainda há baixa procura, com apenas metade das doses aplicadas.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A dengue vem afetando inúmeras famílias pelo Brasil, especialmente nas regiões com clima quente e chuvas frequentes, onde o mosquito, transmissor da doença, encontra condições ideais para a reprodução. A cada ano, o número de casos aumenta, trazendo sérios impactos para a saúde pública e causando preocupação entre as autoridades sanitárias. Sobre a dengue, assinale CORRETAMENTE:",
+    "alternativas": [
+      "As arboviroses são um grupo de doenças virais que são transmitidas principalmente por artrópodes, como mosquitos e carrapatos, mas a dengue se classifica como doenças virais hepáticas.",
+      "A dengue faz parte de um grupo de doenças denominadas arboviroses, que se caracterizam por serem causadas por vírus transmitidos por vetores artrópodes. No Brasil, o vetor da dengue é sempre o macho do mosquito Orthobunyavirus oropoucheense.",
+      "A dengue é uma doença febril aguda, sistêmica, dinâmica, debilitante e autolimitada, mas os doentes sempre se recuperam e nunca chegam a óbito.",
+      "A dengue faz parte de um grupo de doenças denominadas arboviroses, que se caracterizam por serem causadas por vírus transmitidos por vetores artrópodes. No Brasil, o vetor da dengue é a fêmea do mosquito Aedes aegypti."
+    ],
+    "correta": "A dengue faz parte de um grupo de doenças denominadas arboviroses, que se caracterizam por serem causadas por vírus transmitidos por vetores artrópodes. No Brasil, o vetor da dengue é a fêmea do mosquito Aedes aegypti.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Após a inclusão da vacina contra a dengue no Programa Nacional de Imunização (SUS), qual foi o grupo prioritário inicialmente abrangido, no mês de fevereiro, com as primeiras doses do imunizante Qdenga, recebidas pelo laboratório japonês Takeda?",
+    "alternativas": [
+      "Crianças de 04 a 10 anos.",
+      "Adolescentes de 10 a 14 anos.",
+      "Adultos de 18 a 45 anos.",
+      "Idosos acima de 60 anos"
+    ],
+    "correta": "Adolescentes de 10 a 14 anos.",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "Em 2024, a dengue levou vários estados brasileiros a decretarem estado de emergência em saúde pública nos primeiros meses do ano, após um alerta da Organização Mundial da Saúde (OMS) que apontava o Brasil como o país com o maior número de casos dessa doença no mundo. Diante desse cenário, qual foi a vacina aprovada pelo Brasil para a prevenção da dengue, uma doença viral transmitida pelo mosquito Aedes aegypti?",
+    "alternativas": ["BCG", "Qdenga", "AntiAedes", "DengVac"],
+    "correta": "Qdenga",
+    "comentario": null
+  },
+  {
+    "texto": null,
+    "pergunta": "A Leishmaniose é um conjunto de doenças parasitárias transmitidas pela picada:",
+    "alternativas": [
+      "da fêmea inctada do mosquito Aedes aegypti.",
+      "da fêmea infectada do mosquito macho Aedes aegypti.",
+      "da fêmea infectada do flebotomo, conhecido como mosquito palha.",
+      "da fêmea infectada do mosquito Anopheles."
+    ],
+    "correta": "da fêmea infectada do flebotomo, conhecido como mosquito palha.",
+    "comentario": "A Leishmaniose é transmitida pela picada da fêmea do flebotomíneo (mosquito-palha), e não pelo Aedes ou Anopheles."
+  },
+  {
+    "texto": null,
+    "pergunta": "FUNDATEC/ 2023.  Ainda sobre a Leishmaniose, doença infecciosa parasitária, porém, não diretamente contagiosa, além da forma visceral, que acomete vários órgãos internos, também se apresenta em forma de feridas na pele, nas mucosas do nariz, boca e garganta. Conhecida também como “ferida brava”, é denominada como Leishmaniose:",
+    "alternativas": [
+      "Celular.",
+      "Tegumentar ou cutânea.",
+      "Epidérmica.",
+      "Brava.",
+      "Dérmica."
+    ],
+    "correta": "Tegumentar ou cutânea.",
+    "comentario": "A forma tegumentar ou cutânea da leishmaniose é chamada popularmente de 'ferida brava', causando lesões na pele e mucosas."
+  },
+  {
+    "texto": null,
+    "pergunta": "A leishmaniose é uma doença transmitida por protozoários conhecidos com leishmânias. Ela pode ser dividida em dois tipos: a leishmaniose visceral e a tegumentar. Entre as alternativas abaixo, marque aquela que diz respeito à leishmaniose visceral, também conhecida como calazar.",
+    "alternativas": [
+      "Dentre os sintomas da doença, podemos destacar o aparecimento de feridas ulcerosas na pele e nas mucosas, que podem causar até mesmo deformidades.",
+      "Essa doença é transmitida pela ingestão de água e alimentos contaminados por cistos desse protozoário.",
+      "Quando a doença atinge a mucosa nasal, pode ocasionar a perfuração do septo nasal.",
+      "É causada principalmente pelo protozoário conhecido por Leishmania chagasi."
+    ],
+    "correta": "É causada principalmente pelo protozoário conhecido por Leishmania chagasi.",
+    "comentario": "A leishmaniose visceral (calazar) é causada pela Leishmania chagasi, atingindo órgãos internos como fígado e baço."
+  },
+  {
+    "texto": null,
+    "pergunta": "O inseto transmissor das Leishmanioses, também conhecidos como \"mosquito palha, tatuquira, birigüi, cangalhinha, asa-dura e palhinha\" são classificados como:",
+    "alternativas": [
+      "Mosquitos da família Diptera.",
+      "Insetos da família Psychodidae e subfamília Phlebotominae, conhecidos como Flebotomíneos.",
+      "Mosquitos da família Psychodidae e subfamília Phlebotominae.",
+      "Mosquitos do gênero Psychodidae e subfamília Phlebotominae."
+    ],
+    "correta": "Insetos da família Psychodidae e subfamília Phlebotominae, conhecidos como Flebotomíneos.",
+    "comentario": "Os vetores da Leishmaniose são flebotomíneos (mosquito-palha), pertencentes à família Psychodidae e subfamília Phlebotominae."
+  },
+  {
+    "texto": null,
+    "pergunta": "IBAM 2024 - A leishmaniose é uma doença parasitária causada pelo:",
+    "alternativas": [
+      "protozoário Leishmania.",
+      "parasita Plasmodium.",
+      "protozoário Chagasi.",
+      "parasita Entamoeba histolytica."
+    ],
+    "correta": "protozoário Leishmania.",
+    "comentario": "A Leishmaniose é causada por protozoários do gênero Leishmania. O Plasmodium causa malária, e a Entamoeba histolytica causa amebíase."
   }
 ]
