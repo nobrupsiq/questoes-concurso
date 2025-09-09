@@ -616,10 +616,10 @@
       "no lado interno da porta da sala",
       "no lado interno da porta do banheiro",
       "na parede da varanda",
-      "junto aos recipientes contaminados",
+      "no lado interno da parede da cozinha",
       "na parede interna de um dos quartos"
     ],
-    "correta": "no lado interno da porta da sala",
+    "correta": "no lado interno da parede da cozinha",
     "comentario": "A ficha deve ser fixada em local visível e de fácil acesso para conferência posterior."
   },
   {
@@ -703,7 +703,7 @@
   },
   {
     "texto": null,
-    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas: I - Os serviços devem estar organizados em níveis decrescentes de complexidade. II - Os serviços devem estar localizados em áreas geográficas específicas. III - O SUS deve ser centralizado. Assinale a alternativa correta:",
+    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas: \n\nI - Os serviços devem estar organizados em níveis decrescentes de complexidade. \n\nII - Os serviços devem estar localizados em áreas geográficas específicas. \n\nIII - O SUS deve ser centralizado. Assinale a alternativa correta:",
     "alternativas": [
       "V, F, V.",
       "F, V, F.",
@@ -1682,7 +1682,7 @@
     "pergunta": "Ainda sobre o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose', em que ano foi implantado no Brasil o Programa Especial de Controle da Esquistossomose (PECE), a primeira iniciativa para controlar a doença?",
     "alternativas": ["1960", "1972", "1975", "1988"],
     "correta": "1975",
-    "comentario": "Ano de implantação do Programa Especial de Controle da Esquistossomose (PECE)."
+    "comentario": "egundo o Manual Prático para o Diagnóstico e Controle da Esquistossomose, o Programa Especial de Controle da Esquistossomose (PECE) foi implantado em 1972, sendo a primeira iniciativa organizada em âmbito nacional para reduzir a prevalência da doença no Brasil."
   },
   {
     "texto": null,
@@ -1737,7 +1737,7 @@
       "Todo criadouro onde se encontra caramujo infectado por S. mansoni, com o exame para detectar a infecção feito em laboratório."
     ],
     "correta": "Todo criadouro onde se encontra caramujo infectado por S. mansoni, com o exame para detectar a infecção feito em laboratório.",
-    "comentario": "Definição oficial de “foco”."
+    "comentario": "Letra D. Exemplo: A definição de “foco” é específica: não basta haver caramujos ou risco de contaminação, é preciso comprovar a presença do Schistosoma mansoni no vetor por meio de exame laboratorial, garantindo precisão no diagnóstico e controle da doença.."
   },
   {
     "texto": null,
@@ -1749,7 +1749,7 @@
       "Nested PCR"
     ],
     "correta": "Exame de Exposição à Luz",
-    "comentario": "Mais utilizado, pois permite observar cercárias vivas em movimento."
+    "comentario": "Expondo a luz. Esse é o método mais utilizado porque permite observar facilmente as cercárias vivas e seus movimentos característicos, tornando o diagnóstico mais prático e eficiente em relação a outras técnicas."
   },
   {
     "texto": null,
@@ -1780,7 +1780,7 @@
       "Uma área indene."
     ],
     "correta": "Um foco potencial de transmissão.",
-    "comentario": "Resultado positivo por PCR indica risco mesmo sem eliminação de cercárias."
+    "comentario": "Segundo o Manual Prático para o Diagnóstico e Controle da Esquistossomose, quando a Nested PCR detecta DNA do parasita no caramujo, mas não há liberação de cercárias, o criadouro é classificado como foco potencial de transmissão, pois existe a presença do parasito, mesmo sem comprovação direta da eliminação de formas infectantes."
   },
   {
     "texto": null,
@@ -1823,7 +1823,7 @@
       "Positividade <5% e sem casos de infecção intensa."
     ],
     "correta": "Positividade <10% e menos que 1% de infecção intensa (≥400 OPG).",
-    "comentario": "Definição de baixa endemicidade (SISPCE)."
+    "comentario": "O SISPCE adota essa classificação porque áreas com <10% de prevalência e <1% de infecção intensa têm menor impacto em saúde pública, exigindo vigilância contínua, mas sem a mesma urgência de intervenções em massa aplicadas em áreas de média/alta endemicidade.."
   },
   {
     "texto": null,
@@ -1846,8 +1846,8 @@
       "Indivíduo com quadro clínico sugestivo das formas aguda e crônica ou assintomático, com história de contato com águas doces que tenham ou não a presença de caramujos hospedeiros intermediários do S. mansoni.",
       "Indivíduo residente em área endêmica com resultados sorológicos reagentes para S. mansoni."
     ],
-    "correta": "Indivíduo com quadro clínico sugestivo das formas aguda e crônica ou assintomático, com história de contato com águas doces que tenham ou não a presença de caramujos hospedeiros intermediários do S. mansoni.",
-    "comentario": "Definição de caso suspeito."
+    "correta": "Letra C: Indivíduo com quadro clínico sugestivo das formas aguda e crônica ou assintomático, com história de contato com águas doces que tenham ou não a presença de caramujos hospedeiros intermediários do S. mansoni.",
+    "comentario": "Segundo a Vigilância da Esquistossomose Mansoni, considera-se caso suspeito tanto quem apresenta sintomas (formas aguda ou crônica) quanto indivíduos assintomáticos, desde que tenham histórico de contato com águas possivelmente contaminadas por cercárias do Schistosoma mansoni."
   },
   {
     "texto": null,
@@ -1883,7 +1883,7 @@
       "Trimestralmente, com foco em adultos de 15 a 49 anos em ambas as áreas."
     ],
     "correta": "A cada dois anos, em média. Em área urbana, sugere-se inquéritos em escolares; em área rural, a investigação deve incluir toda a população, priorizando aqueles entre 6 e 15 anos.",
-    "comentario": "Periodicidade de inquéritos após o LI."
+    "comentario": "A resposta correta é a C, pois a recomendação é de inquéritos a cada dois anos em média. Em áreas urbanas, a prioridade são os escolares, enquanto nas rurais deve-se incluir toda a população, com destaque para os de 6 a 15 anos. Isso garante uma vigilância mais eficiente e direcionada."
   },
   {
     "texto": null,
@@ -1919,7 +1919,7 @@
       "Número de ovos dividido pelo número de ovitrampas instaladas."
     ],
     "correta": "Número de ovos multiplicado por 100, dividido pelo número de ovitrampas examinadas.",
-    "comentario": "Fórmula do Índice de Ovos por Ovitrampa (IDO)."
+    "comentario": "O Índice de Ovos por Ovitrampa (IDO) é obtido pela razão entre a quantidade total de ovos encontrados e o número de ovitrampas efetivamente examinadas, permitindo avaliar a densidade vetorial de forma prática e comparável entre diferentes áreas."
   },
   {
     "texto": null,
@@ -2024,7 +2024,7 @@
       "A coleta deve ser feita exclusivamente por profissionais de laboratório."
     ],
     "correta": "Não se deve aguardar os resultados dos exames para dar início às medidas de controle.",
-    "comentario": "Medida preventiva prioritária."
+    "comentario": "A coleta de material para exames laboratoriais deve ser feita precocemente, mas as ações de controle (isolamento, bloqueio de contatos, notificação imediata etc.) não devem esperar os resultados, pois a demora pode comprometer a contenção do agravo.."
   },
   {
     "texto": null,
@@ -2115,7 +2115,7 @@
       "Gênero Micrurus (coral verdadeira)."
     ],
     "correta": "Gênero Micrurus (coral verdadeira).",
-    "comentario": "Principal representante da família Elapidae de importância médica."
+    "comentario": "As serpentes do gênero Micrurus, conhecidas como corais-verdadeiras, pertencem à família Elapidae e são de importância médica no Brasil. Elas possuem hábitos fossoriais, presas pequenas e veneno neurotóxico potente, sendo distintas das jararacas, cascavéis e surucucus, que pertencem à família Viperidae."
   },
   {
     "texto": null,
@@ -2237,7 +2237,7 @@
       "Análise de dados"
     ],
     "correta": "Análise de dados",
-    "comentario": null
+    "comentario": "O mapeamento de áreas é uma ferramenta fundamental na vigilância em saúde ambiental, pois integra informações sobre o perfil epidemiológico (ocorrência de doenças), uso e ocupação do solo e outros fatores ambientais. Essa etapa permite identificar regiões mais vulneráveis, orientar ações de prevenção e controle e subsidiar políticas públicas."
   },
   {
     "texto": null,
@@ -2285,7 +2285,7 @@
       "Hipertensão arterial"
     ],
     "correta": "Leptospirose",
-    "comentario": null
+    "comentario": "A leptospirose está diretamente associada a condições ambientais precárias, como enchentes, acúmulo de lixo e saneamento inadequado. Nessas situações, a urina de animais infectados, principalmente ratos, contamina a água e o solo, favorecendo a transmissão da doença."
   },
   {
     "texto": null,
@@ -2340,7 +2340,7 @@
       "A saúde é um estado completo de bem-estar e de qualidade de vida"
     ],
     "correta": "A saúde é um estado completo de bem-estar físico, mental e social e não meramente ausência de doença",
-    "comentario": null
+    "comentario": "Na contemporaneidade, a saúde é compreendida de forma dinâmica, vinculada ao contexto social, econômico, cultural e ambiental. Esse entendimento aproxima-se da Teoria da Determinação Social da Saúde, que destaca como as condições de vida e trabalho influenciam diretamente o processo saúde-doença. Assim, a saúde não é apenas ausência de doença ou bem-estar ideal, mas o reflexo das relações sociais e das desigualdades estruturais."
   },
   {
     "texto": null,
@@ -2368,7 +2368,7 @@
   },
   {
     "texto": null,
-    "pergunta": "O Código de Conduta Ética do Ministério da Saúde, publicado pela Portaria GM/MS n.º 947, de 26 de abril de 2022, estabelece os princípios e as normas de conduta ética aplicáveis aos agentes públicos no âmbito da Pasta. Sobre os objetivos do código de conduta, analise as assertivas a seguir I. Estabelecer princípios e normas éticas que devem reger a conduta dos agentes públicos no âmbito do Ministério da Saúde. II. Evitar a ocorrência de situações que possam suscitar conflitos de ordem interpessoal no ambiente de trabalho. III. Fortalecer a cultura e o clima organizacional, de modo que sejam pautados na ética, na dignidade e no respeito ao serviço público. IV. Instituir instrumento referencial de apoio à decisão ética cotidiana. Está correto o que se afirma em: Alternativas",
+    "pergunta": "O Código de Conduta Ética do Ministério da Saúde, publicado pela Portaria GM/MS n.º 947, de 26 de abril de 2022, estabelece os princípios e as normas de conduta ética aplicáveis aos agentes públicos no âmbito da Pasta. \n\nSobre os objetivos do código de conduta, analise as assertivas a seguir \n\nI. Estabelecer princípios e normas éticas que devem reger a conduta dos agentes públicos no âmbito do Ministério da Saúde. \n\nII. Evitar a ocorrência de situações que possam suscitar conflitos de ordem interpessoal no ambiente de trabalho. \n\nIII. Fortalecer a cultura e o clima organizacional, de modo que sejam pautados na ética, na dignidade e no respeito ao serviço público. \n\nIV. Instituir instrumento referencial de apoio à decisão ética cotidiana. Está correto o que se afirma em: Alternativas",
     "alternativas": [
       "II, III e IV, apenas.",
       "II e III, apenas.",
@@ -2376,8 +2376,8 @@
       "I e III, apenas.",
       "I, II e IV, apenas."
     ],
-    "correta": "I, II e IV, apenas.",
-    "comentario": null
+    "correta": "I, II, III e IV.",
+    "comentario": "Todas as assertivas (I, II, III e IV) correspondem exatamente aos objetivos descritos no documento oficial, o que torna a alternativa C a correta.\n\nO objetivo do código é orientar a atuação dos agentes públicos com base em princípios éticos, prevenindo conflitos de ordem interpessoal e fortalecendo a cultura organizacional. Além disso, ele funciona como um guia de referência para a tomada de decisões no cotidiano do serviço público."
   },
   {
     "texto": null,
@@ -2402,8 +2402,8 @@
       "Saneamento público.",
       "Saneamento panorâmico."
     ],
-    "correta": "Saneamento público.",
-    "comentario": null
+    "correta": "Saneamento ambiental.",
+    "comentario": "O saneamento ambiental corresponde ao conjunto de ações e investimentos em infraestrutura voltados à melhoria das condições de vida da população, incluindo abastecimento de água, esgoto, resíduos sólidos e drenagem urbana."
   },
   {
     "texto": null,
@@ -2448,7 +2448,7 @@
       "I, II e IV, apenas."
     ],
     "correta": "I, II e III, apenas .",
-    "comentario": null
+    "comentario": "O Código de Conduta Ética do Ministério da Saúde (Portaria GM/MS nº 947/2022) proíbe: \n- apresentar-se sob efeito de álcool ou drogas ilícitas no exercício das funções,\npraticar ou tolerar assédio (moral ou sexual),\nagir com abuso de autoridade.\n\nA assertiva IV está incorreta, pois “repudiar infrações éticas” é uma obrigação, não uma proibição — o texto da questão distorceu a redação."
   },
   {
     "texto": null,
@@ -2461,7 +2461,7 @@
       "Dengue."
     ],
     "correta": "Leptospirose.",
-    "comentario": null
+    "comentario": "A leptospirose é uma doença infecciosa febril causada pela bactéria Leptospira interrogans. É transmitida principalmente pelo contato com água ou solo contaminado pela urina de roedores infectados, sendo comum em enchentes e locais com saneamento precário."
   },
   {
     "texto": null,
@@ -2491,7 +2491,7 @@
   },
   {
     "texto": null,
-    "pergunta": "– São objetivos da Epidemiologia, exceto:",
+    "pergunta": "São objetivos da Epidemiologia, exceto:",
     "alternativas": [
       "Identificar as causas das doenças.",
       "Investigar a história natural das doenças.",
@@ -2503,7 +2503,7 @@
   },
   {
     "texto": null,
-    "pergunta": "Epidemiologia é o conhecimento que permite estudar o processo saúde-doença em coletividades humanas tendo como objeto a distribuição da doença na população, no tempo e no lugar. No estudo do processo saúde-doença, a epidemiologia: I. Analisa a distribuição dos determinantes das doenças, dos danos e dos eventos relacionados à saúde. II. Propõe medidas específicas de prevenção e controle de doenças, de danos e de eventos relacionados à saúde. III. Subsidia, por meio de indicadores, o planejamento, a administração e a avaliação das ações em saúde. Está(ão) CORRETO(S):",
+    "pergunta": "Epidemiologia é o conhecimento que permite estudar o processo saúde-doença em coletividades humanas tendo como objeto a distribuição da doença na população, no tempo e no lugar. No estudo do processo saúde-doença, a epidemiologia: \n\nI. Analisa a distribuição dos determinantes das doenças, dos danos e dos eventos relacionados à saúde. \n\nII. Propõe medidas específicas de prevenção e controle de doenças, de danos e de eventos relacionados à saúde. \n\nIII. Subsidia, por meio de indicadores, o planejamento, a administração e a avaliação das ações em saúde. \n\nEstão CORRETO(S):",
     "alternativas": [
       "I, II, apenas.",
       "II, III, apenas.",
@@ -2511,7 +2511,7 @@
       "III, apenas."
     ],
     "correta": "I, II, III.",
-    "comentario": null
+    "comentario": "A epidemiologia envolve não só a análise da distribuição das doenças e seus determinantes, mas também a proposição de medidas de prevenção e controle, além de fornecer indicadores essenciais para o planejamento e avaliação das ações em saúde."
   },
   {
     "texto": null,
@@ -2524,7 +2524,7 @@
       "Identificação de padrões de distribuição geográfica de doenças e estabelecimento de prioridades para o controle de doenças."
     ],
     "correta": "Análises epidemiológicas sobre doenças transmissíveis e doenças e agravos não transmissíveis, exceto os agravos decorrentes de alterações climáticas e ambientais.",
-    "comentario": null
+    "comentario": "A epidemiologia também estuda os agravos relacionados a fatores ambientais e climáticos. Logo, esse 'exceto' faz a alternativa ficar incorreta."
   },
   {
     "texto": null,
@@ -2632,7 +2632,7 @@
       "Culex e Aedes aegypti."
     ],
     "correta": "Haemagogus e Sabethes.",
-    "comentario": null
+    "comentario": "Na febre amarela silvestre, os principais vetores são mosquitos dos gêneros Haemagogus e Sabethes, que transmitem o vírus entre primatas não humanos (macacos). Já no ciclo urbano, o vetor é a fêmea do Aedes aegypti, transmitindo o vírus entre humanos."
   },
   {
     "texto": null,
