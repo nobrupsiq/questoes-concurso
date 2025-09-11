@@ -768,7 +768,7 @@
   },
   {
     "texto": null,
-    "pergunta": "A respeito das atribuições do Agente de Combate a Endemias, considere: I - Atualizar cadastro de imóveis. II - Atuar junto aos domicílios, informando moradores. III - Nunca vistoriar depósitos de difícil acesso. IV - Executar aplicação focal e residual quando indicado. É correto o que se afirma em:",
+    "pergunta": "A respeito das atribuições do Agente de Combate a Endemias, considere: \n\nI - Atualizar cadastro de imóveis. \n\nII - Atuar junto aos domicílios, informando moradores. \n\nIII - Nunca vistoriar depósitos de difícil acesso. \n\nIV - Executar aplicação focal e residual quando indicado. É correto o que se afirma em:",
     "alternativas": [
       "II, III e IV, apenas.",
       "II e III, apenas.",
@@ -1787,7 +1787,7 @@
     "pergunta": "Para o controle de qualidade interno das lâminas examinadas por microscopia (independentemente da metodologia), qual percentual das lâminas lidas por um microscopista deve ser selecionado aleatoriamente para reexame por outro microscopista do mesmo laboratório, segundo o 'Manual Prático para o Diagnóstico e Controle da Esquistossomose'?",
     "alternativas": ["5%", "10%", "15%", "20%"],
     "correta": "10%",
-    "comentario": "Percentual mínimo de lâminas a serem reexaminadas em controle de qualidade interno."
+    "comentario": "Segundo o Manual Prático para o Diagnóstico e Controle da Esquistossomose, 10% das lâminas lidas por um microscopista devem ser selecionadas aleatoriamente para reexame por outro microscopista do mesmo laboratório."
   },
   {
     "texto": null,
@@ -1993,7 +1993,7 @@
       "Medidas de controle."
     ],
     "correta": "Confirmação do diagnóstico.",
-    "comentario": "Questão fundamental da investigação epidemiológica."
+    "comentario": "Está diretamente relacionada à validação clínica e laboratorial dos casos."
   },
   {
     "texto": null,
@@ -2151,7 +2151,7 @@
       "Cultura com isolamento da Rickettsia."
     ],
     "correta": "Cultura com isolamento da Rickettsia.",
-    "comentario": "Método diagnóstico ideal."
+    "comentario": "Segundo o Guia de Vigilância Epidemiológica, o método diagnóstico ideal para a Febre Maculosa é aquele que permite o isolamento do agente etiológico (Rickettsia rickettsii) a partir de sangue (coágulo) ou fragmentos de tecidos."
   },
   {
     "texto": null,
@@ -2381,7 +2381,7 @@
   },
   {
     "texto": null,
-    "pergunta": "Sobre a conduta dos agentes públicos com o público externo, analise as assertivas a seguir: I. Respeito aos valores, às necessidades e às boas práticas da comunidade, contribuindo para a construção e a consolidação de uma consciência cidadã. II. Evitar interrupções por razões alheias ao atendimento ao cidadão. III. Manter clareza de posições e decoro, com vistas a motivar respeito e confiança junto ao público em geral. IV. Orientar e encaminhar corretamente o cidadão quando o atendimento precisar ser realizado em outra unidade ou órgão da Administração Pública.",
+    "pergunta": "Sobre a conduta dos agentes públicos com o público externo, analise as assertivas a seguir: \n\nI. Respeito aos valores, às necessidades e às boas práticas da comunidade, contribuindo para a construção e a consolidação de uma consciência cidadã. \n\nII. Evitar interrupções por razões alheias ao atendimento ao cidadão. \n\nIII. Manter clareza de posições e decoro, com vistas a motivar respeito e confiança junto ao público em geral. \n\nIV. Orientar e encaminhar corretamente o cidadão quando o atendimento precisar ser realizado em outra unidade ou órgão da Administração Pública.",
     "alternativas": [
       "II, III e IV, apenas",
       "I, II e IV, apenas",
@@ -2576,7 +2576,7 @@
   },
   {
     "texto": null,
-    "pergunta": "IDESG 2025. A Chikungunya é uma doença viral que causa sintomas debilitantes, como febre e dores articulares intensas. Sobre o controle dessa doença, analise as assertivas: I. O tratamento inclui vacinas específicas e medicamentos antivirais. II. O controle é baseado na eliminação do vetor, o Aedes aegypti. III. A transmissão ocorre apenas pelo contato direto com pacientes infectados. Das assertivas, pode-se afirmar que:",
+    "pergunta": "IDESG 2025. A Chikungunya é uma doença viral que causa sintomas debilitantes, como febre e dores articulares intensas. Sobre o controle dessa doença, analise as assertivas: \n\nI. O tratamento inclui vacinas específicas e medicamentos antivirais. \n\nII. O controle é baseado na eliminação do vetor, o Aedes aegypti. \n\nIII. A transmissão ocorre apenas pelo contato direto com pacientes infectados. Das assertivas, pode-se afirmar que:",
     "alternativas": [
       "Apenas II está correta.",
       "Apenas I e II estão corretas.",
