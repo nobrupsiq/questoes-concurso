@@ -146,7 +146,7 @@
   },
   {
     "texto": null,
-    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir:\n\n( ) Os serviços de saúde devem estar organizados em níveis decrescentes de complexidade (atenção primária, atenção secundária e atenção terciária).\n( ) Os serviços de saúde devem estar localizados em áreas geográficas específicas, planejados com base nas necessidades dos diversos usuários.\n( ) O SUS deve ser centralizado, prevendo a divisão de responsabilidades entre as três esferas do governo: gestores federais, estaduais e municipais.",
+    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir:\n\n( ) Os serviços de saúde devem estar organizados em níveis decrescentes de complexidade (atenção primária, atenção secundária e atenção terciária).\n\n( ) Os serviços de saúde devem estar localizados em áreas geográficas específicas, planejados com base nas necessidades dos diversos usuários.\n\n( ) O SUS deve ser centralizado, prevendo a divisão de responsabilidades entre as três esferas do governo: gestores federais, estaduais e municipais.",
     "alternativas": [
       "V, F, V.",
       "F, V, F.",
@@ -155,7 +155,7 @@
       "V, V, F."
     ],
     "correta": "F, V, F.",
-    "comentario": "A alternativa B está correta.\n1ª (F): Os níveis são de complexidade CRESCENTE (primária, secundária, terciária).\n2ª (V): Isso descreve os princípios de Regionalização e Territorialização.\n3ª (F): O SUS é DESCENTRALIZADO, com responsabilidades compartilhadas entre União, Estados e Municípios."
+    "comentario": "A alternativa B está correta.\n\n1ª (F): Os níveis são de complexidade CRESCENTE (primária, secundária, terciária).\n\n2ª (V): Isso descreve os princípios de Regionalização e Territorialização.\n\n3ª (F): O SUS é DESCENTRALIZADO, com responsabilidades compartilhadas entre União, Estados e Municípios."
   },
   {
     "texto": null,
