@@ -62,7 +62,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // FUNÇÕES PRINCIPAIS
 
-  // FUNÇÃO DE INICIALIZAÇÃO CORRIGIDA
   async function inicializar() {
     try {
       // Carrega os dois arquivos JSON ao mesmo tempo

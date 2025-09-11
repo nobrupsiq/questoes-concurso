@@ -146,7 +146,7 @@
   },
   {
     "texto": null,
-    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir:\n( ) Os serviços de saúde devem estar organizados em níveis decrescentes de complexidade (atenção primária, atenção secundária e atenção terciária).\n( ) Os serviços de saúde devem estar localizados em áreas geográficas específicas, planejados com base nas necessidades dos diversos usuários.\n( ) O SUS deve ser centralizado, prevendo a divisão de responsabilidades entre as três esferas do governo: gestores federais, estaduais e municipais.",
+    "pergunta": "No que se refere aos aspectos organizativos do Sistema Único de Saúde (SUS), atribua V (verdadeiro) ou F (falso) às afirmativas a seguir:\n\n( ) Os serviços de saúde devem estar organizados em níveis decrescentes de complexidade (atenção primária, atenção secundária e atenção terciária).\n( ) Os serviços de saúde devem estar localizados em áreas geográficas específicas, planejados com base nas necessidades dos diversos usuários.\n( ) O SUS deve ser centralizado, prevendo a divisão de responsabilidades entre as três esferas do governo: gestores federais, estaduais e municipais.",
     "alternativas": [
       "V, F, V.",
       "F, V, F.",
@@ -729,7 +729,7 @@
   },
   {
     "texto": null,
-    "pergunta": "Em relação ao financiamento do Sistema Único de Saúde (SUS), analise as afirmativas: I - Receitas do SUS devem ser creditadas em contas específicas. II - Atividades de pesquisa e desenvolvimento devem ser cofinanciadas pelo SUS e outras instituições. III - Ações de saneamento supletivas pelo SUS serão financiadas por recursos tarifários e outras fontes. É correto o que se afirma em:",
+    "pergunta": "Em relação ao financiamento do Sistema Único de Saúde (SUS), analise as afirmativas: \n\nI - Receitas do SUS devem ser creditadas em contas específicas. \n\nII - Atividades de pesquisa e desenvolvimento devem ser cofinanciadas pelo SUS e outras instituições. \n\nIII - Ações de saneamento supletivas pelo SUS serão financiadas por recursos tarifários e outras fontes. É correto o que se afirma em:",
     "alternativas": [
       "I e III, apenas.",
       "I e II, apenas.",
@@ -755,7 +755,7 @@
   },
   {
     "texto": null,
-    "pergunta": "O Sistema Único de Saúde (SUS) é um dos maiores sistemas de saúde pública do mundo. No que diz respeito à sua estrutura e funcionamento, é correto afirmar:",
+    "pergunta": "O Sistema Único de Saúde (SUS) é um dos maiores sistemas de saúde pública do mundo. No que diz respeito à sua estrutura e funcionamento, é correto afirmar: \n\nI - O SUS é descentralizado, com direção única em cada esfera de governo.\n\nII - O SUS tem como diretriz a participação da comunidade por meio de conselhos e conferências de saúde.\n\nIII - O SUS é financiado exclusivamente pela União, sem participação de estados e municípios.",
     "alternativas": [
       "I e II, apenas.",
       "II e III, apenas.",
@@ -763,8 +763,8 @@
       "I, II e III.",
       "I e III, apenas."
     ],
-    "correta": "I, II e III.",
-    "comentario": "O SUS possui rede ampla, abrange todos os níveis de atenção e garante acesso universal e igualitário."
+    "correta": "I e II, apenas.",
+    "comentario": "As afirmativas I e II estão corretas: o SUS é descentralizado e prevê participação popular. A afirmativa III está incorreta, pois o financiamento é tripartite (União, estados e municípios)."
   },
   {
     "texto": null,
@@ -977,7 +977,7 @@
   },
   {
     "texto": null,
-    "pergunta": "O desenvolvimento das práticas educativas tem por base as ações de comunicação. A Educação em Saúde é considerada uma prática social que contribui para a formação da consciência crítica das pessoas sobre seus problemas de saúde. É correto o que se afirma em:",
+    "pergunta": "O desenvolvimento das práticas educativas tem por base as ações de comunicação. A Educação em Saúde é considerada uma prática social que contribui para a formação da consciência crítica das pessoas sobre seus problemas de saúde. É correto o que se afirma em: \n\nI - A Educação em Saúde busca apenas transmitir informações de forma vertical, sem considerar o contexto social.\n\nII - A Educação em Saúde é entendida como prática social que contribui para a formação da consciência crítica das pessoas.\n\nIII - A Educação em Saúde favorece a participação ativa das pessoas na busca de soluções para seus problemas de saúde.",
     "alternativas": [
       "II e III, apenas.",
       "II, apenas.",
@@ -1713,7 +1713,7 @@
       "Biomphalaria amazonica"
     ],
     "correta": "Biomphalaria amazonica",
-    "comentario": "Nunca encontrada naturalmente infectada no Brasil, mas suscetível em laboratório."
+    "comentario": "Já a Biomphalaria amazonica nunca foi encontrada naturalmente infectada, mas apresenta suscetibilidade experimental à infecção pelo parasita."
   },
   {
     "texto": null,
@@ -1799,7 +1799,7 @@
       "Leve: 0-10 OPG; Moderada: 11-100 OPG; Grave: > 100 OPG."
     ],
     "correta": "Leve: 0-99 OPG; Moderada: 100-399 OPG; Grave: ≥ 400 OPG.",
-    "comentario": "Classificação da OMS (2002)."
+    "comentario": "Segundo a OMS (2002), a intensidade da infecção por S. mansoni é determinada pelo número de ovos por grama de fezes. Essa classificação é importante porque orienta ações de controle e tratamento, ajudando a diferenciar infecções leves de quadros mais graves, que oferecem maior risco de morbidade."
   },
   {
     "texto": null,
@@ -2091,7 +2091,7 @@
       "Coleta de água peptonada alcalina."
     ],
     "correta": "Swab retal ou fecal em meio de transporte Cary-Blair.",
-    "comentario": "Indicado para cólera, mantém viabilidade de 24–72h."
+    "comentario": "Na suspeita de cólera, a coleta das amostras deve considerar o tempo até processamento. Quando o exame não pode ser feito de imediato, utiliza-se o swab retal ou fecal em meio de transporte Cary-Blair, pois ele mantém o Vibrio cholerae viável por até 72 horas em temperatura ambiente ou até 7 dias sob refrigeração."
   },
   {
     "texto": null,
@@ -2241,7 +2241,7 @@
   },
   {
     "texto": null,
-    "pergunta": "Leia as afirmativas a seguir: I - Os DSS são circunstâncias em que as pessoas nascem, crescem, vivem, trabalham e envelhecem, e que influenciam sua saúde e bem estar; II - Os DSS ajudam identificar as causas da desigualdade na saúde e a direcionar ações para promover a equidade. Marque a alternativa correta:",
+    "pergunta": "Leia as afirmativas a seguir: \n\nI - Os DSS são circunstâncias em que as pessoas nascem, crescem, vivem, trabalham e envelhecem, e que influenciam sua saúde e bem estar; \n\nII - Os DSS ajudam identificar as causas da desigualdade na saúde e a direcionar ações para promover a equidade. Marque a alternativa correta:",
     "alternativas": [
       "A alternativa I é falsa e a II é verdadeira",
       "As duas alternativas são falsas",
@@ -2344,7 +2344,7 @@
   },
   {
     "texto": null,
-    "pergunta": "A história clínica de muitas pessoas atendidas nos serviços de saúde revela condições de vida que afetam o bem-estar e a saúde. Considerando essa informação e com base nos determinantes sociais da saúde, assinale a alternativa correta. interferem apenas na saúde do indivíduo, sem qualquer importância para alterações nos determinantes sociais da saúde",
+    "pergunta": "A história clínica de muitas pessoas atendidas nos serviços de saúde revela condições de vida que afetam o bem-estar e a saúde. Considerando essa informação e com base no conceito de determinantes sociais da saúde, assinale a alternativa correta:",
     "alternativas": [
       "O processo saúde-doença deve ser entendido como a relação entre as condições biológicas e as psicológicas e exclui a necessidade de abordar o contexto social",
       "As condições de trabalho, a estrutura das redes sociais e comunitárias, o estilo de vida dos indivíduos, a idade, o sexo e aspectos hereditários são alguns dos fatores que exemplificam determinantes sociais da saúde",
@@ -2465,7 +2465,7 @@
   },
   {
     "texto": null,
-    "pergunta": "O controle sanitário do meio ambiente é uma das principais implicações no combate às endemias, sendo executado por ações, tais como: I. Coleta e disposição adequada dos resíduos sólidos urbanos. II. Coleta e disposição adequada dos resíduos sólidos de serviços de saúde. III. Estímulo da população para ampliarem medidas de reciclagem, quando possível, do lixo doméstico. Está(riam) correta(s):",
+    "pergunta": "O controle sanitário do meio ambiente é uma das principais implicações no combate às endemias, sendo executado por ações, tais como: \n\nI. Coleta e disposição adequada dos resíduos sólidos urbanos. \n\nII. Coleta e disposição adequada dos resíduos sólidos de serviços de saúde. \n\nIII. Estímulo da população para ampliarem medidas de reciclagem, quando possível, do lixo doméstico. Está(riam) correta(s):",
     "alternativas": [
       "I, II e III.",
       "Apenas I e II.",
@@ -2644,7 +2644,7 @@
       "os equinos."
     ],
     "correta": "o ser humano.",
-    "comentario": null
+    "comentario": "No ciclo silvestre da febre amarela, os primatas não humanos (macacos) são os principais hospedeiros, e os mosquitos do gênero Haemagogus e Sabethes fazem a transmissão entre eles. O ser humano não faz parte naturalmente desse ciclo, mas pode ser infectado quando entra em áreas de transmissão ou seja, ele é considerado hospedeiro acidental."
   },
   {
     "texto": null,
@@ -2743,7 +2743,7 @@
       "É causada principalmente pelo protozoário conhecido por Leishmania chagasi."
     ],
     "correta": "É causada principalmente pelo protozoário conhecido por Leishmania chagasi.",
-    "comentario": "A leishmaniose visceral (calazar) é causada pela Leishmania chagasi, atingindo órgãos internos como fígado e baço."
+    "comentario": "Na leishmaniose visceral (calazar), o protozoário causador principal é a Leishmania chagasi (também chamada Leishmania infantum chagasi). Os mosquitos do gênero Lutzomyia (mosquito-palha) são os vetores, transmitindo o protozoário aos hospedeiros. Diferente da forma tegumentar, que provoca lesões de pele e mucosas, a forma visceral afeta órgãos internos como baço, fígado e medula óssea, podendo levar a aumento abdominal, anemia e até morte se não tratada."
   },
   {
     "texto": null,
