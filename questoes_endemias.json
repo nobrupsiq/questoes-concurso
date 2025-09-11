@@ -2768,5 +2768,113 @@
     ],
     "correta": "protozoário Leishmania.",
     "comentario": "A Leishmaniose é causada por protozoários do gênero Leishmania. O Plasmodium causa malária, e a Entamoeba histolytica causa amebíase."
+  },
+  {
+    "texto": null,
+    "pergunta": "Marque a alternativa que apresenta o causador e o vetor da Malária respectivamente:",
+    "alternativas": [
+      "Vírus e Aedes aegypti.",
+      "Protozoário Plasmodium e Haemagogus.",
+      "Parasita Chagasi e Flebotomíneos.",
+      "protozoário Plasmodium e Anopheles."
+    ],
+    "correta": "protozoário Plasmodium e Anopheles",
+    "comentario": "A malária é causada por protozoários do gênero Plasmodium, transmitidos pela picada do mosquito Anopheles. As demais alternativas confundem agentes e vetores de outras doenças."
+  },
+  {
+    "texto": null,
+    "pergunta": "O ciclo de vida do parasita da malária envolve dois hospedeiros, são eles:",
+    "alternativas": [
+      "Seres humanos e pulgas.",
+      "Mamíferos de carrapatos.",
+      "Mamíferos e piolhos.",
+      "Seres humanos e mosquitos."
+    ],
+    "correta": "Seres humanos e mosquitos",
+    "comentario": "O ciclo do Plasmodium envolve o hospedeiro definitivo (mosquito Anopheles) e o hospedeiro intermediário (ser humano)."
+  },
+  {
+    "texto": null,
+    "pergunta": "A malária é uma doença transmitida pela picada do mosquito Anopheles. Qual é a medida mais eficaz para prevenir a transmissão da malária em áreas endêmicas?",
+    "alternativas": [
+      "Evitar o contato com pessoas infectadas.",
+      "Aplicar inseticidas em toda a área endêmica.",
+      "Promover campanhas de conscientização sem ações práticas.",
+      "Uso de mosquiteiros impregnados com inseticida e uso de repelentes."
+    ],
+    "correta": "Uso de mosquiteiros impregnados com inseticida e uso de repelentes",
+    "comentario": "A malária não é transmitida de pessoa para pessoa. A principal prevenção é evitar a picada do mosquito vetor, com mosquiteiros, repelentes e medidas ambientais."
+  },
+  {
+    "texto": null,
+    "pergunta": "A malária é uma doença infecciosa causada por um parasito. Em relação a essa doença, marque a alternativa incorreta:",
+    "alternativas": [
+      "é transmitida para humanos pela picada de fêmeas infectadas dos mosquitos Anopheles.",
+      "é conhecida como impaludismo, paludismo, febre palustre, febre intermitente, febre terçã e outros nomes.",
+      "Os locais preferenciais escolhidos pelos mosquitos transmissores da malária para colocar seus ovos (criadouros) são coleções de água limpa, sombreada e de baixo fluxo, muito frequentes na Amazônia Brasileira.",
+      "é de alta letalidade os casos graves de malária, se tratando, portanto, de uma doença sem cura."
+    ],
+    "correta": "é de alta letalidade os casos graves de malária, se tratando, portanto, de uma doença sem cura.",
+    "comentario": "A malária possui tratamento eficaz, especialmente se diagnosticada precocemente. Dizer que não tem cura é incorreto."
+  },
+  {
+    "texto": null,
+    "pergunta": "A malária é uma doença de grande incidência no Brasil, e atinge várias regiões. Marque a alternativa onde essa doença tem maior número de casos:",
+    "alternativas": [
+      "Região Centro-oeste composta pelos estados do Tocantins, Goiás e Maranhão.",
+      "Região amazônica, composta pelos estados do Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins.",
+      "Região Sudeste, principalmente nos estados de São Paulo e Minas Gerais.",
+      "Região Sul, com exceção apenas do Paraná."
+    ],
+    "correta": "Região amazônica, composta pelos estados do Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima e Tocantins.",
+    "comentario": "A maioria dos casos de malária no Brasil ocorre na Amazônia Legal, devido às condições ambientais favoráveis à reprodução do vetor."
+  },
+  {
+    "texto": null,
+    "pergunta": "A esquistossomose é uma doença parasitária causada pelo Schistosoma mansoni. São grandes fatores de risco para se contrair a infecção: \n\nI. Existência do caramujo transmissor.\n\nII. Morar em região onde há falta de saneamento básico.\n\nIII. Fazer tarefas domésticas, como lavar alimentos, em águas contaminadas.",
+    "alternativas": [
+      "Apenas III.",
+      "Apenas I e II.",
+      "I, II e III.",
+      "Apenas II."
+    ],
+    "correta": "I, II e III.",
+    "comentario": "Todos os itens apresentados são fatores de risco: presença do caramujo transmissor, falta de saneamento e contato direto com águas contaminadas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Analise as afirmativas a seguir sobre a esquistossomose: \n\nI. A esquistossomose mansônica, conhecida popularmente como 'doença do caramujo' e/ou 'barriga d’água' é uma parasitose provocada pelo trematódeo Schistosoma mansoni.\n\nII. A doença se caracteriza por um quadro agudo ou crônico, muitas vezes assintomático, mas que pode se manifestar de forma mais grave, provocando óbito do hospedeiro.\n\nIII. A doença ocorre de forma endêmica em grande parte do Brasil, acometendo milhões de pessoas e provocando grande número de casos graves e óbitos, caracterizando-se como um grave problema de saúde pública no Brasil.",
+    "alternativas": [
+      "Nenhuma afirmativa está correta.",
+      "Apenas duas afirmativas estão corretas.",
+      "Apenas uma afirmativa está correta.",
+      "Todas as afirmativas estão corretas."
+    ],
+    "correta": "Todas as afirmativas estão corretas.",
+    "comentario": "As três afirmações sobre esquistossomose estão corretas: agente etiológico, quadro clínico e impacto epidemiológico."
+  },
+  {
+    "texto": null,
+    "pergunta": "São grandes fatores de risco para se contrair a Esquistossomose, exceto:",
+    "alternativas": [
+      "Existência do caramujo transmissor.",
+      "Contato com a água contaminada.",
+      "Andar descalço em locais de pouca higiene, sobretudo após enchentes e alagamentos.",
+      "Morar em região onde há falta de saneamento básico."
+    ],
+    "correta": "Andar descalço em locais de pouca higiene, sobretudo após enchentes e alagamentos.",
+    "comentario": "Andar descalço é fator de risco para outras verminoses, como a ancilostomíase. A esquistossomose ocorre pelo contato da pele com águas contaminadas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a Esquistossomose e sua transmissão, é correto afirmar que:",
+    "alternativas": [
+      "Ocorre quando o indivíduo, hospedeiro definitivo, infectado elimina os ovos do verme por meio das fezes humanas.",
+      "Ocorre quando o indivíduo, hospedeiro intermediário, infectado elimina os ovos do verme por meio dos caramujos.",
+      "Ocorre quando o hospedeiro definitivo, infectado elimina os ovos do verme por meio das fezes do caramujo transmissor.",
+      "Ocorre quando o ser humano infectado elimina os ovos do verme, através de caramujos não infectados."
+    ],
+    "correta": "Ocorre quando o indivíduo, hospedeiro definitivo, infectado elimina os ovos do verme por meio das fezes humanas.",
+    "comentario": "O homem é o hospedeiro definitivo e elimina os ovos do Schistosoma mansoni nas fezes, contaminando a água e permitindo a infecção do caramujo."
   }
 ]
