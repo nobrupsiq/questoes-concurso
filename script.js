@@ -26,6 +26,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const btnMenu = document.getElementById("btn-menu");
   const btnMenuFinal = document.getElementById("btn-menu-final");
 
+  // FUNÇÃO PARA REMOVER QUESTÕES DUPLICADAS (mesma pergunta)
+  function removerDuplicadas(questoes) {
+    const vistas = new Set();
+    return questoes.filter((q) => {
+      if (vistas.has(q.pergunta)) {
+        return false;
+      }
+      vistas.add(q.pergunta);
+      return true;
+    });
+  }
+
   // FUNÇÕES DE GERENCIAMENTO DE PROGRESSO (sem alterações)
   function salvarProgresso() {
     const progresso = {
@@ -65,10 +77,14 @@ document.addEventListener("DOMContentLoaded", () => {
   async function inicializar() {
     try {
       // Carrega os dois arquivos JSON ao mesmo tempo
-      const [questoesEndemias, questoesPortugues] = await Promise.all([
+      let [questoesEndemias, questoesPortugues] = await Promise.all([
         fetch("questoes_endemias.json").then((res) => res.json()),
         fetch("questoes_portugues.json").then((res) => res.json()),
       ]);
+
+      // Remove duplicadas de cada tema
+      questoesEndemias = removerDuplicadas(questoesEndemias);
+      questoesPortugues = removerDuplicadas(questoesPortugues);
 
       // Adiciona uma propriedade "tema" em cada questão para filtragem
       questoesEndemias.forEach((q) => (q.tema = "endemias"));
@@ -94,7 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return novoArray;
   }
 
-  // FUNÇÃO INICIARQUIZ CORRIGIDA (FILTRA POR TEMA)
+  // FUNÇÃO INICIARQUIZ (FILTRA POR TEMA)
   function iniciarQuiz(tema) {
     if (todasAsQuestoes.length === 0) {
       alert("Aguarde, as questões ainda estão sendo carregadas.");
@@ -156,7 +172,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // FUNÇÃO CORRIGIR CORRIGIDA (TRATA COMENTÁRIOS NULOS)
+  // FUNÇÃO CORRIGIR (TRATA COMENTÁRIOS NULOS)
   function corrigirQuestao() {
     const alternativaSelecionada = document.querySelector(
       'input[name="alternativa"]:checked'
@@ -169,7 +185,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const respostaUsuario = alternativaSelecionada.value;
     const questao = questoesAtuais[questaoAtualIndex];
 
-    // Verifica se existe um comentário válido antes de exibi-lo
     if (
       questao.comentario &&
       questao.comentario.trim() !== "" &&
@@ -177,7 +192,7 @@ document.addEventListener("DOMContentLoaded", () => {
     ) {
       comentarioTextoEl.innerHTML = `<span class="comentario-titulo">Comentário:</span> ${questao.comentario}`;
     } else {
-      comentarioTextoEl.innerHTML = ""; // Limpa a área de comentário se não houver
+      comentarioTextoEl.innerHTML = "";
     }
 
     feedbackContainerEl.style.display = "block";
