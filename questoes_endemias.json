@@ -257,92 +257,6 @@
   },
   {
     "texto": null,
-    "pergunta": "A lei que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá início ao Sistema Único de Saúde, o SUS, é a Lei:",
-    "alternativas": [
-      "nº 8.080 de 1990",
-      "nº 8.142 de 1990",
-      "nº 8.666 de 1993",
-      "nº 8.213 de 1991",
-      "nº 8.212 de 1991"
-    ],
-    "correta": "nº 8.080 de 1990",
-    "comentario": "A Lei nº 8.080/1990 dispõe sobre a organização e funcionamento do SUS, estabelecendo as condições para a promoção, proteção e recuperação da saúde."
-  },
-  {
-    "texto": null,
-    "pergunta": "A Conferência de Saúde, uma das instâncias colegiadas do Sistema Único de Saúde, é realizada em caráter extraordinário ou em periodicidade pré-determinada por lei. A periodicidade em anos, segundo esta mesma lei, deve ser de:",
-    "alternativas": ["2 em 2", "3 em 3", "4 em 4", "5 em 5", "6 em 6"],
-    "correta": "4 em 4",
-    "comentario": "A Lei nº 8.142/1990 determina que as Conferências de Saúde sejam realizadas a cada quatro anos."
-  },
-  {
-    "texto": null,
-    "pergunta": "É um inseticida químico utilizável pelo agente de endemias para o controle de vetores no caso da leishmaniose visceral:",
-    "alternativas": [
-      "furosemida",
-      "dexclorfeniramina",
-      "acetilcisteína",
-      "permetrina",
-      "deltametrina"
-    ],
-    "correta": "deltametrina",
-    "comentario": "A deltametrina é um inseticida utilizado no combate a vetores, incluindo os transmissores da leishmaniose visceral."
-  },
-  {
-    "texto": null,
-    "pergunta": "A infecção por Chikungunya pode gerar quadro sintomatológico típico ou atípico. É um sintoma considerado atípico:",
-    "alternativas": [
-      "mialgia",
-      "arritmia",
-      "atralgia",
-      "febre",
-      "conjuntivite"
-    ],
-    "correta": "arritmia",
-    "comentario": "A arritmia não é um sintoma típico da Chikungunya, sendo considerada manifestação atípica."
-  },
-  {
-    "texto": null,
-    "pergunta": "O período de incubação da febre amarela, em dias, é de:",
-    "alternativas": ["3 a 6", "3 a 7", "3 a 8", "3 a 9", "3 a 10"],
-    "correta": "3 a 6",
-    "comentario": "O período de incubação da febre amarela varia de 3 a 6 dias."
-  },
-  {
-    "texto": null,
-    "pergunta": "De acordo com o Ministério da Saúde, é um fundamento da Atenção Básica:",
-    "alternativas": [
-      "desenvolver relações de vínculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
-      "garantir infraestrutura necessária ao funcionamento das unidades básicas de saúde, dotando-as de recursos materiais, equipamentos e insumos suficientes para o conjunto de ações propostas",
-      "selecionar, contratar e remunerar os profissionais que compõem as equipes multiprofissionais da Saúde da Família, em conformidade com a legislação vigente",
-      "verificar a qualidade e a consistência dos dados alimentados nos sistemas nacionais de informação",
-      "estimular e viabilizar a capacitação e a educação permanente dos profissionais das equipes"
-    ],
-    "correta": "desenvolver relações de vínculo e responsabilização entre as equipes e a população adscrita garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado",
-    "comentario": "Um dos fundamentos da Atenção Básica é a criação de vínculo entre equipe e população para garantir a continuidade do cuidado."
-  },
-  {
-    "texto": null,
-    "pergunta": "A Portaria nº 5, de 21 de fevereiro de 2006, inclui doenças na relação nacional de notificação compulsória e define doenças de notificação imediata. Segundo essa portaria, é uma doença de notificação imediata a:",
-    "alternativas": ["malária", "peste", "rubéola", "cólera", "tularemia"],
-    "correta": "cólera",
-    "comentario": "A cólera é uma doença de notificação imediata devido à sua gravidade e potencial de surtos."
-  },
-  {
-    "texto": null,
-    "pergunta": "O acidente ofídico de maior importância epidemiológica no Brasil, sendo responsável por noventa por cento dos envenenamentos é o:",
-    "alternativas": [
-      "crotálico",
-      "botrópico",
-      "laquético",
-      "elapídico",
-      "traquético"
-    ],
-    "correta": "botrópico",
-    "comentario": "O acidente botrópico, causado por jararacas, responde pela maioria dos casos de acidentes ofídicos no Brasil."
-  },
-  {
-    "texto": null,
     "pergunta": "Das espécies brasileiras de roedores, apenas uma possui, simultaneamente, vida média de doze meses, raio de ação de três a cinco metros e o hábito da neofilia. Trata-se da espécie de roedor denominada:",
     "alternativas": [
       "Rattus norvegicus",
@@ -674,7 +588,6 @@
     "correta": "minimizar os danos ambientais que outros inseticidas podem causar",
     "comentario": "O controle biológico reduz impactos ambientais em comparação com inseticidas químicos."
   },
-
   {
     "texto": null,
     "pergunta": "No que diz respeito às relações estabelecidas no ambiente de trabalho, é preciso que a atenção seja redobrada para que eventuais conflitos não prejudiquem o processo produtivo. Nesse sentido, podemos afirmar que os conflitos podem prejudicar, principalmente:",
@@ -872,18 +785,6 @@
   },
   {
     "texto": null,
-    "pergunta": "Assinale a alternativa que apresenta o Princípio do Sistema Único de Saúde (SUS) que determina a todos os cidadãos brasileiros, sem qualquer tipo de discriminação, o direito ao acesso às ações e aos serviços de saúde.",
-    "alternativas": [
-      "Integralidade",
-      "Resolutividade",
-      "Universalidade",
-      "Territorialização"
-    ],
-    "correta": "Universalidade",
-    "comentario": "O princípio da universalidade assegura que todos os cidadãos têm direito de acesso aos serviços de saúde."
-  },
-  {
-    "texto": null,
     "pergunta": "Considerando as políticas públicas de saúde no contexto de pandemias, assinale a alternativa que apresenta o pilar que serve de sustentação para a colaboração público-privada.",
     "alternativas": [
       "Informar a população sobre a responsabilidade permanente de cada um na prevenção contra agentes infecciosos patogênicos.",
@@ -924,13 +825,6 @@
     ],
     "correta": "Devem ser usados durante toda a exposição ao risco, não apenas em momentos percebidos como mais perigosos.",
     "comentario": "EPIs devem ser utilizados continuamente enquanto houver exposição ao risco."
-  },
-  {
-    "texto": null,
-    "pergunta": "Assinale a alternativa que apresenta a doença de notificação compulsória.",
-    "alternativas": ["Varíola", "Câncer", "Diabetes", "Esclerose múltipla"],
-    "correta": "Varíola",
-    "comentario": "Varíola é uma doença de notificação compulsória mesmo após sua erradicação, para monitoramento epidemiológico."
   },
   {
     "texto": null,
@@ -1341,18 +1235,6 @@
   },
   {
     "texto": null,
-    "pergunta": "Sobre a dengue, assinale a alternativa correta:",
-    "alternativas": [
-      "É transmitida por contato entre pessoas.",
-      "É transmitida pela picada do Aedes aegypti infectado.",
-      "É transmitida pela ingestão de água contaminada.",
-      "É transmitida pelo ar."
-    ],
-    "correta": "É transmitida pela picada do Aedes aegypti infectado.",
-    "comentario": "A dengue é transmitida pela picada do mosquito Aedes aegypti infectado."
-  },
-  {
-    "texto": null,
     "pergunta": "Um dos principais sintomas da dengue é:",
     "alternativas": [
       "Tosse persistente.",
@@ -1362,18 +1244,6 @@
     ],
     "correta": "Febre alta súbita.",
     "comentario": "A febre alta de início súbito é um dos sintomas típicos da dengue."
-  },
-  {
-    "texto": null,
-    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
-    "alternativas": [
-      "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
-      "Refere-se apenas à coleta de esgoto.",
-      "Se restringe ao tratamento de resíduos sólidos.",
-      "Engloba apenas a drenagem de ruas."
-    ],
-    "correta": "Inclui abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
-    "comentario": "O saneamento básico compreende um conjunto de serviços essenciais para a saúde pública."
   },
   {
     "texto": null,
@@ -1413,18 +1283,6 @@
   },
   {
     "texto": null,
-    "pergunta": "A pesquisa larvária realizada pelo agente de combate a endemias tem como objetivo principal:",
-    "alternativas": [
-      "Contar mosquitos adultos.",
-      "Detectar vírus no sangue.",
-      "Identificar larvas do mosquito em recipientes com água.",
-      "Calcular o número de casos de dengue."
-    ],
-    "correta": "Identificar larvas do mosquito em recipientes com água.",
-    "comentario": "A pesquisa larvária permite identificar a presença de larvas do Aedes aegypti nos depósitos de água."
-  },
-  {
-    "texto": null,
     "pergunta": "Em Santa Catarina tem se observado situações recorrentes de enchentes e indivíduos que entraram em contato com esta água podem manifestar sintomas de Leptospirose. Nestes casos, uma das recomendações a ser adotada é:",
     "alternativas": [
       "Divulgar informes sobre a necessidade de avaliação médica para todo indivíduo exposto.",
@@ -1449,25 +1307,6 @@
   },
   {
     "texto": null,
-    "pergunta": "Assinale a alternativa que apresenta corretamente um exemplo de zoonose:",
-    "alternativas": ["Hipertensão.", "Raiva.", "Diabetes.", "Tuberculose."],
-    "correta": "Raiva.",
-    "comentario": "A raiva é uma zoonose transmitida por animais infectados."
-  },
-  {
-    "texto": null,
-    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
-    "alternativas": [
-      "É formado pelo abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
-      "Inclui apenas coleta de lixo.",
-      "Abrange somente fornecimento de energia elétrica.",
-      "Está limitado a limpeza de ruas."
-    ],
-    "correta": "É formado pelo abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem urbana.",
-    "comentario": "O saneamento básico compreende um conjunto de serviços essenciais para a saúde pública."
-  },
-  {
-    "texto": null,
     "pergunta": "Assinale a alternativa que apresenta corretamente um sintoma comum da dengue:",
     "alternativas": [
       "Febre alta súbita.",
@@ -1477,30 +1316,6 @@
     ],
     "correta": "Febre alta súbita.",
     "comentario": "A febre alta de início súbito é um dos principais sintomas da dengue."
-  },
-  {
-    "texto": null,
-    "pergunta": "Assinale a alternativa correta sobre Equipamentos de Proteção Individual (EPI):",
-    "alternativas": [
-      "São opcionais para os agentes.",
-      "Devem ser utilizados durante toda a atividade com risco.",
-      "São fornecidos pelo próprio trabalhador.",
-      "Devem ser usados apenas em emergências."
-    ],
-    "correta": "Devem ser utilizados durante toda a atividade com risco.",
-    "comentario": "Os EPIs devem ser usados continuamente em atividades com risco, para proteção do trabalhador."
-  },
-  {
-    "texto": null,
-    "pergunta": "As doenças de notificação compulsória são aquelas que:",
-    "alternativas": [
-      "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
-      "Apenas hospitais particulares notificam.",
-      "Apenas quando confirmadas devem ser notificadas.",
-      "São notificadas apenas em caso de óbito."
-    ],
-    "correta": "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
-    "comentario": "A notificação compulsória é obrigatória para casos suspeitos ou confirmados, visando o controle epidemiológico."
   },
   {
     "texto": null,
@@ -1564,18 +1379,6 @@
   },
   {
     "texto": null,
-    "pergunta": "Sobre a dengue, assinale a alternativa correta:",
-    "alternativas": [
-      "É transmitida pela picada do mosquito Aedes aegypti infectado.",
-      "É transmitida por via aérea.",
-      "É transmitida por alimentos contaminados.",
-      "É transmitida por contato direto entre pessoas."
-    ],
-    "correta": "É transmitida pela picada do mosquito Aedes aegypti infectado.",
-    "comentario": "A dengue é transmitida pela picada da fêmea do mosquito Aedes aegypti infectado."
-  },
-  {
-    "texto": null,
     "pergunta": "Assinale a alternativa que apresenta corretamente um sintoma da dengue:",
     "alternativas": [
       "Febre alta súbita.",
@@ -1600,18 +1403,6 @@
   },
   {
     "texto": null,
-    "pergunta": "Sobre o saneamento básico, assinale a alternativa correta:",
-    "alternativas": [
-      "É formado por abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
-      "Refere-se apenas à coleta de lixo.",
-      "Engloba somente fornecimento de energia elétrica.",
-      "Está restrito ao tratamento de resíduos hospitalares."
-    ],
-    "correta": "É formado por abastecimento de água, esgotamento sanitário, manejo de resíduos sólidos e drenagem de águas pluviais.",
-    "comentario": "O saneamento básico inclui serviços essenciais para a saúde pública."
-  },
-  {
-    "texto": null,
     "pergunta": "Os Equipamentos de Proteção Individual (EPI) são:",
     "alternativas": [
       "De uso opcional pelo trabalhador.",
@@ -1621,18 +1412,6 @@
     ],
     "correta": "Devem ser utilizados durante toda a atividade com risco.",
     "comentario": "O uso de EPIs é obrigatório sempre que houver risco à saúde do trabalhador."
-  },
-  {
-    "texto": null,
-    "pergunta": "As doenças de notificação compulsória são aquelas que:",
-    "alternativas": [
-      "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
-      "São notificadas apenas em casos de óbito.",
-      "Apenas hospitais privados notificam.",
-      "São de notificação voluntária."
-    ],
-    "correta": "Devem ser notificadas obrigatoriamente mesmo em casos suspeitos.",
-    "comentario": "A notificação compulsória é obrigatória em casos suspeitos ou confirmados, para controle epidemiológico."
   },
   {
     "texto": null,
@@ -2404,18 +2183,6 @@
     ],
     "correta": "Saneamento ambiental.",
     "comentario": "O saneamento ambiental corresponde ao conjunto de ações e investimentos em infraestrutura voltados à melhoria das condições de vida da população, incluindo abastecimento de água, esgoto, resíduos sólidos e drenagem urbana."
-  },
-  {
-    "texto": null,
-    "pergunta": "A ética profissional no serviço público é fundamentada em valores, que até configuram um dos princípios que regem o serviço público, permitindo julgamento do certo ou do errado, do bem ou mal. Esses valores estão relacionados à:",
-    "alternativas": [
-      "Moralidade.",
-      "Consciência.",
-      "Persistência.",
-      "Individualidade."
-    ],
-    "correta": "Moralidade.",
-    "comentario": null
   },
   {
     "texto": null,
