@@ -2876,5 +2876,655 @@
     ],
     "correta": "Ocorre quando o indivíduo, hospedeiro definitivo, infectado elimina os ovos do verme por meio das fezes humanas.",
     "comentario": "O homem é o hospedeiro definitivo e elimina os ovos do Schistosoma mansoni nas fezes, contaminando a água e permitindo a infecção do caramujo."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Caderno de Educação Popular e Saúde', a Educação em Saúde é inerente a todas as práticas desenvolvidas no âmbito do SUS. Qual a principal característica dessa prática transversal?",
+    "alternativas": [
+      "Promove a imposição de normas e comportamentos considerados adequados pelas elites políticas.",
+      "Subordina-se aos interesses econômicos, visando à expansão de serviços médicos privados.",
+      "Articula todos os níveis de gestão do sistema, sendo essencial para a formulação da política de saúde compartilhada e ações diretas com usuários.",
+      "Foca na assistência individualizada à saúde, esvaziando a participação dos grupos populares.",
+      "Concentra-se na difusão de conceitos e comportamentos considerados corretos pelos profissionais, de cima para baixo."
+    ],
+    "correta": "Articula todos os níveis de gestão do sistema, sendo essencial para a formulação da política de saúde compartilhada e ações diretas com usuários.",
+    "comentario": "A Educação em Saúde é transversal porque articula gestão e usuários, fortalecendo práticas participativas no SUS."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Educação Popular em Saúde, conforme o 'Caderno de Educação Popular e Saúde', é portadora da coerência política da participação social e das possibilidades teóricas e metodológicas para transformar as tradicionais práticas de educação em saúde. Nesse sentido, ela busca:",
+    "alternativas": [
+      "Aumentar a dependência do usuário em relação aos profissionais de saúde.",
+      "Fortalecer a autonomia do usuário como sujeito de direitos e autor de sua trajetória de saúde.",
+      "Manter os modos de cuidado padronizados e centralizados.",
+      "Superar as situações de vida com o mínimo de qualidade.",
+      "Restringir a participação social aos conselhos de saúde."
+    ],
+    "correta": "Fortalecer a autonomia do usuário como sujeito de direitos e autor de sua trajetória de saúde.",
+    "comentario": "A Educação Popular em Saúde tem como objetivo emancipar e fortalecer a autonomia dos usuários."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o texto 'Educação popular: instrumento de gestão participativa dos serviços de saúde', a aproximação do setor Saúde com o Movimento da Educação Popular, especialmente a partir dos anos 70, representou uma ruptura com qual tradição da educação em saúde?",
+    "alternativas": [
+      "A tradição dialógica e emancipatória.",
+      "A tradição participativa e criativa.",
+      "A tradição autoritária e normatizadora.",
+      "A tradição integral e humanizada.",
+      "A tradição baseada no saber popular."
+    ],
+    "correta": "A tradição autoritária e normatizadora.",
+    "comentario": "O movimento rompeu com práticas autoritárias de imposição de saberes e comportamentos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Um elemento fundamental do método da Educação Popular, sistematizado por Paulo Freire, é o fato de tomar como ponto de partida do processo pedagógico:",
+    "alternativas": [
+      "O saber acadêmico e científico do educador.",
+      "O saber anterior e os valores do educando.",
+      "A imposição de conteúdos revolucionários de cima para baixo.",
+      "A difusão de conceitos e comportamentos considerados corretos.",
+      "A passividade usual dos processos pedagógicos tradicionais."
+    ],
+    "correta": "O saber anterior e os valores do educando.",
+    "comentario": "Paulo Freire defendia partir da realidade e dos saberes prévios do educando."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Educação Popular em Saúde, no contexto da democratização da sociedade brasileira, não é vista apenas como uma atividade adicional nos serviços, mas como uma estratégia para:",
+    "alternativas": [
+      "Reforçar o modelo biomédico dominante.",
+      "Manter a baixa resolutividade dos serviços de saúde.",
+      "Reorientar a totalidade das práticas executadas nos serviços de saúde, questionando e redirecionando.",
+      "Limitar a participação popular aos espaços formais de controle social.",
+      "Restringir a atuação a experiências alternativas pontuais e transitórias."
+    ],
+    "correta": "Reorientar a totalidade das práticas executadas nos serviços de saúde, questionando e redirecionando.",
+    "comentario": "A Educação Popular reorienta práticas, democratizando os serviços de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "No atual contexto do SUS, a persistência de um modelo de atenção ainda pouco questionado e a intolerância a processos participativos efetivos e autônomos por parte de um corpo técnico são desafios para a Educação Popular. Qual é uma das consequências da reprodução de ações educativas normatizadoras e centradas na inculcação de hábitos individuais?",
+    "alternativas": [
+      "Fortalece a participação popular.",
+      "Favorece o diálogo dos saberes.",
+      "Boicota a participação popular e afasta lideranças locais.",
+      "Promove a reflexão crítica da realidade de vida e saúde.",
+      "Leva à superação do modelo biomédico tradicional."
+    ],
+    "correta": "Boicota a participação popular e afasta lideranças locais.",
+    "comentario": "A imposição de hábitos reduz a autonomia e desestimula a participação comunitária."
+  },
+  {
+    "texto": null,
+    "pergunta": "O adjetivo 'popular' presente no nome Educação Popular se refere, de acordo com o texto, à perspectiva política dessa concepção de educação, que visa à:",
+    "alternativas": [
+      "Característica de sua clientela, ou seja, o público popular.",
+      "Construção de uma sociedade em que as classes populares deixem de ser atores subalternos e explorados.",
+      "Exclusiva aplicação de métodos informais de ensino.",
+      "Valorização do elitismo às avessas, superestimando a massa popular.",
+      "Reprodução da passividade usual dos processos pedagógicos tradicionais."
+    ],
+    "correta": "Construção de uma sociedade em que as classes populares deixem de ser atores subalternos e explorados.",
+    "comentario": "O termo 'popular' remete a uma perspectiva de transformação social e emancipação das classes populares."
+  },
+  {
+    "texto": null,
+    "pergunta": "Do ponto de vista dominante e tradicional, a Educação e Saúde é uma área de saber técnico que se ocupa mais diretamente com:",
+    "alternativas": [
+      "A capacitação da comunidade para atuar na melhoria de sua qualidade de vida e saúde.",
+      "A articulação entre a ação assistencial e o pensar e fazer cotidiano da população.",
+      "A 'instrumentalização' do controle dos doentes pelos serviços e a prevenção de doenças pelas pessoas.",
+      "A superação do fosso cultural existente entre os serviços de saúde e o saber popular.",
+      "A promoção da autonomia dos usuários na defesa de sua integridade física e moral."
+    ],
+    "correta": "A 'instrumentalização' do controle dos doentes pelos serviços e a prevenção de doenças pelas pessoas.",
+    "comentario": "Na perspectiva tradicional, Educação em Saúde servia como instrumento de controle e normatização."
+  },
+  {
+    "texto": null,
+    "pergunta": "Embora o modelo explicativo dos problemas de saúde vigente seja o da multicausalidade do processo de adoecer e morrer, as respostas encaminhadas atualmente assumem, em regra, o sentido de qual causalidade?",
+    "alternativas": [
+      "Causalidade dialógica.",
+      "Causalidade emancipatória.",
+      "Causalidade linear.",
+      "Causalidade complexa.",
+      "Causalidade intersetorial."
+    ],
+    "correta": "Causalidade linear.",
+    "comentario": "Apesar de reconhecer a multicausalidade, ainda predominam respostas lineares e simplistas."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o texto 'Enfoques sobre educação popular e saúde', as bases filosóficas da biomedicina, que compreendem o domínio da medicina sobre a educação sanitária, incluem qual dos princípios a seguir?",
+    "alternativas": [
+      "O homem como sujeito ativo na construção da saúde.",
+      "Uma visão mecanicista do homem que enfatiza o papel das ciências naturais.",
+      "A integralidade dos saberes e práticas no processo de cuidado.",
+      "O reconhecimento dos fatores sociais e culturais do adoecimento.",
+      "A inclusão de racionalidades médicas alternativas."
+    ],
+    "correta": "Uma visão mecanicista do homem que enfatiza o papel das ciências naturais.",
+    "comentario": "A biomedicina tradicional se baseia em uma visão mecanicista e reducionista da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "O enfoque educativo predominante nos serviços de saúde durante décadas foi o preventivo. Qual é a principal característica da educação sanitária preventiva?",
+    "alternativas": [
+      "Lida com 'fatores de risco' comportamentais, como dieta e fumo.",
+      "Busca a transformação das condições geradoras de doenças.",
+      "Valoriza o saber anterior e os valores do educando.",
+      "Promove a autonomia e o empoderamento dos sujeitos.",
+      "Prioriza a relação com os movimentos sociais."
+    ],
+    "correta": "Lida com 'fatores de risco' comportamentais, como dieta e fumo.",
+    "comentario": "A educação preventiva foca no controle de fatores de risco individuais, especialmente comportamentais."
+  },
+  {
+    "texto": null,
+    "pergunta": "Eymard Vasconcelos denomina a educação popular e (em) saúde como um movimento social de profissionais, técnicos e pesquisadores empenhados no diálogo entre qual tipo de conhecimentos?",
+    "alternativas": [
+      "Conhecimento técnico-científico e conhecimento político-econômico.",
+      "Conhecimento técnico-científico e conhecimento oriundo das experiências e lutas da população.",
+      "Conhecimento acadêmico e conhecimento institucional.",
+      "Conhecimento formal e conhecimento informal.",
+      "Conhecimento epidemiológico e conhecimento clínico."
+    ],
+    "correta": "Conhecimento técnico-científico e conhecimento oriundo das experiências e lutas da população.",
+    "comentario": "A proposta de Vasconcelos valoriza o diálogo entre saber técnico e o saber popular."
+  },
+  {
+    "texto": null,
+    "pergunta": "O 'Caderno de Educação Popular e Saúde', lançado pelo Ministério da Saúde em 2007, representa uma estratégia fundamental para qual fim?",
+    "alternativas": [
+      "Centralizar as decisões sobre a saúde.",
+      "Desqualificar as práticas de educação em saúde existentes.",
+      "Qualificar as práticas de educação em saúde.",
+      "Impor um modelo único de cuidado.",
+      "Minimizar o diálogo entre atores sociais."
+    ],
+    "correta": "Qualificar as práticas de educação em saúde.",
+    "comentario": "O Caderno busca fortalecer e qualificar as práticas educativas em saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Educação Popular, ao ser implementada nos serviços de saúde, significa uma ação que reorienta a globalidade das práticas ali executadas, contribuindo para a superação de qual dos seguintes aspectos?",
+    "alternativas": [
+      "A valorização das iniciativas do doente e seus familiares.",
+      "O diálogo entre o saber popular e o saber científico.",
+      "O biologicismo, o autoritarismo de doutor e o desprezo pelas iniciativas do doente.",
+      "A construção de uma ação de saúde mais integral.",
+      "A ampliação dos canais de interação cultural e negociações."
+    ],
+    "correta": "O biologicismo, o autoritarismo de doutor e o desprezo pelas iniciativas do doente.",
+    "comentario": "A Educação Popular combate práticas autoritárias e reducionistas, valorizando a integralidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "Um dos princípios fundamentais expostos por Paulo Freire, 'viver pacientemente impaciente', significa:",
+    "alternativas": [
+      "Achar que a revolução pode ser feita rapidamente, em curto espaço de tempo.",
+      "Romper em favor de um dos polos (paciência ou impaciência) de forma absoluta.",
+      "Não perder a crítica, assumir a ingenuidade em si e no outro, recriar, reaprender de novo e, afinal, fazer.",
+      "Aceitar as regras do jogo imposto pelos poderes dominantes.",
+      "Esperar passivamente que a realidade se transforme por si mesma."
+    ],
+    "correta": "Não perder a crítica, assumir a ingenuidade em si e no outro, recriar, reaprender de novo e, afinal, fazer.",
+    "comentario": "O princípio freireano incentiva a crítica permanente e a reconstrução do saber de forma contínua."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Educação Popular na formação dos profissionais de saúde, conforme o texto, é fundamental para a ampliação de qual tipo de gestão no SUS?",
+    "alternativas": [
+      "Gestão centralizada.",
+      "Gestão autoritária.",
+      "Gestão mercantilizada.",
+      "Gestão participativa.",
+      "Gestão verticalizada."
+    ],
+    "correta": "Gestão participativa.",
+    "comentario": "A Educação Popular fortalece práticas de gestão participativa no SUS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo Carlos Brandão (1982), a Educação Popular não visa a criar sujeitos subalternos educados (limpos, polidos, alfabetizados, etc.). O que ela visa, fundamentalmente?",
+    "alternativas": [
+      "Participar do esforço das categorias de sujeitos subalternos para a conquista de sua liberdade e direitos.",
+      "Impor normas e comportamentos considerados adequados pelas elites.",
+      "Difundir conceitos e conhecimentos de cima para baixo.",
+      "Promover a passividade e a conformidade social.",
+      "Focar apenas em problemas específicos e localizados, sem perspectiva de transformação social global."
+    ],
+    "correta": "Participar do esforço das categorias de sujeitos subalternos para a conquista de sua liberdade e direitos.",
+    "comentario": "A Educação Popular busca transformação social e emancipação das classes subalternas."
+  },
+  {
+    "texto": null,
+    "pergunta": "Na Educação Popular, o processo de discussão enfatiza não a transmissão de conhecimento, mas sim:",
+    "alternativas": [
+      "A ampliação dos espaços de interação cultural e negociação para a construção compartilhada do conhecimento.",
+      "A difusão de conceitos e comportamentos considerados corretos.",
+      "A problematização de forma individual, sem envolver a coletividade.",
+      "A desqualificação da voz dos setores subalternos da sociedade.",
+      "A atuação na macrorrealidade da vida social."
+    ],
+    "correta": "A ampliação dos espaços de interação cultural e negociação para a construção compartilhada do conhecimento.",
+    "comentario": "A Educação Popular enfatiza processos coletivos e participativos na construção do conhecimento."
+  },
+  {
+    "texto": null,
+    "pergunta": "No relato sobre 'Grupos de Mulheres e a elaboração de material educativo', qual foi o principal assunto abordado em todos os encontros realizados, que inicialmente parecia inviável mas que as mulheres gradualmente perceberam ser possível negociar?",
+    "alternativas": [
+      "A cura de DST/AIDS.",
+      "A prática de exames preventivos.",
+      "A negociação com os parceiros sobre o uso do preservativo.",
+      "A busca por autonomia financeira.",
+      "A valorização da estética corporal."
+    ],
+    "correta": "A negociação com os parceiros sobre o uso do preservativo.",
+    "comentario": "A negociação do uso do preservativo foi central para o empoderamento das mulheres nos grupos educativos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Conforme o 'Manual para equipes de saúde: o trabalho educativo nos grupos', qual é o primeiro ingrediente fundamental da prática educativa que os profissionais de saúde devem adotar?",
+    "alternativas": [
+      "Partir sempre do saber técnico-científico do profissional.",
+      "Fornecer uma 'receita' de conduta aos participantes.",
+      "Partir sempre da realidade do grupo, das pessoas, do paciente.",
+      "Focar exclusivamente na doença e suas causas biológicas.",
+      "Ignorar a bagagem cultural dos participantes."
+    ],
+    "correta": "Partir sempre da realidade do grupo, das pessoas, do paciente.",
+    "comentario": "O trabalho educativo deve partir da realidade vivida pelos participantes."
+  },
+  {
+    "texto": null,
+    "pergunta": "No método educativo-problematizador, o 'estranhamento' e a 'reflexão' são alcançados basicamente por meio de quais duas perguntas, permitindo ver a realidade com maior profundidade?",
+    "alternativas": [
+      "Quem? Onde?",
+      "Por quê? Como assim?",
+      "Quando? Quanto?",
+      "Qual? Quem?",
+      "O que? Onde?"
+    ],
+    "correta": "Por quê? Como assim?",
+    "comentario": "Essas perguntas provocam reflexão crítica e permitem aprofundar a análise da realidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "No processo de Educação Popular, a Educação em Saúde como processo e relações pedagógicas emergentes implica na aproximação entre agentes formais de saúde e população. Qual a diferença entre 'assistência' e 'cuidado' neste contexto?",
+    "alternativas": [
+      "Assistência representa uma intervenção pontual sobre a doença, enquanto cuidado significa o estabelecimento de relações intersubjetivas em tempo contínuo.",
+      "Assistência é o foco do saber popular, enquanto cuidado é o foco do saber científico.",
+      "Assistência é uma prática dialógica, enquanto cuidado é uma prática autoritária.",
+      "Assistência busca a autonomia, enquanto cuidado foca na dependência.",
+      "Assistência e cuidado são termos sinônimos, usados indistintamente."
+    ],
+    "correta": "Assistência representa uma intervenção pontual sobre a doença, enquanto cuidado significa o estabelecimento de relações intersubjetivas em tempo contínuo.",
+    "comentario": "O cuidado é mais abrangente e contínuo, enquanto a assistência é pontual."
+  },
+  {
+    "texto": null,
+    "pergunta": "A 'Política Nacional de Promoção da Saúde (Documento para discussão)' de 2002 descreve o Brasil como um país em desenvolvimento, convivendo com problemas de dois extremos que duplicam a carga de enfermidades. Além disso, qual é a principal característica que singulariza os riscos e determina a carga das doenças no cenário brasileiro?",
+    "alternativas": [
+      "A homogeneidade cultural.",
+      "As grandes diversidades regionais e subjetividades multiculturais.",
+      "A ausência de problemas ambientais.",
+      "A estabilidade socioeconômica.",
+      "A uniformidade nos comportamentos de saúde."
+    ],
+    "correta": "As grandes diversidades regionais e subjetividades multiculturais.",
+    "comentario": "O Brasil é marcado pela diversidade regional e cultural, o que influencia nos perfis de risco e saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "No início do novo milênio, o documento de discussão da PNPS (2002) reconhece a incapacidade do modelo de atenção vigente em saúde de explicar e responder aos processos de saúde e doença de uma população. Em que esse modelo era hegemonicamente baseado?",
+    "alternativas": [
+      "No conhecimento biológico, parque tecnológico médico, risco e atenção individual.",
+      "Na promoção da saúde e na intersetorialidade.",
+      "Na participação social e no controle social.",
+      "Nos determinantes sociais da saúde.",
+      "Na educação popular em saúde."
+    ],
+    "correta": "No conhecimento biológico, parque tecnológico médico, risco e atenção individual.",
+    "comentario": "O modelo tradicional era centrado no biologicismo e atenção individual."
+  },
+  {
+    "texto": null,
+    "pergunta": "A política de saúde construída no Brasil, a partir da redemocratização e da Constituição de 1988, tem elementos para o desenvolvimento de ações de promoção da saúde. Quais são os princípios do SUS que podem ser potencializados a partir do olhar e das ações de promoção da saúde?",
+    "alternativas": [
+      "Centralização, elitismo e verticalidade.",
+      "Universalidade, integralidade e equidade.",
+      "Exclusividade, especialização e individualidade.",
+      "Privatização, mercantilização e segmentação.",
+      "Autoritarismo, controle e normatização."
+    ],
+    "correta": "Universalidade, integralidade e equidade.",
+    "comentario": "Esses são princípios fundamentais do SUS, fortalecidos pela promoção da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "O documento de 2002 afirma que, apesar de avançado em seus princípios orientadores, o Sistema Único de Saúde ainda guarda, em seu modelo de atenção, uma perspectiva fortemente pautada nos fundamentos da biomedicina. Nesse sentido, a promoção da saúde se apresenta como uma possibilidade concreta de mudança na agenda da saúde para:",
+    "alternativas": [
+      "Dificultar a sustentabilidade financeira do SUS.",
+      "Fortalecer e fundamentar a consolidação do SUS.",
+      "Reforçar a lógica hegemônica do cuidado individual.",
+      "Ignorar os determinantes sociais da saúde.",
+      "Manter a baixa cobertura dos serviços de saúde."
+    ],
+    "correta": "Fortalecer e fundamentar a consolidação do SUS.",
+    "comentario": "A promoção da saúde contribui para consolidar o SUS em sua integralidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Estratégia de Saúde da Família (ESF), pela sua grande inserção social e orientação pela lógica da territorialização e vinculação, é considerada um importante espaço para o desenvolvimento de ações de promoção da saúde. Para isso, ela necessita incorporar em suas práticas:",
+    "alternativas": [
+      "O modelo biomédico dominante.",
+      "O conceito positivo de saúde, a integralidade da atenção e a troca de saberes.",
+      "A fragmentação do cuidado e a desvinculação com a comunidade.",
+      "A hierarquia de saberes do profissional sobre a comunidade.",
+      "A exclusividade da atenção à doença."
+    ],
+    "correta": "O conceito positivo de saúde, a integralidade da atenção e a troca de saberes.",
+    "comentario": "A ESF deve valorizar práticas integrativas e participativas na promoção da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o documento de discussão da PNPS de 2002, promover saúde, para além de educar para a autonomia como Paulo Freire construiu, é considerar a afetividade, a amorosidade e a capacidade criadora e a busca da felicidade como:",
+    "alternativas": [
+      "Elementos irrelevantes para as demais dimensões.",
+      "Igualmente relevantes e indissociáveis das demais dimensões humanas.",
+      "Aspectos secundários em relação ao conhecimento científico.",
+      "Exclusivos das tradições culturais locais.",
+      "Desvinculados do sentido de viver."
+    ],
+    "correta": "Igualmente relevantes e indissociáveis das demais dimensões humanas.",
+    "comentario": "A PNPS valoriza dimensões subjetivas e afetivas como parte da saúde integral."
+  },
+  {
+    "texto": null,
+    "pergunta": "Na promoção da saúde, lidar com questões complexas, como a saúde e a vida, relacionadas amplamente com política, economia e desenvolvimento, dificulta a abordagem científica tradicional. Qual tipo de análises e narrativas são propostas para dimensionar a complexidade dessas ações, processos e impactos?",
+    "alternativas": [
+      "Exclusivamente análises quantitativas.",
+      "Exclusivamente análises qualitativas.",
+      "Misto de análises quantitativas e qualitativas, acrescidas de narrativas não sistematizadas.",
+      "Apenas provas científicas que satisfaçam os países centrais.",
+      "Apenas o princípio judicial baseado em narrativas testemunhais."
+    ],
+    "correta": "Misto de análises quantitativas e qualitativas, acrescidas de narrativas não sistematizadas.",
+    "comentario": "A complexidade exige abordagens múltiplas e integradas."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Norma Operacional Básica do SUS (NOB 01/96) apresenta bases para a estruturação de um novo modelo de atenção orientado para promover a saúde. Qual das opções a seguir NÃO é uma dessas bases?",
+    "alternativas": [
+      "A participação da população em instâncias formais e outros espaços.",
+      "Ações de saúde centradas na qualidade de vida das pessoas e seu meio ambiente.",
+      "O uso de tecnologias de educação e comunicação social.",
+      "A desvalorização dos saberes populares e da autonomia individual.",
+      "A construção da ética coletiva que agrega relações entre usuário, sistema e ambiente."
+    ],
+    "correta": "A desvalorização dos saberes populares e da autonomia individual.",
+    "comentario": "A valorização dos saberes populares é essencial no novo modelo."
+  },
+  {
+    "texto": null,
+    "pergunta": "O documento de discussão da PNPS (2002) cita o Projeto Agente Jovem de Boa Vista como um exemplo de reforço aos processos de participação comunitária. Qual é uma das características desse projeto?",
+    "alternativas": [
+      "Foca apenas na prevenção de doenças sexualmente transmissíveis.",
+      "Capacita jovens em situação de risco social para participar de ações sociais, recebendo bolsa e frequentando a escola.",
+      "Restringe a atuação aos profissionais de saúde formalmente contratados.",
+      "Impõe hábitos de saúde de forma verticalizada.",
+      "Desestimula a criatividade dos integrantes do grupo."
+    ],
+    "correta": "Capacita jovens em situação de risco social para participar de ações sociais, recebendo bolsa e frequentando a escola.",
+    "comentario": "O projeto busca integrar jovens em situação de vulnerabilidade em ações sociais e educativas."
+  },
+  {
+    "texto": null,
+    "pergunta": "A promoção da saúde, como enfoque transversal, propõe a reorientação do cuidado na perspectiva do respeito à autonomia e à cultura. Isso significa uma interação do cuidar/ser cuidado e ensinar/aprender, aberta a qual incorporação?",
+    "alternativas": [
+      "Apenas a práticas biomédicas avançadas.",
+      "Exclusivamente a novas tecnologias diagnósticas.",
+      "A outras práticas e racionalidades, como a Medicina Tradicional Chinesa.",
+      "Somente a métodos de controle de doenças.",
+      "A imposição de soluções técnicas restritas."
+    ],
+    "correta": "A outras práticas e racionalidades, como a Medicina Tradicional Chinesa.",
+    "comentario": "A PNPS valoriza a incorporação de práticas integrativas e complementares."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Política Nacional de Promoção da Saúde (PNPS) foi instituída no SUS pela Portaria MS/GM nº 687, de 30 de março de 2006, e posteriormente redefinida. Qual Portaria de Consolidação a revogou e consolida as normas sobre as políticas nacionais de saúde do SUS atualmente?",
+    "alternativas": [
+      "Portaria nº 1.190, de 14 de julho de 2005.",
+      "Portaria nº 1.409, de 13 de junho de 2007.",
+      "Portaria nº 1.571, de 19 de julho de 2012.",
+      "Portaria de Consolidação nº 2, de 28 de setembro de 2017.",
+      "Portaria nº 2.446, de 11 de novembro de 2014."
+    ],
+    "correta": "Portaria de Consolidação nº 2, de 28 de setembro de 2017.",
+    "comentario": "Essa Portaria consolidou diversas normas sobre políticas nacionais de saúde, incluindo a PNPS."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Anexo I da Portaria de Consolidação nº 2/2017 estabelece os valores fundantes no processo de efetivação da PNPS. Qual dos seguintes NÃO é um desses valores?",
+    "alternativas": [
+      "Felicidade, entendida como autopercepção de satisfação.",
+      "Individualismo, focando apenas nas escolhas pessoais.",
+      "Solidariedade, visando a metas comuns e resolução de diferenças.",
+      "Humanização, como elemento para a evolução do homem.",
+      "Corresponsabilidade, como responsabilidades partilhadas."
+    ],
+    "correta": "Individualismo, focando apenas nas escolhas pessoais.",
+    "comentario": "O individualismo contraria os valores coletivos defendidos pela PNPS."
+  },
+  {
+    "texto": null,
+    "pergunta": "A PNPS adota como princípios que orientam suas práticas e ações. O princípio da autonomia se refere a qual conceito?",
+    "alternativas": [
+      "A distribuição igualitária de oportunidades.",
+      "O processo de articulação de saberes entre setores.",
+      "A identificação de potencialidades e desenvolvimento de capacidades para escolhas conscientes.",
+      "A atuação que considera as singularidades dos territórios.",
+      "O processo de intervenção que estimula sujeitos a adquirir controle das decisões, sem considerar o contexto."
+    ],
+    "correta": "A identificação de potencialidades e desenvolvimento de capacidades para escolhas conscientes.",
+    "comentario": "Autonomia envolve reconhecer potencialidades e estimular escolhas conscientes."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é o objetivo geral da Política Nacional de Promoção da Saúde (PNPS)?",
+    "alternativas": [
+      "Promover exclusivamente a prevenção de doenças crônicas não transmissíveis.",
+      "Reduzir a morbimortalidade por acidentes de trânsito.",
+      "Promover a equidade e a melhoria das condições e modos de viver, ampliando a potencialidade da saúde individual e coletiva.",
+      "Focar no controle do uso do tabaco e de seus derivados.",
+      "Apoiar apenas o desenvolvimento de espaços de produção social."
+    ],
+    "correta": "Promover a equidade e a melhoria das condições e modos de viver, ampliando a potencialidade da saúde individual e coletiva.",
+    "comentario": "Esse é o objetivo central da PNPS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Uma das diretrizes da PNPS é o estímulo à cooperação e à articulação intrassetorial e intersetorial. Qual é a finalidade principal dessa diretriz?",
+    "alternativas": [
+      "Restringir a atuação do setor Saúde.",
+      "Ampliar a atuação sobre determinantes e condicionantes da saúde.",
+      "Centralizar o planejamento de ações.",
+      "Reduzir a participação do controle social.",
+      "Fomentar a fragmentação das políticas públicas."
+    ],
+    "correta": "Ampliar a atuação sobre determinantes e condicionantes da saúde.",
+    "comentario": "A articulação intersetorial busca enfrentar os determinantes sociais da saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual tema transversal da PNPS se refere a dar visibilidade aos modos de consumo e produção e mapear possibilidades de intervir naqueles que sejam deletérios à saúde, sem comprometer as necessidades futuras?",
+    "alternativas": [
+      "Determinantes Sociais da Saúde (DSS).",
+      "Cultura da paz e direitos humanos.",
+      "Desenvolvimento sustentável.",
+      "Produção de saúde e cuidado.",
+      "Vida no trabalho."
+    ],
+    "correta": "Desenvolvimento sustentável.",
+    "comentario": "Esse tema aborda a relação entre saúde, ambiente e sustentabilidade."
+  },
+  {
+    "texto": null,
+    "pergunta": "O eixo operacional 'Educação e formação' na PNPS consiste em:",
+    "alternativas": [
+      "Uso de múltiplas abordagens na análise de informações de saúde.",
+      "Incentivo à atitude permanente de aprendizagem sustentada em processos pedagógicos problematizadores, dialógicos, libertadores, emancipatórios e críticos.",
+      "Estímulo a uma atitude reflexiva e resolutiva sobre problemas dos coletivos.",
+      "Compartilhamento de planos e metas entre diferentes setores.",
+      "Ampliação da representação de sujeitos na elaboração de políticas."
+    ],
+    "correta": "Incentivo à atitude permanente de aprendizagem sustentada em processos pedagógicos problematizadores, dialógicos, libertadores, emancipatórios e críticos.",
+    "comentario": "Esse eixo busca consolidar a educação permanente como parte da PNPS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Entre as competências comuns a todas as esferas de gestão do setor Saúde para a implementação da PNPS, inclui-se:",
+    "alternativas": [
+      "A criação de um comitê gestor exclusivo para cada município.",
+      "A promoção da articulação intersetorial e intrassetorial.",
+      "A definição unilateral de prioridades sem consulta colegiada.",
+      "A centralização dos recursos financeiros no Ministério da Saúde.",
+      "A limitação da divulgação da PNPS ao âmbito federal."
+    ],
+    "correta": "A promoção da articulação intersetorial e intrassetorial.",
+    "comentario": "Essa competência é comum às três esferas de gestão (federal, estadual e municipal)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual das seguintes ações é uma competência exclusiva do Ministério da Saúde na implementação da Política Nacional de Promoção da Saúde (PNPS)?",
+    "alternativas": [
+      "Pactuar nas Comissões Intergestores Bipartite (CIB) as estratégias e o financiamento.",
+      "Realizar o monitoramento e a avaliação de programas de promoção da saúde no âmbito estadual e distrital.",
+      "Institucionalizar e manter em funcionamento o Comitê da PNPS.",
+      "Promover a articulação com os estados e com os municípios para apoio à implantação e à implementação da PNPS.",
+      "Destinar recursos orçamentários e financeiros para a realização das ações de promoção da saúde."
+    ],
+    "correta": "Institucionalizar e manter em funcionamento o Comitê da PNPS.",
+    "comentario": "Essa é uma atribuição exclusiva do Ministério da Saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com a PNPS (2018), qual das seguintes é uma competência das Secretarias Municipais de Saúde?",
+    "alternativas": [
+      "Pactuar o financiamento da PNPS na Comissão Intergestores Tripartite (CIT).",
+      "Realizar apoio institucional às Secretarias Estaduais de Saúde.",
+      "Promover a educação permanente dos trabalhadores do sistema local de saúde para desenvolver as ações de promoção da saúde.",
+      "Institucionalizar e manter o Comitê da PNPS.",
+      "Elaborar acordos internacionais para fortalecimento da PNPS."
+    ],
+    "correta": "Promover a educação permanente dos trabalhadores do sistema local de saúde para desenvolver as ações de promoção da saúde.",
+    "comentario": "Essa é uma das atribuições das Secretarias Municipais de Saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "O financiamento dos temas prioritários da PNPS e seus planos operativos é objeto de pactuação prévia em qual instância?",
+    "alternativas": [
+      "Conselho Nacional de Secretários Estaduais de Saúde (Conass).",
+      "Conselho Nacional de Secretários Municipais de Saúde (Conasems).",
+      "Comissão Intergestores Tripartite (CIT).",
+      "Conselho Nacional de Saúde (CNS).",
+      "Organização Pan-Americana da Saúde (Opas)."
+    ],
+    "correta": "Comissão Intergestores Tripartite (CIT).",
+    "comentario": "A CIT é a instância responsável pela pactuação tripartite no SUS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Entre os temas prioritários da PNPS, o 'Enfrentamento ao uso do tabaco e de seus derivados' envolve quais tipos de ações?",
+    "alternativas": [
+      "Exclusivamente ações legislativas e econômicas.",
+      "Apenas ações educativas e culturais.",
+      "Ações educativas, legislativas, econômicas, ambientais, culturais e sociais.",
+      "Somente medidas fiscais para aumento de preços.",
+      "Foco na substituição da cultura do fumo por culturas alternativas."
+    ],
+    "correta": "Ações educativas, legislativas, econômicas, ambientais, culturais e sociais.",
+    "comentario": "O enfrentamento ao tabaco exige estratégias amplas e intersetoriais."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com a Carta da 1ª Conferência Internacional de Promoção da Saúde (Carta de Ottawa), a promoção da saúde é definida como:",
+    "alternativas": [
+      "A ausência de doenças e enfermidades.",
+      "O processo de capacitação da comunidade para atuar na melhoria de sua qualidade de vida e saúde.",
+      "A provisão de assistência médica de alta tecnologia.",
+      "A intervenção exclusiva nos determinantes biológicos da saúde.",
+      "O controle de riscos e agravos por meio de campanhas informativas."
+    ],
+    "correta": "O processo de capacitação da comunidade para atuar na melhoria de sua qualidade de vida e saúde.",
+    "comentario": "Essa é a definição clássica de promoção da saúde segundo a Carta de Ottawa (1986)."
+  },
+  {
+    "texto": null,
+    "pergunta": "Para sustentar o entendimento sobre promoção da saúde, o conceito ampliado de saúde supera a ausência de doença e é ressignificado a partir de elementos que constituem as condições objetivas de vida. Qual dos seguintes NÃO é um desses elementos?",
+    "alternativas": [
+      "Paz.",
+      "Habitação.",
+      "Fatores genéticos.",
+      "Alimentação.",
+      "Equidade."
+    ],
+    "correta": "Fatores genéticos.",
+    "comentario": "Os fatores genéticos não integram os elementos do conceito ampliado de saúde."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o 'Caderno 1: Promoção da Saúde: aproximações ao tema', qual é o foco principal da Promoção da Saúde em comparação com a Prevenção de Doenças?",
+    "alternativas": [
+      "A doença (causas, formas de transmissão).",
+      "Fatores de risco e de proteção para a saúde.",
+      "Mudanças nos determinantes estruturais que provocam iniquidades em saúde.",
+      "Divulgação de informações e recomendações para mudança de hábitos.",
+      "Adoção de estilo de vida saudável."
+    ],
+    "correta": "Mudanças nos determinantes estruturais que provocam iniquidades em saúde.",
+    "comentario": "A promoção da saúde vai além da prevenção, focando nos determinantes sociais e estruturais."
+  },
+  {
+    "texto": null,
+    "pergunta": "A Educação Permanente em Saúde (EPS), conforme o Caderno 1, é caracterizada como 'aprendizagem-trabalho'. O que isso significa?",
+    "alternativas": [
+      "A EPS acontece apenas em cursos formais de longa duração.",
+      "A EPS ocorre no cotidiano das pessoas e organizações, a partir dos problemas enfrentados na realidade.",
+      "A EPS foca na reprodução de práticas profissionais existentes.",
+      "A EPS ignora os conhecimentos e experiências prévias dos trabalhadores.",
+      "A EPS é desvinculada das necessidades de saúde da população."
+    ],
+    "correta": "A EPS ocorre no cotidiano das pessoas e organizações, a partir dos problemas enfrentados na realidade.",
+    "comentario": "A EPS é integrada ao trabalho e baseada em problemas reais enfrentados no cotidiano."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Caderno 1 aborda a diferença entre igualdade e equidade. Qual a principal característica da equidade?",
+    "alternativas": [
+      "Ofertada a mesma coisa para todos, independentemente da necessidade.",
+      "A distribuição igualitária de recursos, mesmo que não resolva a necessidade de todos.",
+      "A adequação da oferta de acordo com a necessidade, buscando reduzir iniquidades.",
+      "A garantia de um caixote para todos assistirem ao jogo de baseball.",
+      "A remoção de barreiras para que as pessoas possam competir em igualdade de condições."
+    ],
+    "correta": "A adequação da oferta de acordo com a necessidade, buscando reduzir iniquidades.",
+    "comentario": "Equidade significa tratar desigualmente os desiguais para reduzir as iniquidades."
+  },
+  {
+    "texto": null,
+    "pergunta": "Os Objetivos de Desenvolvimento Sustentável (ODS) representam um marco global. Qual é o prazo estabelecido para que as 169 metas relacionadas aos 17 ODS sejam alcançadas?",
+    "alternativas": [
+      "Até 2025.",
+      "Até 2030.",
+      "Até 2040.",
+      "Até 2050.",
+      "Não há prazo definido."
+    ],
+    "correta": "Até 2030.",
+    "comentario": "A Agenda 2030 da ONU estabeleceu esse prazo para cumprimento dos ODS."
   }
 ]
