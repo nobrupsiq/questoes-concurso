@@ -2543,9 +2543,9 @@
       "Vírus e Aedes aegypti.",
       "Protozoário Plasmodium e Haemagogus.",
       "Parasita Chagasi e Flebotomíneos.",
-      "protozoário Plasmodium e Anopheles."
+      "Protozoário Plasmodium e Anopheles."
     ],
-    "correta": "protozoário Plasmodium e Anopheles",
+    "correta": "Protozoário Plasmodium e Anopheles.",
     "comentario": "A malária é causada por protozoários do gênero Plasmodium, transmitidos pela picada do mosquito Anopheles. As demais alternativas confundem agentes e vetores de outras doenças."
   },
   {
