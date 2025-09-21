@@ -3293,5 +3293,120 @@
     ],
     "correta": "Até 2030.",
     "comentario": "A Agenda 2030 da ONU estabeleceu esse prazo para cumprimento dos ODS."
+  },
+  {
+    "texto": null,
+    "pergunta": "Durante as visitas domiciliares, o ACE realiza:",
+    "alternativas": [
+      "Apenas visitas educativas sem ações práticas",
+      "A vistoria de criadouros de mosquitos e orientações preventivas",
+      "Consultas médicas em domicílio",
+      "Apenas o controle de doenças já existentes"
+    ],
+    "correta": "A vistoria de criadouros de mosquitos e orientações preventivas",
+    "comentario": "O papel do ACE vai além de observar: ele inspeciona potenciais focos do vetor e, ao mesmo tempo, orienta os moradores sobre como prevenir a proliferação de mosquitos e outras endemias."
+  },
+  {
+    "texto": null,
+    "pergunta": "O que o ACE deve fazer caso identifique sinais de doenças durante a visita domiciliar?",
+    "alternativas": [
+      "Iniciar o tratamento no local",
+      "Fornecer medicamentos diretamente",
+      "Orientar o morador a procurar atendimento médico",
+      "Ignorar os sintomas"
+    ],
+    "correta": "Orientar o morador a procurar atendimento médico",
+    "comentario": "O ACE não pode diagnosticar ou medicar, mas atua como elo entre a comunidade e os serviços de saúde, encaminhando os moradores quando identifica sinais de alerta."
+  },
+  {
+    "texto": null,
+    "pergunta": "Durante a visita domiciliar, o ACE deve:",
+    "alternativas": [
+      "Realizar atividades educativas e sensibilizar a comunidade",
+      "Apenas fazer registros sem interagir com os moradores",
+      "Somente realizar inspeções e esperar que os moradores ajam",
+      "Realizar exames médicos em todos os moradores"
+    ],
+    "correta": "Realizar atividades educativas e sensibilizar a comunidade",
+    "comentario": "A função educativa é central. Além da inspeção, o ACE conscientiza os moradores, favorecendo mudanças de comportamento que diminuem o risco de transmissão de doenças."
+  },
+  {
+    "texto": null,
+    "pergunta": "O Levantamento Rápido de Índices (LIRAa) ajuda a:",
+    "alternativas": [
+      "Determinar a necessidade de vacina para a população",
+      "Realizar testes de laboratório sobre as doenças",
+      "Contabilizar os atendimentos médicos realizados",
+      "Identificar áreas com maior infestação de mosquitos"
+    ],
+    "correta": "Identificar áreas com maior infestação de mosquitos",
+    "comentario": "O LIRAa é uma ferramenta estratégica que permite mapear rapidamente os locais com maior risco, auxiliando no direcionamento das ações de controle."
+  },
+  {
+    "texto": null,
+    "pergunta": "Quais são os principais desafios enfrentados pelo ACE durante as visitas domiciliares?",
+    "alternativas": [
+      "A falta de tempo para visitar todos os domicílios",
+      "A dificuldade de comunicação com os médicos",
+      "A resistência da população e a falta de recursos",
+      "O excesso de casos de doenças já diagnosticadas"
+    ],
+    "correta": "A resistência da população e a falta de recursos",
+    "comentario": "Muitas vezes o ACE encontra dificuldade no acesso aos domicílios ou enfrenta desconfiança dos moradores, além de lidar com limitações estruturais do serviço."
+  },
+  {
+    "texto": null,
+    "pergunta": "A visita domiciliar é uma das principais ações desenvolvidas pelos Agentes de Combate a Endemias (ACE). Isso posto, analise as afirmativas abaixo e identifique a correta:",
+    "alternativas": [
+      "As visitas domiciliares não devem ser precedidas de ações de planejamento, preparação e organização das atividades.",
+      "Para o desenvolvimento das ações, os ACE estabelecem os locais de atuação de cada equipe, sem dimensionar a área de atuação de cada uma.",
+      "O ACE não deve considerar as informações obtidas na execução das visitas domiciliares.",
+      "A presença regular dos ACE nas residências em áreas prioritárias é uma importante medida para a promoção de informações que possam favorecer a mudança de comportamento."
+    ],
+    "correta": "A presença regular dos ACE nas residências em áreas prioritárias é uma importante medida para a promoção de informações que possam favorecer a mudança de comportamento.",
+    "comentario": "A regularidade da presença dos ACE garante vínculo com a comunidade e aumenta a eficácia das ações de prevenção."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre a visita domiciliar, assinale a alternativa CORRETA:",
+    "alternativas": [
+      "A parte externa, como pátios, não devem ser inspecionados na visita, pois toma-se como prioridade o interior do domicílio.",
+      "A técnica a ser adotada na visita de uma casa ocorre conforme a vontade de cada Agente de Controle de Endemias (ACE).",
+      "No interior das habitações, o Agente de Controle de Endemias (ACE) pode circular livremente, sem comunicar sua atividade para o morador.",
+      "No lado interno da porta do banheiro ou cozinha deve ser posicionada a “Ficha de Visita”."
+    ],
+    "correta": "No lado interno da porta do banheiro ou cozinha deve ser posicionada a “Ficha de Visita”.",
+    "comentario": "Essa ficha funciona como registro e acompanhamento das inspeções, permitindo continuidade do trabalho e controle histórico das visitas."
+  },
+  {
+    "texto": null,
+    "pergunta": "A visita domiciliar é uma técnica chave na atuação dos agentes de endemias. Qual é o objetivo principal das visitas domiciliares realizadas pelos agentes de endemias?",
+    "alternativas": [
+      "Coletar dados pessoais dos moradores para registros governamentais.",
+      "Realizar apenas inspeções superficiais sem interação com os moradores.",
+      "Identificar e eliminar potenciais focos de vetores e educar a população sobre prevenção.",
+      "Focar exclusivamente na aplicação de inseticidas."
+    ],
+    "correta": "Identificar e eliminar potenciais focos de vetores e educar a população sobre prevenção.",
+    "comentario": "O foco da visita é duplo: eliminar riscos imediatos (como criadouros) e reforçar a consciência coletiva sobre prevenção."
+  },
+  {
+    "texto": null,
+    "pergunta": "Na organização das atividades de campo, é preconizado pelo Ministério da Saúde (Diretrizes Nacionais do Controle da Dengue, p. 70) que, em situação de zoneamento, nos municípios infectados por Aedes aegypti, o agente é responsável por uma zona proporcional de 800 a 1.000 imóveis que devem ser visitados em ciclos:",
+    "alternativas": ["mensais", "bimensais", "trimestrais", "semestrais"],
+    "correta": "bimensais",
+    "comentario": "O ciclo bimestral é o padrão adotado para que haja um acompanhamento eficaz dos imóveis, respeitando o ciclo de vida do Aedes aegypti."
+  },
+  {
+    "texto": null,
+    "pergunta": "Como as visitas domiciliares realizadas pelos ACE são planejadas:",
+    "alternativas": [
+      "Baseadas apenas na intuição dos agentes.",
+      "Sem a necessidade de preparação prévia.",
+      "Com base no território de atuação e envolvendo diferentes atores do programa de controle.",
+      "Planejadas exclusivamente pelos gestores da área de manejo vetorial."
+    ],
+    "correta": "Com base no território de atuação e envolvendo diferentes atores do programa de controle.",
+    "comentario": "O planejamento é coletivo e estratégico, articulando ACE, supervisores, gestores e comunidade para garantir efetividade nas ações."
   }
 ]
