@@ -3480,5 +3480,185 @@
     ],
     "correta": "Cada visita domiciliar deve ser ajustada de acordo com as circunstâncias encontradas no momento da vistoria.",
     "comentario": "A visita personalizada significa que o ACE deve adaptar suas orientações e ações à realidade de cada residência, sem se limitar a padrões rígidos."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o guia de vigilância, qual é o efeito da exposição direta ao sol sobre as fezes contendo ovos de *Schistosoma mansoni*?",
+    "alternativas": [
+      "A sobrevida dos miracídios dentro dos ovos aumenta para dez dias.",
+      "Os ovos eclodem imediatamente, liberando os miracídios na terra.",
+      "Os ovos se tornam mais resistentes e permanecem viáveis por meses.",
+      "A morte dos miracídios dentro dos ovos ocorre em até 48 horas."
+    ],
+    "correta": "A morte dos miracídios dentro dos ovos ocorre em até 48 horas.",
+    "comentario": "O texto afirma que a exposição solar direta provoca a morte dos miracídios em um período de 48 horas."
+  },
+  {
+    "texto": null,
+    "pergunta": "No contexto da vigilância entomológica de arboviroses urbanas, o que o Índice de Infestação Predial (IIP) avalia?",
+    "alternativas": [
+      "O número total de mosquitos adultos capturados em armadilhas numa determinada área.",
+      "O percentual de edifícios que apresentam a presença de larvas de Aedes aegypti.",
+      "A relação entre o número de recipientes com larvas e o total de imóveis pesquisados.",
+      "A quantidade de ovos de Aedes aegypti coletados por meio de ovitrampas."
+    ],
+    "correta": "O percentual de edifícios que apresentam a presença de larvas de Aedes aegypti.",
+    "comentario": "A fonte define o IIP exatamente como o percentual de imóveis (edifícios) positivos para larvas do vetor."
+  },
+  {
+    "texto": null,
+    "pergunta": "Segundo o material sobre Educação Popular em Saúde, qual é um dos cinco princípios fundamentais para educadores, conforme explanado por Paulo Freire?",
+    "alternativas": [
+      "Saber ouvir.",
+      "Impor soluções técnicas para problemas sociais complexos.",
+      "Impor soluções técnicas para problemas sociais complexos.",
+      "Ignorar a ingenuidade dos educandos para acelerar o aprendizado."
+    ],
+    "correta": "Saber ouvir.",
+    "comentario": "O documento lista 'Saber ouvir' como o primeiro princípio fundamental de Paulo Freire para a prática educativa."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é o principal reservatório da leishmaniose visceral (LV) em áreas urbanas no Brasil?",
+    "alternativas": [
+      "Os marsupiais (*Didelphis albiventris*).",
+      "O cão (*Canis familiaris*).",
+      "As raposas (*Dusicyon vetulus* e *Cerdocyon thous*).",
+      "O ser humano."
+    ],
+    "correta": "O cão (*Canis familiaris*).",
+    "comentario": "O guia afirma que 'na área urbana, o cão (Canis familiaris) é a principal fonte de infecção', precedendo os casos humanos."
+  },
+  {
+    "texto": null,
+    "pergunta": "Em um acidente crotálico (causado por cascavel), qual é a principal complicação sistêmica que representa a maior causa de óbito?",
+    "alternativas": [
+      "Insuficiência renal aguda.",
+      "Paralisia respiratória imediata.",
+      "Hemorragia digestiva intensa.",
+      "Necrose extensa no local da picada."
+    ],
+    "correta": "Insuficiência renal aguda.",
+    "comentario": "O guia de vigilância aponta a insuficiência renal aguda como a principal complicação e causa de morte nesses acidentes."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é o período em que um ser humano infectado com o vírus da dengue pode transmiti-lo para o mosquito *Aedes aegypti*?",
+    "alternativas": [
+      "Apenas durante as primeiras 24 horas de febre.",
+      "Do sétimo ao décimo quarto dia após o início dos sintomas.",
+      "Durante toda a vida do indivíduo após a infecção.",
+      "De um dia antes do aparecimento da febre até o sexto dia da doença."
+    ],
+    "correta": "De um dia antes do aparecimento da febre até o sexto dia da doença.",
+    "comentario": "O material especifica que o período de viremia 'começa 1 dia antes do aparecimento da febre e vai até o 6º dia da doença'."
+  },
+  {
+    "texto": null,
+    "pergunta": "Na esquistossomose mansônica, a hipertensão pulmonar é uma complicação grave. Qual valor da pressão média da artéria pulmonar, medido em repouso por cateterismo cardíaco, confirma o diagnóstico?",
+    "alternativas": [
+      "Maior que 50mmHg.",
+      "Menor que 15 mmHg.",
+      "Exatamente 20 mmHg.",
+      "Maior que 25 mmHg."
+    ],
+    "correta": "Maior que 25 mmHg.",
+    "comentario": "O guia estabelece que a confirmação diagnóstica ocorre com uma pressão média da artéria pulmonar superior a 25 mmHg em repouso."
+  },
+  {
+    "texto": null,
+    "pergunta": "Para a confirmação laboratorial da raiva em um paciente vivo, qual dos seguintes métodos é indicado?",
+    "alternativas": [
+      "Sorologia por MAC-ELISA para detecção de anticorpos IgM no soro.",
+      "Imunofluorescência direta (IFD) em biópsia de pele da região cervical.",
+      "Hemograma completo para observar alterações nos leucócitos.",
+      "Cultura de amostra de fezes para isolamento viral."
+    ],
+    "correta": "Imunofluorescência direta (IFD) em biópsia de pele da região cervical.",
+    "comentario": "A fonte indica a IFD em tecido bulbar de folículos pilosos, obtido por biópsia de pele, como um método para diagnóstico em vida."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual das seguintes ações se alinha ao tema prioritário 'promoção da cultura da paz e de direitos humanos' da Política Nacional de Promoção da Saúde (PNPS)?",
+    "alternativas": [
+      "Intervir nos modos de consumo e produção que são deletérios à saúde.",
+      "Realizar o monitoramento e a avaliação de programas de saúde no âmbito estadual.",
+      "Garantir o trânsito seguro para a redução de acidentes e mortes.",
+      "Estimular a mediação de conflitos e o respeito às diversidades."
+    ],
+    "correta": "Estimular a mediação de conflitos e o respeito às diversidades.",
+    "comentario": "O texto descreve este tema como ações que favorecem a mediação de conflitos e o respeito às diversidades para a redução das violências."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é a conduta de enfermagem recomendada para um paciente hospitalizado com tétano acidental?",
+    "alternativas": [
+      "Realizar fisioterapia motora intensiva para combater a rigidez muscular.",
+      "Administrar a vacina DTP como única medida terapêutica de urgência.",
+      "Manter o paciente em ambiente com poucos estímulos, como baixa luminosidade e ruído.",
+      "Aplicar o isolamento respiratório para evitar a transmissão da bactéria."
+    ],
+    "correta": "Manter o paciente em ambiente com poucos estímulos, como baixa luminosidade e ruído",
+    "comentario": "O guia orienta que a internação seja em ambientes com poucos estímulos para não desencadear as crises de contraturas musculares."
+  },
+  {
+    "texto": null,
+    "pergunta": "Sobre o período de transmissibilidade da febre tifoide, qual afirmação está correta?",
+    "alternativas": [
+      "A eliminação da bactéria nas fezes pode persistir por meses e alguns pacientes se tornam portadores crônicos.",
+      "A doença não é transmitida de pessoa a pessoa, apenas pela ingestão de alimentos contaminados.",
+      "A transmissão ocorre exclusivamente durante o período em que o paciente apresenta febre.",
+      "A transmissão cessa completamente logo após o início do tratamento com antibióticos."
+    ],
+    "correta": "A eliminação da bactéria nas fezes pode persistir por meses e alguns pacientes se tornam portadores crônicos.",
+    "comentario": "A fonte informa que um percentual de pacientes continua eliminando bacilos por até 3 meses e alguns se tornam portadores crônicos."
+  },
+  {
+    "texto": null,
+    "pergunta": "No tratamento da leishmaniose visceral com antimoniato de N-metil glucamina, qual é o principal efeito adverso que exige monitoramento contínuo?",
+    "alternativas": [
+      "Toxicidade cardiovascular, detectada por alterações no eletrocardiograma.",
+      "Toxicidade hepática grave, com necessidade de suspensão imediata.",
+      "Insuficiência renal aguda, exigindo monitoramento da creatinina.",
+      "Reação alérgica cutânea, como urticária e angioedema."
+    ],
+    "correta": "Toxicidade cardiovascular, detectada por alterações no eletrocardiograma.",
+    "comentario": "O texto destaca que o principal efeito adverso é a ação sobre o aparelho cardiovascular, recomendando a realização de ECG semanal."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual espécie de *Biomphalaria* é destacada nos materiais como tendo grande importância epidemiológica na transmissão da esquistossomose nos estados das regiões Sul e Sudeste do Brasil?",
+    "alternativas": [
+      "*Biomphalaria amazônica*.",
+      "*Biomphalaria tenagophila*.",
+      "*Biomphalaria glabrata*.",
+      "*Biomphalaria straminea*."
+    ],
+    "correta": "*Biomphalaria tenagophila*.",
+    "comentario": "O documento afirma que esta espécie é responsável pela maioria dos casos autóctones em São Paulo e pelos focos em Santa Catarina."
+  },
+  {
+    "texto": null,
+    "pergunta": "Qual é a principal alteração sistêmica causada pelo veneno de lagartas do gênero *Lonomia*?",
+    "alternativas": [
+      "Insuficiência respiratória por broncoespasmo.",
+      "Distúrbio na coagulação sanguínea.",
+      "Necrose tecidual extensa no local do contato.",
+      "Paralisia muscular progressiva."
+    ],
+    "correta": "Distúrbio na coagulação sanguínea.",
+    "comentario": "O guia informa que uma parcela significativa dos pacientes acidentados por Lonomia desenvolve distúrbios de coagulação, com risco de sangramentos."
+  },
+  {
+    "texto": null,
+    "pergunta": "De acordo com o Guia de Vigilância Epidemiológica, qual é o objetivo primordial da investigação de um surto ou epidemia?",
+    "alternativas": [
+      "Publicar os resultados em um relatório científico para a comunidade acadêmica.",
+      "Implementar imediatamente as medidas de controle para interromper a transmissão.",
+      "Identificar a fonte da infecção para aplicar as sanções legais cabíveis.",
+      "Coletar o máximo de dados possível para alimentar o Sistema de Informação de Agravos de Notificação (Sinan)."
+    ],
+    "correta": "Implementar imediatamente as medidas de controle para interromper a transmissão.",
+    "comentario": "O texto enfatiza que a implementação imediata de medidas de controle é o objetivo primordial da maioria das investigações epidemiológicas."
   }
 ]
