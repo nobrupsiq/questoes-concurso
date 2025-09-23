@@ -3408,5 +3408,77 @@
     ],
     "correta": "Com base no território de atuação e envolvendo diferentes atores do programa de controle.",
     "comentario": "O planejamento é coletivo e estratégico, articulando ACE, supervisores, gestores e comunidade para garantir efetividade nas ações."
+  },
+  {
+    "texto": "O Agente de Combate a Endemias (ACE) é um profissional da saúde pública que desempenha papel crucial no controle e erradicação de doenças transmissíveis, como as arboviroses (dengue, chikungunya e zika), além de outras doenças relacionadas ao vetor Aedes aegypti e outros organismos que afetam a saúde pública. O trabalho desse profissional é focado na:",
+    "pergunta": "Qual é o foco principal do trabalho do ACE?",
+    "alternativas": [
+      "Na vistoria de imóveis somente se estiverem fechados.",
+      "Na identificação, controle e eliminação de criadouros dos vetores, através da conscientização da população e da execução de atividades educativas, preventivas e de vigilância em saúde.",
+      "Na utilização de inseticidas em todos os depósitos que contenham água.",
+      "Na saúde dos moradores, inclusive na distribuição de medicamentos e exames médicos."
+    ],
+    "correta": "Na identificação, controle e eliminação de criadouros dos vetores, através da conscientização da população e da execução de atividades educativas, preventivas e de vigilância em saúde.",
+    "comentario": "O ACE atua principalmente na prevenção e controle de vetores, com ênfase em eliminar criadouros e orientar a população, não na assistência clínica direta."
+  },
+  {
+    "texto": "IBAM 2024 - Quanto as visitas domiciliares realizadas pelos ACE, podemos afirmar que:",
+    "pergunta": "Como devem ser realizadas as visitas domiciliares pelos ACE?",
+    "alternativas": [
+      "São realizadas de forma unilateral pelo ACE, sem necessidade de planejamento prévio.",
+      "São realizadas em formato de entrevista, onde a participação da população se restringe a responder os questionários.",
+      "São realizadas de forma personalizada, o que permite ao ACE avaliar as condições de cada residência e oferecer dicas específicas para cada caso.",
+      "São realizadas de forma individualizada pelo ACE, pois a atuação com outros profissionais não se torna necessária."
+    ],
+    "correta": "São realizadas de forma personalizada, o que permite ao ACE avaliar as condições de cada residência e oferecer dicas específicas para cada caso.",
+    "comentario": "A visita domiciliar deve ser adaptada à realidade de cada domicílio, permitindo orientações específicas e ações mais eficazes."
+  },
+  {
+    "texto": "IBAM 2024 - A vista domiciliar do ACE é de extrema importância para promover a qualidade de vida da população, portanto, exerce um papel relevante no que diz respeito a expansão do SUS e sua abrangência. Nesse sentido, podemos afirmar que:",
+    "pergunta": "Qual é a importância da presença do ACE na comunidade?",
+    "alternativas": [
+      "A presença do ACE, portanto, não é apenas técnica, mas também social, pois ele é um elo entre a comunidade e os serviços de saúde.",
+      "A presença do ACE, portanto, é essencialmente técnica e também social, pois ele é um elo entre a comunidade e os serviços de saúde.",
+      "A presença do ACE, portanto, é apenas técnica e social, pois ele é um elo entre e os serviços de saúde e tratamento dos usuários.",
+      "A presença do ACE, portanto, não é apenas técnica, mas também social, pois ele exerce um papel dispensável entre a comunidade e os serviços de saúde."
+    ],
+    "correta": "A presença do ACE, portanto, não é apenas técnica, mas também social, pois ele é um elo entre a comunidade e os serviços de saúde.",
+    "comentario": "O ACE tem função técnica e também social, pois aproxima a população dos serviços de saúde, fortalecendo a vigilância e a promoção da saúde."
+  },
+  {
+    "texto": "A visita domiciliar realizada pelo ACE possui vários aspectos e objetivos para promover a saúde preventiva da população. Das alternativas abaixo, qual não apresenta um objetivo da visita domiciliar?",
+    "pergunta": "Qual das alternativas NÃO é um objetivo da visita domiciliar do ACE?",
+    "alternativas": [
+      "A conscientização sobre prevenção de doenças endêmicas.",
+      "O tratamento quando necessário de depósitos que possam ser proliferadores de vetores de doenças.",
+      "A detecção precoce de casos suspeitos de doenças, procurando evitar a proliferação das mesmas.",
+      "A remoção de depósitos que contenham ou possam conter água parada para terrenos baldios."
+    ],
+    "correta": "A remoção de depósitos que contenham ou possam conter água parada para terrenos baldios.",
+    "comentario": "O ACE não realiza remoção física de depósitos para terrenos baldios; seu papel é orientar, tratar e eliminar criadouros quando possível, dentro da área inspecionada."
+  },
+  {
+    "texto": "Ao realizar as visitas domiciliares, o ACE deve se atentar a algumas questões técnicas na realização das mesmas. Sendo assim, qual das alternativas abaixo está correta:",
+    "pergunta": "Qual procedimento correto o ACE deve adotar durante a visita domiciliar?",
+    "alternativas": [
+      "Autorizada a visita pelo morador, o ACE deve seguir pela esquerda na vistoria.",
+      "Ao terminar a vistoria interna do domicílio, o ACE deverá realizar a anotações na ficha de visita, que deve estar fixada preferencialmente na porta do banheiro.",
+      "Ao se deparar com um pneu no quintal, o ACE deverá obrigatoriamente realizar o tratamento com o larvicida.",
+      "Se encontrar foco em um determinado depósito, o procedimento correto é descartar a água com as larvas em um ralo ou pia."
+    ],
+    "correta": "Se encontrar foco em um determinado depósito, o procedimento correto é descartar a água com as larvas em um ralo ou pia.",
+    "comentario": "O descarte correto da água com larvas é em ralo ou pia, evitando a manutenção de criadouros e impedindo a proliferação do vetor."
+  },
+  {
+    "texto": "A visita domiciliar tem caráter personalizado, isso quer dizer que:",
+    "pergunta": "O que significa o caráter personalizado da visita domiciliar?",
+    "alternativas": [
+      "Exige um padrão repetitivo das abordagens aos moradores.",
+      "Cada visita domiciliar deve ser ajustada de acordo com as circunstâncias encontradas no momento da vistoria.",
+      "Deve ser realizada de forma breve e se atentar as normas aplicáveis em todas as vistorias.",
+      "Poderá ter abordagens educativas, a depender se o ACE quiser aplicá-las."
+    ],
+    "correta": "Cada visita domiciliar deve ser ajustada de acordo com as circunstâncias encontradas no momento da vistoria.",
+    "comentario": "A visita personalizada significa que o ACE deve adaptar suas orientações e ações à realidade de cada residência, sem se limitar a padrões rígidos."
   }
 ]
