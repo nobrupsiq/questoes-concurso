@@ -62,7 +62,11 @@ document.addEventListener("DOMContentLoaded", () => {
       quizContainerDiv.style.display = "block";
 
       const nomeTema =
-        temaAtual === "endemias" ? "Agente de Endemias" : "Português";
+        tema === "endemias"
+          ? "Agente de Endemias"
+          : tema === "lei8080"
+          ? "Lei 8080/1990"
+          : "Português";
       tituloQuizEl.textContent = nomeTema;
       mostrarQuestao();
     }
@@ -76,24 +80,32 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function inicializar() {
     try {
-      // Carrega os dois arquivos JSON ao mesmo tempo
-      let [questoesEndemias, questoesPortugues] = await Promise.all([
-        fetch("questoes_endemias.json").then((res) => res.json()),
-        fetch("questoes_portugues.json").then((res) => res.json()),
-      ]);
+      // Carrega os três arquivos JSON ao mesmo tempo
+      let [questoesEndemias, questoesLei8080, questoesPortugues] =
+        await Promise.all([
+          fetch("questoes_endemias.json").then((res) => res.json()),
+          fetch("questoes_lei8080.json").then((res) => res.json()),
+          fetch("questoes_portugues.json").then((res) => res.json()),
+        ]);
 
       // Remove duplicadas de cada tema
       questoesEndemias = removerDuplicadas(questoesEndemias);
+      questoesLei8080 = removerDuplicadas(questoesLei8080);
       questoesPortugues = removerDuplicadas(questoesPortugues);
 
-      // Adiciona uma propriedade "tema" em cada questão para filtragem
+      // Marca o tema em cada questão
       questoesEndemias.forEach((q) => (q.tema = "endemias"));
+      questoesLei8080.forEach((q) => (q.tema = "lei8080"));
       questoesPortugues.forEach((q) => (q.tema = "portugues"));
 
       // Junta todas as questões em um único array
-      todasAsQuestoes = [...questoesEndemias, ...questoesPortugues];
+      todasAsQuestoes = [
+        ...questoesEndemias,
+        ...questoesLei8080,
+        ...questoesPortugues,
+      ];
 
-      // Tenta carregar um progresso salvo
+      // Tenta carregar progresso salvo
       carregarProgresso();
     } catch (erro) {
       console.error("Não foi possível carregar as questões:", erro);

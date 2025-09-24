@@ -1,0 +1,14 @@
+[
+  {
+    "texto": null,
+    "pergunta": "Qual é o principal objetivo da Lei 8.080/1990?",
+    "alternativas": [
+      "Organizar o SUS",
+      "Definir crimes contra a saúde",
+      "Criar o Ministério da Saúde",
+      "Regular o exercício da medicina"
+    ],
+    "correta": "Organizar o SUS",
+    "comentario": "A Lei 8.080/1990 é conhecida como a Lei Orgânica da Saúde, responsável por regulamentar o SUS."
+  }
+]
